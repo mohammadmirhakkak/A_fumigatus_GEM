@@ -1,0 +1,1921 @@
+,Substrates,Plate,Well_id,Source,Strain,ID,in_gap_filled,Growth_status_stat
+1,Negative Control,PM1,A01,carbon,Af293,,NA,0
+2,L-Arabinose,PM1,A02,carbon,Af293,C00259,0,1
+3,N-Acetyl-D-Glucosamine,PM1,A03,carbon,Af293,C00140,0,1
+4,D-Saccharic acid,PM1,A04,carbon,Af293,C00818,0,1
+5,Succinic acid,PM1,A05,carbon,Af293,C00042,0,1
+6,D-Galactose,PM1,A06,carbon,Af293,C00124,0,1
+7,L-Aspartic acid,PM1,A07,carbon,Af293,C00049,0,1
+8,L-Proline,PM1,A08,carbon,Af293,C00148,0,1
+9,D-Alanine,PM1,A09,carbon,Af293,,NA,0
+10,D-Trehalose,PM1,A10,carbon,Af293,C01083,0,1
+11,D-Mannose,PM1,A11,carbon,Af293,C00159,0,1
+12,Dulcitol,PM1,A12,carbon,Af293,C01697,0,1
+13,D-Serine,PM1,B01,carbon,Af293,C00740,0,0
+14,D-Sorbitol,PM1,B02,carbon,Af293,C00794,0,1
+15,Glycerol,PM1,B03,carbon,Af293,C00116,0,1
+16,L-Fucose,PM1,B04,carbon,Af293,C01019,0,0
+17,D-Glucuronic acid,PM1,B05,carbon,Af293,C00191,0,1
+18,D-Gluconic acid,PM1,B06,carbon,Af293,C00257,0,1
+19,DL-a-Glycerol Phosphate,PM1,B07,carbon,Af293,C00093,0,0
+20,D-Xylose,PM1,B08,carbon,Af293,C00181,0,1
+21,L-Lactic acid,PM1,B09,carbon,Af293,C00186,0,1
+22,Formic acid,PM1,B10,carbon,Af293,C00058,0,0
+23,D-Mannitol,PM1,B11,carbon,Af293,C00392,0,1
+24,L-Glutamic acid,PM1,B12,carbon,Af293,C00025,0,1
+25,D-Glucose-6-Phosphate,PM1,C01,carbon,Af293,C00092,0,0
+26,D-Galactonic acid-g-Lactone,PM1,C02,carbon,Af293,,NA,0
+27,DL-Malic acid,PM1,C03,carbon,Af293,C00149,0,1
+28,D-Ribose,PM1,C04,carbon,Af293,C00121,0,1
+29,Tween 20,PM1,C05,carbon,Af293,,NA,1
+30,L-Rhamnose,PM1,C06,carbon,Af293,C00507,1,1
+31,D-Fructose,PM1,C07,carbon,Af293,C00095,0,1
+32,Acetic acid,PM1,C08,carbon,Af293,C00033,0,1
+33,a-D-Glucose,PM1,C09,carbon,Af293,C00031,0,1
+34,Maltose,PM1,C10,carbon,Af293,C00208,0,1
+35,D-Melibiose,PM1,C11,carbon,Af293,C05402,0,1
+36,Thymidine,PM1,C12,carbon,Af293,C00214,0,0
+37,L-Asparagine,PM1,D01,carbon,Af293,C00152,0,1
+38,D-Aspartic acid,PM1,D02,carbon,Af293,,NA,0
+39,D-Glucosaminic acid,PM1,D03,carbon,Af293,C03752,1,0
+40,"1,2-Propanediol",PM1,D04,carbon,Af293,C00583,1,0
+41,Tween 40,PM1,D05,carbon,Af293,,NA,1
+42,a-Ketoglutaric acid,PM1,D06,carbon,Af293,C00026,0,1
+43,a-Ketobutyric acid,PM1,D07,carbon,Af293,C00109,0,0
+44,a-Methyl-D-Galactoside,PM1,D08,carbon,Af293,,NA,0
+45,a-D-Lactose,PM1,D09,carbon,Af293,C00243,0,0
+46,Lactulose,PM1,D10,carbon,Af293,,NA,0
+47,Sucrose,PM1,D11,carbon,Af293,C00089,0,1
+48,Uridine,PM1,D12,carbon,Af293,C00299,0,0
+49,L-Glutamine,PM1,E01,carbon,Af293,C00064,0,1
+50,m-Tartaric acid,PM1,E02,carbon,Af293,C00552,1,0
+51,D-Glucose-1-Phosphate,PM1,E03,carbon,Af293,C00103,0,0
+52,D-Fructose-6-Phosphate,PM1,E04,carbon,Af293,C00085,0,0
+53,Tween 80,PM1,E05,carbon,Af293,,NA,0
+54,a-Hydroxyglutaric acid-g-Lactone,PM1,E06,carbon,Af293,,NA,0
+55,a-Hydroxybutyric acid,PM1,E07,carbon,Af293,C05984,0,0
+56,b-Methyl-D-Glucoside,PM1,E08,carbon,Af293,,NA,0
+57,Adonitol,PM1,E09,carbon,Af293,C00474,0,0
+58,Maltotriose,PM1,E10,carbon,Af293,CHEBI27931,0,1
+59,2`-Deoxyadenosine,PM1,E11,carbon,Af293,C00559,0,0
+60,Adenosine,PM1,E12,carbon,Af293,C00212,0,0
+61,Gly-Asp,PM1,F01,carbon,Af293,Cluster363,1,0
+62,Citric acid,PM1,F02,carbon,Af293,C00158,0,0
+63,m-Inositol,PM1,F03,carbon,Af293,C00137,0,1
+64,D-Threonine,PM1,F04,carbon,Af293,,NA,0
+65,Fumaric acid,PM1,F05,carbon,Af293,C00122,0,1
+66,Bromosuccinic acid,PM1,F06,carbon,Af293,,NA,0
+67,Propionic acid,PM1,F07,carbon,Af293,C00163,0,1
+68,Mucic acid,PM1,F08,carbon,Af293,,NA,0
+69,Glycolic acid,PM1,F09,carbon,Af293,C00160,0,1
+70,Glyoxylic acid,PM1,F10,carbon,Af293,C00048,0,0
+71,D-Cellobiose,PM1,F11,carbon,Af293,C00185,0,1
+72,Inosine,PM1,F12,carbon,Af293,C00294,0,0
+73,Gly-Glu,PM1,G01,carbon,Af293,Cluster4672,1,0
+74,Tricarballylic acid,PM1,G02,carbon,Af293,,NA,0
+75,L-Serine,PM1,G03,carbon,Af293,C00065,0,1
+76,L-Threonine,PM1,G04,carbon,Af293,C00188,0,1
+77,L-Alanine,PM1,G05,carbon,Af293,C00133,0,1
+78,Ala-Gly,PM1,G06,carbon,Af293,Cluster774,1,0
+79,Acetoacetic acid,PM1,G07,carbon,Af293,C00164,0,0
+80,N-Acetyl-D-Mannosamine,PM1,G08,carbon,Af293,C00645,1,0
+81,Mono-Methylsuccinate,PM1,G09,carbon,Af293,,NA,0
+82,Methylpyruvate,PM1,G10,carbon,Af293,,NA,0
+83,D-Malic acid,PM1,G11,carbon,Af293,C00497,0,1
+84,L-Malic acid,PM1,G12,carbon,Af293,C00149,0,1
+85,Gly-Pro,PM1,H01,carbon,Af293,Cluster3300,1,1
+86,p-Hydroxyphenyl Acetic acid,PM1,H02,carbon,Af293,C00642,0,1
+87,m-Hydroxyphenyl Acetic acid,PM1,H03,carbon,Af293,,NA,1
+88,Tyramine,PM1,H04,carbon,Af293,C00483,0,1
+89,D-Psicose,PM1,H05,carbon,Af293,,NA,0
+90,L-Lyxose,PM1,H06,carbon,Af293,,NA,1
+91,Glucuronamide,PM1,H07,carbon,Af293,,NA,0
+92,Pyruvic acid,PM1,H08,carbon,Af293,C00022,0,1
+93,L-Galactonic acid-g-Lactone,PM1,H09,carbon,Af293,C01115,1,1
+94,D-Galacturonic acid,PM1,H10,carbon,Af293,C00333,0,1
+95,Phenylethylamine,PM1,H11,carbon,Af293,C05332,0,0
+96,2-Aminoethanol,PM1,H12,carbon,Af293,C00189,0,1
+97,Negative Control,PM2,A01,carbon,Af293,,NA,0
+98,Chondroitin Sulfate C,PM2,A02,carbon,Af293,,NA,0
+99,a-Cyclodextrin,PM2,A03,carbon,Af293,C00973,1,0
+100,b-Cyclodextrin,PM2,A04,carbon,Af293,C00973,1,1
+101,g-Cyclodextrin,PM2,A05,carbon,Af293,C00973,1,1
+102,Dextrin,PM2,A06,carbon,Af293,C00721,0,1
+103,Gelatin,PM2,A07,carbon,Af293,,NA,0
+104,Glycogen,PM2,A08,carbon,Af293,C00182,0,1
+105,Inulin,PM2,A09,carbon,Af293,,NA,0
+106,Laminarin,PM2,A10,carbon,Af293,,NA,1
+107,Mannan,PM2,A11,carbon,Af293,C00721,0,0
+108,Pectin,PM2,A12,carbon,Af293,CHEBI17309,0,1
+109,N-Acetyl-D-Galactosamine,PM2,B01,carbon,Af293,C01132,0,0
+110,N-Acetyl-Neuraminic acid,PM2,B02,carbon,Af293,C00270,0,0
+111,b-D-Allose,PM2,B03,carbon,Af293,,NA,0
+112,Amygdalin,PM2,B04,carbon,Af293,C08325,0,1
+113,D-Arabinose,PM2,B05,carbon,Af293,C00216,0,1
+114,D-Arabitol,PM2,B06,carbon,Af293,C01904,0,1
+115,L-Arabitol,PM2,B07,carbon,Af293,C00532,0,1
+116,Arbutin,PM2,B08,carbon,Af293,C06186,1,1
+117,2-Deoxy-D-Ribose,PM2,B09,carbon,Af293,C01801,0,1
+118,i-Erythritol,PM2,B10,carbon,Af293,C00503,0,1
+119,D-Fucose,PM2,B11,carbon,Af293,,NA,1
+120,3-O-b-D-Galactopyranosyl-D-Arabinose,PM2,B12,carbon,Af293,,NA,1
+121,Gentiobiose,PM2,C01,carbon,Af293,,NA,1
+122,L-Glucose,PM2,C02,carbon,Af293,,NA,0
+123,D-Lactitol,PM2,C03,carbon,Af293,,NA,0
+124,D-Melezitose,PM2,C04,carbon,Af293,,NA,1
+125,Maltitol,PM2,C05,carbon,Af293,,NA,1
+126,a-Methyl-D-Glucoside,PM2,C06,carbon,Af293,,NA,0
+127,b-Methyl-D-Galactoside,PM2,C07,carbon,Af293,,NA,0
+128,3-Methylglucose,PM2,C08,carbon,Af293,,NA,0
+129,b-Methyl-D-Glucuronic acid,PM2,C09,carbon,Af293,,NA,0
+130,a-Methyl-D-Mannoside,PM2,C10,carbon,Af293,,NA,0
+131,b-Methyl-D-Xyloside,PM2,C11,carbon,Af293,,NA,0
+132,Palatinose,PM2,C12,carbon,Af293,,NA,1
+133,D-Raffinose,PM2,D01,carbon,Af293,C00492,0,1
+134,Salicin,PM2,D02,carbon,Af293,C01451,1,1
+135,Sedoheptulosan,PM2,D03,carbon,Af293,,NA,0
+136,L-Sorbose,PM2,D04,carbon,Af293,C00247,0,1
+137,Stachyose,PM2,D05,carbon,Af293,C01613,0,1
+138,D-Tagatose,PM2,D06,carbon,Af293,C00795,1,1
+139,Turanose,PM2,D07,carbon,Af293,,NA,1
+140,Xylitol,PM2,D08,carbon,Af293,C00379,0,1
+141,N-Acetyl-D-Glucosaminitol,PM2,D09,carbon,Af293,,NA,0
+142,g-Amino-N-Butyric acid,PM2,D10,carbon,Af293,C00334,0,1
+143,d-Amino Valeric acid,PM2,D11,carbon,Af293,,NA,0
+144,Butyric acid,PM2,D12,carbon,Af293,C00246,0,1
+145,Capric acid,PM2,E01,carbon,Af293,C01571,0,0
+146,Caproic acid,PM2,E02,carbon,Af293,C01585,0,1
+147,Citraconic acid,PM2,E03,carbon,Af293,C02226,1,0
+148,Citramalic acid,PM2,E04,carbon,Af293,C02614,1,0
+149,D-Glucosamine,PM2,E05,carbon,Af293,C00329,0,1
+150,2-Hydroxybenzoic acid,PM2,E06,carbon,Af293,C00805,0,0
+151,4-Hydroxybenzoic acid,PM2,E07,carbon,Af293,C00156,0,0
+152,b-Hydroxybutyric acid,PM2,E08,carbon,Af293,C01089,0,1
+153,g-Hydroxybutyric acid,PM2,E09,carbon,Af293,,NA,1
+154,a-Keto-Valeric acid,PM2,E10,carbon,Af293,,NA,1
+155,Itaconic acid,PM2,E11,carbon,Af293,C00490,0,0
+156,5-Keto-D-Gluconic acid,PM2,E12,carbon,Af293,,NA,1
+157,D-Lactic acid Methyl Ester,PM2,F01,carbon,Af293,,NA,1
+158,Malonic acid,PM2,F02,carbon,Af293,,NA,0
+159,Melibionic acid,PM2,F03,carbon,Af293,,NA,0
+160,Oxalic acid,PM2,F04,carbon,Af293,C00209,0,0
+161,Oxalomalic acid,PM2,F05,carbon,Af293,,NA,1
+162,Quinic acid,PM2,F06,carbon,Af293,C00296,0,1
+163,"D-Ribono-1,4-Lactone",PM2,F07,carbon,Af293,,NA,1
+164,Sebacic acid,PM2,F08,carbon,Af293,C08277,1,1
+165,Sorbic acid,PM2,F09,carbon,Af293,,NA,1
+166,Succinamic acid,PM2,F10,carbon,Af293,,NA,1
+167,D-Tartaric acid,PM2,F11,carbon,Af293,,NA,0
+168,L-Tartaric acid,PM2,F12,carbon,Af293,,NA,0
+169,Acetamide,PM2,G01,carbon,Af293,C06244,0,0
+170,L-Alaninamide,PM2,G02,carbon,Af293,,NA,1
+171,N-Acetyl-L-Glutamic acid,PM2,G03,carbon,Af293,C00624,0,0
+172,L-Arginine,PM2,G04,carbon,Af293,C00062,0,1
+173,Glycine,PM2,G05,carbon,Af293,C00037,0,1
+174,L-Histidine,PM2,G06,carbon,Af293,C00135,0,0
+175,L-Homoserine,PM2,G07,carbon,Af293,C00263,0,0
+176,Hydroxy-L-Proline,PM2,G08,carbon,Af293,C01157,0,0
+177,L-Isoleucine,PM2,G09,carbon,Af293,C00407,0,1
+178,L-Leucine,PM2,G10,carbon,Af293,C00123,0,1
+179,L-Lysine,PM2,G11,carbon,Af293,C00047,0,1
+180,L-Methionine,PM2,G12,carbon,Af293,C00073,0,1
+181,L-Ornithine,PM2,H01,carbon,Af293,C00077,0,1
+182,L-Phenylalanine,PM2,H02,carbon,Af293,C00079,0,1
+183,L-Pyroglutamic acid,PM2,H03,carbon,Af293,C01879,0,1
+184,L-Valine,PM2,H04,carbon,Af293,C00183,0,1
+185,"D,L-Carnitine",PM2,H05,carbon,Af293,C15025,1,0
+186,sec-Butylamine,PM2,H06,carbon,Af293,,NA,0
+187,"D,L-Octopamine",PM2,H07,carbon,Af293,,NA,1
+188,Putrescine,PM2,H08,carbon,Af293,C00134,0,0
+189,Dihydroxyacetone,PM2,H09,carbon,Af293,C00184,0,1
+190,"2,3-Butanediol",PM2,H10,carbon,Af293,C03044,0,0
+191,"2,3-Butanedione",PM2,H11,carbon,Af293,C00741,1,1
+192,3-Hydroxy-2-buta,PM2,H12,carbon,Af293,,NA,1
+193,Negative Control,PM3,A01,nitrogen,Af293,,NA,0
+194,Ammonia,PM3,A02,nitrogen,Af293,C01342,0,1
+195,Nitrite,PM3,A03,nitrogen,Af293,C00088,0,1
+196,Nitrate,PM3,A04,nitrogen,Af293,C00244,0,1
+197,Urea,PM3,A05,nitrogen,Af293,C00086,0,1
+198,Biuret,PM3,A06,nitrogen,Af293,C06555,1,0
+199,L-Alanine,PM3,A07,nitrogen,Af293,C00133,0,1
+200,L-Arginine,PM3,A08,nitrogen,Af293,C00062,0,1
+201,L-Asparagine,PM3,A09,nitrogen,Af293,C00152,0,1
+202,L-Aspartic acid,PM3,A10,nitrogen,Af293,C00049,0,1
+203,L-Cysteine,PM3,A11,nitrogen,Af293,C00097,0,1
+204,L-Glutamic acid,PM3,A12,nitrogen,Af293,C00025,0,1
+205,L-Glutamine,PM3,B01,nitrogen,Af293,C00064,0,1
+206,Glycine,PM3,B02,nitrogen,Af293,C00037,0,1
+207,L-Histidine,PM3,B03,nitrogen,Af293,C00135,0,0
+208,L-Isoleucine,PM3,B04,nitrogen,Af293,C00407,0,0
+209,L-Leucine,PM3,B05,nitrogen,Af293,C00123,0,1
+210,L-Lysine,PM3,B06,nitrogen,Af293,C00047,0,1
+211,L-Methionine,PM3,B07,nitrogen,Af293,C00073,0,1
+212,L-Phenylalanine,PM3,B08,nitrogen,Af293,C00079,0,0
+213,L-Proline,PM3,B09,nitrogen,Af293,C00148,0,1
+214,L-Serine,PM3,B10,nitrogen,Af293,C00065,0,1
+215,L-Threonine,PM3,B11,nitrogen,Af293,C00188,0,1
+216,L-Tryptophan,PM3,B12,nitrogen,Af293,C00078,0,1
+217,L-Tyrosine,PM3,C01,nitrogen,Af293,C00082,0,1
+218,L-Valine,PM3,C02,nitrogen,Af293,C00183,0,1
+219,D-Alanine,PM3,C03,nitrogen,Af293,,NA,0
+220,D-Asparagine,PM3,C04,nitrogen,Af293,,NA,0
+221,D-Aspartic acid,PM3,C05,nitrogen,Af293,,NA,0
+222,D-Glutamic acid,PM3,C06,nitrogen,Af293,C00217,1,1
+223,D-Lysine,PM3,C07,nitrogen,Af293,C00739,0,0
+224,D-Serine,PM3,C08,nitrogen,Af293,C00740,0,0
+225,D-Valine,PM3,C09,nitrogen,Af293,,NA,0
+226,L-Citrulline,PM3,C10,nitrogen,Af293,C00327,0,1
+227,L-Homoserine,PM3,C11,nitrogen,Af293,C00263,0,1
+228,L-Ornithine,PM3,C12,nitrogen,Af293,C00077,0,1
+229,N-Acetyl-L-Glutamic acid,PM3,D01,nitrogen,Af293,C00624,0,0
+230,N-Phthaloyl-L-Glutamic acid,PM3,D02,nitrogen,Af293,,NA,0
+231,L-Pyroglutamic acid,PM3,D03,nitrogen,Af293,C01879,0,1
+232,Hydroxylamine,PM3,D04,nitrogen,Af293,,NA,0
+233,Methylamine,PM3,D05,nitrogen,Af293,C00218,0,1
+234,N-Amylamine,PM3,D06,nitrogen,Af293,,NA,0
+235,N-Butylamine,PM3,D07,nitrogen,Af293,,NA,0
+236,Ethylamine,PM3,D08,nitrogen,Af293,C00797,1,0
+237,Ethanolamine,PM3,D09,nitrogen,Af293,C00189,0,1
+238,Ethylenediamine,PM3,D10,nitrogen,Af293,,NA,0
+239,Putrescine,PM3,D11,nitrogen,Af293,C00134,0,1
+240,Agmatine,PM3,D12,nitrogen,Af293,C00179,0,1
+241,Histamine,PM3,E01,nitrogen,Af293,C00388,1,0
+242,b-Phenylethylamine,PM3,E02,nitrogen,Af293,C05332,0,1
+243,Tyramine,PM3,E03,nitrogen,Af293,C00483,0,1
+244,Acetamide,PM3,E04,nitrogen,Af293,C06244,0,0
+245,Formamide,PM3,E05,nitrogen,Af293,C00488,0,0
+246,Glucuronamide,PM3,E06,nitrogen,Af293,,NA,0
+247,DL-Lactamide,PM3,E07,nitrogen,Af293,,NA,1
+248,D-Glucosamine,PM3,E08,nitrogen,Af293,C00329,0,0
+249,D-Galactosamine,PM3,E09,nitrogen,Af293,C02262,1,0
+250,D-Mannosamine,PM3,E10,nitrogen,Af293,,NA,0
+251,N-Acetyl-D-Glucosamine,PM3,E11,nitrogen,Af293,C00140,0,1
+252,N-Acetyl-D-Galactosamine,PM3,E12,nitrogen,Af293,C01132,0,0
+253,N-Acetyl-D-Mannosamine,PM3,F01,nitrogen,Af293,C00645,1,0
+254,Adenine,PM3,F02,nitrogen,Af293,C00147,0,1
+255,Adenosine,PM3,F03,nitrogen,Af293,C00212,0,1
+256,Cytidine,PM3,F04,nitrogen,Af293,C00475,0,0
+257,Cytosine,PM3,F05,nitrogen,Af293,C00380,0,0
+258,Guanine,PM3,F06,nitrogen,Af293,C00242,0,1
+259,Guanosine,PM3,F07,nitrogen,Af293,C00387,0,1
+260,Thymine,PM3,F08,nitrogen,Af293,C00178,1,0
+261,Thymidine,PM3,F09,nitrogen,Af293,C00214,0,0
+262,Uracil,PM3,F10,nitrogen,Af293,C00106,0,0
+263,Uridine,PM3,F11,nitrogen,Af293,C00299,0,0
+264,Inosine,PM3,F12,nitrogen,Af293,C00294,0,1
+265,Xanthine,PM3,G01,nitrogen,Af293,C00385,0,1
+266,Xanthosine,PM3,G02,nitrogen,Af293,C01762,0,1
+267,Uric acid,PM3,G03,nitrogen,Af293,C00366,0,1
+268,Alloxan,PM3,G04,nitrogen,Af293,,NA,0
+269,Allantoin,PM3,G05,nitrogen,Af293,C01551,0,1
+270,Parabanic acid,PM3,G06,nitrogen,Af293,,NA,1
+271,DL-a-Amino-N-Butyric acid,PM3,G07,nitrogen,Af293,Cluster3316,1,0
+272,g-Amino-N-Butyric acid,PM3,G08,nitrogen,Af293,C00334,0,1
+273,e-Amino-N-Caproic acid,PM3,G09,nitrogen,Af293,C02378,1,0
+274,DL-a-Amino-Caprylic acid,PM3,G10,nitrogen,Af293,,NA,1
+275,d-Amino-N-Valeric acid,PM3,G11,nitrogen,Af293,C00431,0,1
+276,a-Amino-N-Valeric acid,PM3,G12,nitrogen,Af293,,NA,1
+277,Ala-Asp,PM3,H01,nitrogen,Af293,Cluster3898,1,1
+278,Ala-Gln,PM3,H02,nitrogen,Af293,Cluster1480,1,1
+279,Ala-Glu,PM3,H03,nitrogen,Af293,Cluster4793,1,1
+280,Ala-Gly,PM3,H04,nitrogen,Af293,Cluster774,1,1
+281,Ala-His,PM3,H05,nitrogen,Af293,Cluster5933,1,1
+282,Ala-Leu,PM3,H06,nitrogen,Af293,Cluster2744,1,1
+283,Ala-Thr,PM3,H07,nitrogen,Af293,Cluster843,1,1
+284,Gly-Asn,PM3,H08,nitrogen,Af293,Cluster2052,1,1
+285,Gly-Gln,PM3,H09,nitrogen,Af293,Cluster419,1,1
+286,Gly-Glu,PM3,H10,nitrogen,Af293,Cluster4672,1,1
+287,Gly-Met,PM3,H11,nitrogen,Af293,Cluster168,1,1
+288,Met-Ala,PM3,H12,nitrogen,Af293,,NA,1
+289,Negative Control,PM4,A01,phosphorus,Af293,,NA,0
+290,Phosphate,PM4,A02,phosphorus,Af293,C00009,0,0
+291,Pyrophosphate,PM4,A03,phosphorus,Af293,C00013,0,0
+292,Trimetaphosphate,PM4,A04,phosphorus,Af293,,NA,0
+293,Tripolyphosphate,PM4,A05,phosphorus,Af293,C00536,0,0
+294,Triethyl Phosphate,PM4,A06,phosphorus,Af293,,NA,0
+295,Hypophosphite,PM4,A07,phosphorus,Af293,,NA,0
+296,Adenosine 2`-Monophosphate,PM4,A08,phosphorus,Af293,CHEBI28223,0,0
+297,Adenosine 3`-Monophosphate,PM4,A09,phosphorus,Af293,,NA,0
+298,Adenosine 5`-Monophosphate,PM4,A10,phosphorus,Af293,C00020,0,0
+299,"Adenosine 2`,3`-Cyclic Monophosphate",PM4,A11,phosphorus,Af293,C02353,0,0
+300,"Adenosine 3`,5`-Cyclic Monophosphate",PM4,A12,phosphorus,Af293,C00575,0,1
+301,Thiophosphate,PM4,B01,phosphorus,Af293,,NA,0
+302,Dithiophosphate,PM4,B02,phosphorus,Af293,,NA,0
+303,DL-a-Glycerol Phosphate,PM4,B03,phosphorus,Af293,C00093,0,0
+304,b-Glycerol Phosphate,PM4,B04,phosphorus,Af293,,NA,0
+305,Carbamyl Phosphate,PM4,B05,phosphorus,Af293,C00169,0,0
+306,D-2-Phospho-Glyceric acid,PM4,B06,phosphorus,Af293,C00631,0,0
+307,D-3-Phospho-Glyceric acid,PM4,B07,phosphorus,Af293,C00197,0,0
+308,Guanosine 2`-Monophosphate,PM4,B08,phosphorus,Af293,Cluster519,0,0
+309,Guanosine 3`-Monophosphate,PM4,B09,phosphorus,Af293,,NA,0
+310,Guanosine 5`-Monophosphate,PM4,B10,phosphorus,Af293,C00144,0,0
+311,"Guanosine 2`,3`-Cyclic Monophosphate",PM4,B11,phosphorus,Af293,C06194,0,0
+312,"Guanosine 3`,5`-Cyclic Monophosphate",PM4,B12,phosphorus,Af293,C00942,0,0
+313,Phosphoenol Pyruvate,PM4,C01,phosphorus,Af293,C00074,0,0
+314,Phospho-Glycolic acid,PM4,C02,phosphorus,Af293,C00988,0,0
+315,D-Glucose-1-Phosphate,PM4,C03,phosphorus,Af293,C00103,0,0
+316,D-Glucose-6-Phosphate,PM4,C04,phosphorus,Af293,C00092,0,0
+317,2-Deoxy-D-Glucose 6-Phosphate,PM4,C05,phosphorus,Af293,C06369,1,0
+318,D-Glucosamine-6-Phosphate,PM4,C06,phosphorus,Af293,C00352,0,0
+319,6-Phospho-Gluconic acid,PM4,C07,phosphorus,Af293,C00345,0,0
+320,Cytidine 2`-Monophosphate,PM4,C08,phosphorus,Af293,Cluster3292,0,0
+321,Cytidine 3`-Monophosphate,PM4,C09,phosphorus,Af293,,NA,0
+322,Cytidine 5`-Monophosphate,PM4,C10,phosphorus,Af293,C00055,0,0
+323,"Cytidine 2`,3`-Cyclic Monophosphate",PM4,C11,phosphorus,Af293,C02354,0,0
+324,"Cytidine 3`,5`-Cyclic Monophosphate",PM4,C12,phosphorus,Af293,C00941,0,0
+325,D-Mannose-1-Phosphate,PM4,D01,phosphorus,Af293,C00636,0,0
+326,D-Mannose-6-Phosphate,PM4,D02,phosphorus,Af293,C00275,0,0
+327,Cysteamine-S-Phosphate,PM4,D03,phosphorus,Af293,,NA,0
+328,Phospho-L-Arginine,PM4,D04,phosphorus,Af293,,NA,0
+329,O-Phospho-D-Serine,PM4,D05,phosphorus,Af293,C02532,0,0
+330,O-Phospho-L-Serine,PM4,D06,phosphorus,Af293,C01005,0,0
+331,O-Phospho-L-Threonine,PM4,D07,phosphorus,Af293,C12147,0,0
+332,Uridine 2`-Monophosphate,PM4,D08,phosphorus,Af293,Cluster119,0,0
+333,Uridine 3`-Monophosphate,PM4,D09,phosphorus,Af293,,NA,0
+334,Uridine 5`-Monophosphate,PM4,D10,phosphorus,Af293,C00105,0,0
+335,"Uridine 2`,3`-Cyclic Monophosphate",PM4,D11,phosphorus,Af293,C02355,0,0
+336,"Uridine 3`,5`-Cyclic Monophosphate",PM4,D12,phosphorus,Af293,,NA,1
+337,O-Phospho-D-Tyrosine,PM4,E01,phosphorus,Af293,,NA,0
+338,O-Phospho-L-Tyrosine,PM4,E02,phosphorus,Af293,,NA,0
+339,Phosphocreatine,PM4,E03,phosphorus,Af293,,NA,0
+340,Phosphoryl Choline,PM4,E04,phosphorus,Af293,C00588,0,0
+341,O-Phosphoryl-Ethanolamine,PM4,E05,phosphorus,Af293,C00346,0,0
+342,Phosphono Acetic acid,PM4,E06,phosphorus,Af293,,NA,0
+343,2-Aminoethyl Phosphonic acid,PM4,E07,phosphorus,Af293,C03557,0,0
+344,Methylene Diphosphonic acid,PM4,E08,phosphorus,Af293,,NA,0
+345,Thymidine 3`-Monophosphate,PM4,E09,phosphorus,Af293,,NA,0
+346,Thymidine 5`-Monophosphate,PM4,E10,phosphorus,Af293,C00364,0,0
+347,Inositol Hexaphosphate,PM4,E11,phosphorus,Af293,C01204,0,0
+348,"Thymidine 3`,5`-Cyclic Monophosphate",PM4,E12,phosphorus,Af293,,NA,0
+349,Negative Control,PM4,F01,sulfur,Af293,,NA,0
+350,Sulfate,PM4,F02,sulfur,Af293,C00059,0,1
+351,Thiosulfate,PM4,F03,sulfur,Af293,C00320,0,1
+352,Tetrathionate,PM4,F04,sulfur,Af293,,NA,1
+353,Thiophosphate,PM4,F05,sulfur,Af293,,NA,0
+354,Dithiophosphate,PM4,F06,sulfur,Af293,,NA,1
+355,L-Cysteine,PM4,F07,sulfur,Af293,C00097,0,1
+356,D-Cysteine,PM4,F08,sulfur,Af293,,NA,1
+357,Cys-Gly,PM4,F09,sulfur,Af293,C01419,0,1
+358,L-Cysteic acid,PM4,F10,sulfur,Af293,C00506,0,0
+359,Cysteamine,PM4,F11,sulfur,Af293,C01678,0,0
+360,L-Cysteine Sulfinic acid,PM4,F12,sulfur,Af293,C00606,0,1
+361,N-Acetyl-L-Cysteine,PM4,G01,sulfur,Af293,,NA,1
+362,S-Methyl-L-Cysteine,PM4,G02,sulfur,Af293,,NA,1
+363,Cystathionine,PM4,G03,sulfur,Af293,C00542,0,1
+364,Lanthionine,PM4,G04,sulfur,Af293,,NA,1
+365,Glutathione,PM4,G05,sulfur,Af293,C00051,0,1
+366,DL-Ethionine,PM4,G06,sulfur,Af293,,NA,0
+367,L-Methionine,PM4,G07,sulfur,Af293,C00073,0,1
+368,D-Methionine,PM4,G08,sulfur,Af293,,NA,1
+369,Gly-Met,PM4,G09,sulfur,Af293,Cluster168,1,1
+370,"N-Acetyl-D,L-Methionine",PM4,G10,sulfur,Af293,Cluster582,0,1
+371,L-Methionine Sulfoxide,PM4,G11,sulfur,Af293,,NA,1
+372,L-Methionine Sulfone,PM4,G12,sulfur,Af293,,NA,1
+373,L-Djenkolic acid,PM4,H01,sulfur,Af293,,NA,1
+374,Thiourea,PM4,H02,sulfur,Af293,,NA,0
+375,1-Thio-b-D-Glucose,PM4,H03,sulfur,Af293,,NA,0
+376,DL-Lipoamide,PM4,H04,sulfur,Af293,C00248,0,1
+377,Taurocholic acid,PM4,H05,sulfur,Af293,,NA,0
+378,Taurine,PM4,H06,sulfur,Af293,C00245,0,1
+379,Hypotaurine,PM4,H07,sulfur,Af293,C00519,0,1
+380,p-Aminobenzene Sulfonic acid,PM4,H08,sulfur,Af293,,NA,0
+381,Butane Sulfonic acid,PM4,H09,sulfur,Af293,,NA,1
+382,2-Hydroxyethane Sulfonic acid,PM4,H10,sulfur,Af293,,NA,1
+383,Methane Sulfonic acid,PM4,H11,sulfur,Af293,,NA,1
+384,Tetramethylene Sulfone,PM4,H12,sulfur,Af293,,NA,1
+385,Negative Control,PM1,A01,carbon,MET2,,NA,0
+386,L-Arabinose,PM1,A02,carbon,MET2,C00259,0,1
+387,N-Acetyl-D-Glucosamine,PM1,A03,carbon,MET2,C00140,0,0
+388,D-Saccharic acid,PM1,A04,carbon,MET2,C00818,0,0
+389,Succinic acid,PM1,A05,carbon,MET2,C00042,0,0
+390,D-Galactose,PM1,A06,carbon,MET2,C00124,0,0
+391,L-Aspartic acid,PM1,A07,carbon,MET2,C00049,0,0
+392,L-Proline,PM1,A08,carbon,MET2,C00148,0,0
+393,D-Alanine,PM1,A09,carbon,MET2,,NA,0
+394,D-Trehalose,PM1,A10,carbon,MET2,C01083,0,0
+395,D-Mannose,PM1,A11,carbon,MET2,C00159,0,0
+396,Dulcitol,PM1,A12,carbon,MET2,C01697,0,0
+397,D-Serine,PM1,B01,carbon,MET2,C00740,0,0
+398,D-Sorbitol,PM1,B02,carbon,MET2,C00794,0,0
+399,Glycerol,PM1,B03,carbon,MET2,C00116,0,0
+400,L-Fucose,PM1,B04,carbon,MET2,C01019,0,0
+401,D-Glucuronic acid,PM1,B05,carbon,MET2,C00191,0,0
+402,D-Gluconic acid,PM1,B06,carbon,MET2,C00257,0,0
+403,DL-a-Glycerol Phosphate,PM1,B07,carbon,MET2,C00093,0,0
+404,D-Xylose,PM1,B08,carbon,MET2,C00181,0,1
+405,L-Lactic acid,PM1,B09,carbon,MET2,C00186,0,0
+406,Formic acid,PM1,B10,carbon,MET2,C00058,0,0
+407,D-Mannitol,PM1,B11,carbon,MET2,C00392,0,0
+408,L-Glutamic acid,PM1,B12,carbon,MET2,C00025,0,0
+409,D-Glucose-6-Phosphate,PM1,C01,carbon,MET2,C00092,0,0
+410,D-Galactonic acid-g-Lactone,PM1,C02,carbon,MET2,,NA,0
+411,DL-Malic acid,PM1,C03,carbon,MET2,C00149,0,0
+412,D-Ribose,PM1,C04,carbon,MET2,C00121,0,1
+413,Tween 20,PM1,C05,carbon,MET2,,NA,0
+414,L-Rhamnose,PM1,C06,carbon,MET2,C00507,1,0
+415,D-Fructose,PM1,C07,carbon,MET2,C00095,0,0
+416,Acetic acid,PM1,C08,carbon,MET2,C00033,0,0
+417,a-D-Glucose,PM1,C09,carbon,MET2,C00031,0,0
+418,Maltose,PM1,C10,carbon,MET2,C00208,0,0
+419,D-Melibiose,PM1,C11,carbon,MET2,C05402,0,0
+420,Thymidine,PM1,C12,carbon,MET2,C00214,0,0
+421,L-Asparagine,PM1,D01,carbon,MET2,C00152,0,0
+422,D-Aspartic acid,PM1,D02,carbon,MET2,,NA,0
+423,D-Glucosaminic acid,PM1,D03,carbon,MET2,C03752,1,0
+424,"1,2-Propanediol",PM1,D04,carbon,MET2,C00583,1,0
+425,Tween 40,PM1,D05,carbon,MET2,,NA,0
+426,a-Ketoglutaric acid,PM1,D06,carbon,MET2,C00026,0,0
+427,a-Ketobutyric acid,PM1,D07,carbon,MET2,C00109,0,0
+428,a-Methyl-D-Galactoside,PM1,D08,carbon,MET2,,NA,0
+429,a-D-Lactose,PM1,D09,carbon,MET2,C00243,0,0
+430,Lactulose,PM1,D10,carbon,MET2,,NA,0
+431,Sucrose,PM1,D11,carbon,MET2,C00089,0,0
+432,Uridine,PM1,D12,carbon,MET2,C00299,0,0
+433,L-Glutamine,PM1,E01,carbon,MET2,C00064,0,0
+434,m-Tartaric acid,PM1,E02,carbon,MET2,C00552,1,0
+435,D-Glucose-1-Phosphate,PM1,E03,carbon,MET2,C00103,0,0
+436,D-Fructose-6-Phosphate,PM1,E04,carbon,MET2,C00085,0,0
+437,Tween 80,PM1,E05,carbon,MET2,,NA,0
+438,a-Hydroxyglutaric acid-g-Lactone,PM1,E06,carbon,MET2,,NA,0
+439,a-Hydroxybutyric acid,PM1,E07,carbon,MET2,C05984,0,0
+440,b-Methyl-D-Glucoside,PM1,E08,carbon,MET2,,NA,0
+441,Adonitol,PM1,E09,carbon,MET2,C00474,0,0
+442,Maltotriose,PM1,E10,carbon,MET2,CHEBI27931,0,0
+443,2`-Deoxyadenosine,PM1,E11,carbon,MET2,C00559,0,0
+444,Adenosine,PM1,E12,carbon,MET2,C00212,0,0
+445,Gly-Asp,PM1,F01,carbon,MET2,Cluster363,1,0
+446,Citric acid,PM1,F02,carbon,MET2,C00158,0,0
+447,m-Inositol,PM1,F03,carbon,MET2,C00137,0,0
+448,D-Threonine,PM1,F04,carbon,MET2,,NA,0
+449,Fumaric acid,PM1,F05,carbon,MET2,C00122,0,0
+450,Bromosuccinic acid,PM1,F06,carbon,MET2,,NA,0
+451,Propionic acid,PM1,F07,carbon,MET2,C00163,0,0
+452,Mucic acid,PM1,F08,carbon,MET2,,NA,0
+453,Glycolic acid,PM1,F09,carbon,MET2,C00160,0,0
+454,Glyoxylic acid,PM1,F10,carbon,MET2,C00048,0,0
+455,D-Cellobiose,PM1,F11,carbon,MET2,C00185,0,0
+456,Inosine,PM1,F12,carbon,MET2,C00294,0,0
+457,Gly-Glu,PM1,G01,carbon,MET2,Cluster4672,1,0
+458,Tricarballylic acid,PM1,G02,carbon,MET2,,NA,0
+459,L-Serine,PM1,G03,carbon,MET2,C00065,0,0
+460,L-Threonine,PM1,G04,carbon,MET2,C00188,0,0
+461,L-Alanine,PM1,G05,carbon,MET2,C00133,0,0
+462,Ala-Gly,PM1,G06,carbon,MET2,Cluster774,1,0
+463,Acetoacetic acid,PM1,G07,carbon,MET2,C00164,0,0
+464,N-Acetyl-D-Mannosamine,PM1,G08,carbon,MET2,C00645,1,0
+465,Mono-Methylsuccinate,PM1,G09,carbon,MET2,,NA,0
+466,Methylpyruvate,PM1,G10,carbon,MET2,,NA,0
+467,D-Malic acid,PM1,G11,carbon,MET2,C00497,0,0
+468,L-Malic acid,PM1,G12,carbon,MET2,C00149,0,0
+469,Gly-Pro,PM1,H01,carbon,MET2,Cluster3300,1,0
+470,p-Hydroxyphenyl Acetic acid,PM1,H02,carbon,MET2,C00642,0,0
+471,m-Hydroxyphenyl Acetic acid,PM1,H03,carbon,MET2,,NA,0
+472,Tyramine,PM1,H04,carbon,MET2,C00483,0,0
+473,D-Psicose,PM1,H05,carbon,MET2,,NA,0
+474,L-Lyxose,PM1,H06,carbon,MET2,,NA,1
+475,Glucuronamide,PM1,H07,carbon,MET2,,NA,0
+476,Pyruvic acid,PM1,H08,carbon,MET2,C00022,0,0
+477,L-Galactonic acid-g-Lactone,PM1,H09,carbon,MET2,C01115,1,0
+478,D-Galacturonic acid,PM1,H10,carbon,MET2,C00333,0,0
+479,Phenylethylamine,PM1,H11,carbon,MET2,C05332,0,0
+480,2-Aminoethanol,PM1,H12,carbon,MET2,C00189,0,0
+481,Negative Control,PM2,A01,carbon,MET2,,NA,0
+482,Chondroitin Sulfate C,PM2,A02,carbon,MET2,,NA,0
+483,a-Cyclodextrin,PM2,A03,carbon,MET2,C00973,1,0
+484,b-Cyclodextrin,PM2,A04,carbon,MET2,C00973,1,0
+485,g-Cyclodextrin,PM2,A05,carbon,MET2,C00973,1,0
+486,Dextrin,PM2,A06,carbon,MET2,C00721,0,0
+487,Gelatin,PM2,A07,carbon,MET2,,NA,0
+488,Glycogen,PM2,A08,carbon,MET2,C00182,0,0
+489,Inulin,PM2,A09,carbon,MET2,,NA,0
+490,Laminarin,PM2,A10,carbon,MET2,,NA,0
+491,Mannan,PM2,A11,carbon,MET2,C00721,0,0
+492,Pectin,PM2,A12,carbon,MET2,CHEBI17309,0,0
+493,N-Acetyl-D-Galactosamine,PM2,B01,carbon,MET2,C01132,0,0
+494,N-Acetyl-Neuraminic acid,PM2,B02,carbon,MET2,C00270,0,0
+495,b-D-Allose,PM2,B03,carbon,MET2,,NA,0
+496,Amygdalin,PM2,B04,carbon,MET2,C08325,0,0
+497,D-Arabinose,PM2,B05,carbon,MET2,C00216,0,1
+498,D-Arabitol,PM2,B06,carbon,MET2,C01904,0,0
+499,L-Arabitol,PM2,B07,carbon,MET2,C00532,0,0
+500,Arbutin,PM2,B08,carbon,MET2,C06186,1,1
+501,2-Deoxy-D-Ribose,PM2,B09,carbon,MET2,C01801,0,1
+502,i-Erythritol,PM2,B10,carbon,MET2,C00503,0,0
+503,D-Fucose,PM2,B11,carbon,MET2,,NA,0
+504,3-O-b-D-Galactopyranosyl-D-Arabinose,PM2,B12,carbon,MET2,,NA,0
+505,Gentiobiose,PM2,C01,carbon,MET2,,NA,0
+506,L-Glucose,PM2,C02,carbon,MET2,,NA,0
+507,D-Lactitol,PM2,C03,carbon,MET2,,NA,0
+508,D-Melezitose,PM2,C04,carbon,MET2,,NA,0
+509,Maltitol,PM2,C05,carbon,MET2,,NA,0
+510,a-Methyl-D-Glucoside,PM2,C06,carbon,MET2,,NA,0
+511,b-Methyl-D-Galactoside,PM2,C07,carbon,MET2,,NA,0
+512,3-Methylglucose,PM2,C08,carbon,MET2,,NA,0
+513,b-Methyl-D-Glucuronic acid,PM2,C09,carbon,MET2,,NA,0
+514,a-Methyl-D-Mannoside,PM2,C10,carbon,MET2,,NA,0
+515,b-Methyl-D-Xyloside,PM2,C11,carbon,MET2,,NA,0
+516,Palatinose,PM2,C12,carbon,MET2,,NA,0
+517,D-Raffinose,PM2,D01,carbon,MET2,C00492,0,0
+518,Salicin,PM2,D02,carbon,MET2,C01451,1,0
+519,Sedoheptulosan,PM2,D03,carbon,MET2,,NA,0
+520,L-Sorbose,PM2,D04,carbon,MET2,C00247,0,0
+521,Stachyose,PM2,D05,carbon,MET2,C01613,0,0
+522,D-Tagatose,PM2,D06,carbon,MET2,C00795,1,1
+523,Turanose,PM2,D07,carbon,MET2,,NA,0
+524,Xylitol,PM2,D08,carbon,MET2,C00379,0,0
+525,N-Acetyl-D-Glucosaminitol,PM2,D09,carbon,MET2,,NA,0
+526,g-Amino-N-Butyric acid,PM2,D10,carbon,MET2,C00334,0,0
+527,d-Amino Valeric acid,PM2,D11,carbon,MET2,,NA,0
+528,Butyric acid,PM2,D12,carbon,MET2,C00246,0,0
+529,Capric acid,PM2,E01,carbon,MET2,C01571,0,0
+530,Caproic acid,PM2,E02,carbon,MET2,C01585,0,0
+531,Citraconic acid,PM2,E03,carbon,MET2,C02226,1,0
+532,Citramalic acid,PM2,E04,carbon,MET2,C02614,1,0
+533,D-Glucosamine,PM2,E05,carbon,MET2,C00329,0,1
+534,2-Hydroxybenzoic acid,PM2,E06,carbon,MET2,C00805,0,0
+535,4-Hydroxybenzoic acid,PM2,E07,carbon,MET2,C00156,0,0
+536,b-Hydroxybutyric acid,PM2,E08,carbon,MET2,C01089,0,0
+537,g-Hydroxybutyric acid,PM2,E09,carbon,MET2,,NA,0
+538,a-Keto-Valeric acid,PM2,E10,carbon,MET2,,NA,0
+539,Itaconic acid,PM2,E11,carbon,MET2,C00490,0,0
+540,5-Keto-D-Gluconic acid,PM2,E12,carbon,MET2,,NA,1
+541,D-Lactic acid Methyl Ester,PM2,F01,carbon,MET2,,NA,0
+542,Malonic acid,PM2,F02,carbon,MET2,,NA,0
+543,Melibionic acid,PM2,F03,carbon,MET2,,NA,0
+544,Oxalic acid,PM2,F04,carbon,MET2,C00209,0,0
+545,Oxalomalic acid,PM2,F05,carbon,MET2,,NA,1
+546,Quinic acid,PM2,F06,carbon,MET2,C00296,0,0
+547,"D-Ribono-1,4-Lactone",PM2,F07,carbon,MET2,,NA,0
+548,Sebacic acid,PM2,F08,carbon,MET2,C08277,1,0
+549,Sorbic acid,PM2,F09,carbon,MET2,,NA,1
+550,Succinamic acid,PM2,F10,carbon,MET2,,NA,0
+551,D-Tartaric acid,PM2,F11,carbon,MET2,,NA,0
+552,L-Tartaric acid,PM2,F12,carbon,MET2,,NA,0
+553,Acetamide,PM2,G01,carbon,MET2,C06244,0,0
+554,L-Alaninamide,PM2,G02,carbon,MET2,,NA,0
+555,N-Acetyl-L-Glutamic acid,PM2,G03,carbon,MET2,C00624,0,0
+556,L-Arginine,PM2,G04,carbon,MET2,C00062,0,0
+557,Glycine,PM2,G05,carbon,MET2,C00037,0,0
+558,L-Histidine,PM2,G06,carbon,MET2,C00135,0,0
+559,L-Homoserine,PM2,G07,carbon,MET2,C00263,0,0
+560,Hydroxy-L-Proline,PM2,G08,carbon,MET2,C01157,0,0
+561,L-Isoleucine,PM2,G09,carbon,MET2,C00407,0,0
+562,L-Leucine,PM2,G10,carbon,MET2,C00123,0,0
+563,L-Lysine,PM2,G11,carbon,MET2,C00047,0,0
+564,L-Methionine,PM2,G12,carbon,MET2,C00073,0,0
+565,L-Ornithine,PM2,H01,carbon,MET2,C00077,0,0
+566,L-Phenylalanine,PM2,H02,carbon,MET2,C00079,0,0
+567,L-Pyroglutamic acid,PM2,H03,carbon,MET2,C01879,0,0
+568,L-Valine,PM2,H04,carbon,MET2,C00183,0,0
+569,"D,L-Carnitine",PM2,H05,carbon,MET2,C15025,1,0
+570,sec-Butylamine,PM2,H06,carbon,MET2,,NA,0
+571,"D,L-Octopamine",PM2,H07,carbon,MET2,,NA,0
+572,Putrescine,PM2,H08,carbon,MET2,C00134,0,0
+573,Dihydroxyacetone,PM2,H09,carbon,MET2,C00184,0,1
+574,"2,3-Butanediol",PM2,H10,carbon,MET2,C03044,0,0
+575,"2,3-Butanedione",PM2,H11,carbon,MET2,C00741,1,0
+576,3-Hydroxy-2-buta,PM2,H12,carbon,MET2,,NA,0
+577,Negative Control,PM3,A01,nitrogen,MET2,,NA,0
+578,Ammonia,PM3,A02,nitrogen,MET2,C01342,0,0
+579,Nitrite,PM3,A03,nitrogen,MET2,C00088,0,0
+580,Nitrate,PM3,A04,nitrogen,MET2,C00244,0,0
+581,Urea,PM3,A05,nitrogen,MET2,C00086,0,0
+582,Biuret,PM3,A06,nitrogen,MET2,C06555,1,0
+583,L-Alanine,PM3,A07,nitrogen,MET2,C00133,0,0
+584,L-Arginine,PM3,A08,nitrogen,MET2,C00062,0,0
+585,L-Asparagine,PM3,A09,nitrogen,MET2,C00152,0,0
+586,L-Aspartic acid,PM3,A10,nitrogen,MET2,C00049,0,0
+587,L-Cysteine,PM3,A11,nitrogen,MET2,C00097,0,1
+588,L-Glutamic acid,PM3,A12,nitrogen,MET2,C00025,0,0
+589,L-Glutamine,PM3,B01,nitrogen,MET2,C00064,0,0
+590,Glycine,PM3,B02,nitrogen,MET2,C00037,0,0
+591,L-Histidine,PM3,B03,nitrogen,MET2,C00135,0,0
+592,L-Isoleucine,PM3,B04,nitrogen,MET2,C00407,0,0
+593,L-Leucine,PM3,B05,nitrogen,MET2,C00123,0,0
+594,L-Lysine,PM3,B06,nitrogen,MET2,C00047,0,0
+595,L-Methionine,PM3,B07,nitrogen,MET2,C00073,0,0
+596,L-Phenylalanine,PM3,B08,nitrogen,MET2,C00079,0,0
+597,L-Proline,PM3,B09,nitrogen,MET2,C00148,0,0
+598,L-Serine,PM3,B10,nitrogen,MET2,C00065,0,0
+599,L-Threonine,PM3,B11,nitrogen,MET2,C00188,0,0
+600,L-Tryptophan,PM3,B12,nitrogen,MET2,C00078,0,0
+601,L-Tyrosine,PM3,C01,nitrogen,MET2,C00082,0,0
+602,L-Valine,PM3,C02,nitrogen,MET2,C00183,0,0
+603,D-Alanine,PM3,C03,nitrogen,MET2,,NA,0
+604,D-Asparagine,PM3,C04,nitrogen,MET2,,NA,0
+605,D-Aspartic acid,PM3,C05,nitrogen,MET2,,NA,0
+606,D-Glutamic acid,PM3,C06,nitrogen,MET2,C00217,1,0
+607,D-Lysine,PM3,C07,nitrogen,MET2,C00739,0,0
+608,D-Serine,PM3,C08,nitrogen,MET2,C00740,0,0
+609,D-Valine,PM3,C09,nitrogen,MET2,,NA,0
+610,L-Citrulline,PM3,C10,nitrogen,MET2,C00327,0,0
+611,L-Homoserine,PM3,C11,nitrogen,MET2,C00263,0,0
+612,L-Ornithine,PM3,C12,nitrogen,MET2,C00077,0,0
+613,N-Acetyl-L-Glutamic acid,PM3,D01,nitrogen,MET2,C00624,0,0
+614,N-Phthaloyl-L-Glutamic acid,PM3,D02,nitrogen,MET2,,NA,0
+615,L-Pyroglutamic acid,PM3,D03,nitrogen,MET2,C01879,0,0
+616,Hydroxylamine,PM3,D04,nitrogen,MET2,,NA,0
+617,Methylamine,PM3,D05,nitrogen,MET2,C00218,0,0
+618,N-Amylamine,PM3,D06,nitrogen,MET2,,NA,0
+619,N-Butylamine,PM3,D07,nitrogen,MET2,,NA,0
+620,Ethylamine,PM3,D08,nitrogen,MET2,C00797,1,0
+621,Ethanolamine,PM3,D09,nitrogen,MET2,C00189,0,0
+622,Ethylenediamine,PM3,D10,nitrogen,MET2,,NA,0
+623,Putrescine,PM3,D11,nitrogen,MET2,C00134,0,0
+624,Agmatine,PM3,D12,nitrogen,MET2,C00179,0,0
+625,Histamine,PM3,E01,nitrogen,MET2,C00388,1,0
+626,b-Phenylethylamine,PM3,E02,nitrogen,MET2,C05332,0,0
+627,Tyramine,PM3,E03,nitrogen,MET2,C00483,0,0
+628,Acetamide,PM3,E04,nitrogen,MET2,C06244,0,0
+629,Formamide,PM3,E05,nitrogen,MET2,C00488,0,0
+630,Glucuronamide,PM3,E06,nitrogen,MET2,,NA,0
+631,DL-Lactamide,PM3,E07,nitrogen,MET2,,NA,0
+632,D-Glucosamine,PM3,E08,nitrogen,MET2,C00329,0,0
+633,D-Galactosamine,PM3,E09,nitrogen,MET2,C02262,1,0
+634,D-Mannosamine,PM3,E10,nitrogen,MET2,,NA,0
+635,N-Acetyl-D-Glucosamine,PM3,E11,nitrogen,MET2,C00140,0,0
+636,N-Acetyl-D-Galactosamine,PM3,E12,nitrogen,MET2,C01132,0,0
+637,N-Acetyl-D-Mannosamine,PM3,F01,nitrogen,MET2,C00645,1,0
+638,Adenine,PM3,F02,nitrogen,MET2,C00147,0,0
+639,Adenosine,PM3,F03,nitrogen,MET2,C00212,0,0
+640,Cytidine,PM3,F04,nitrogen,MET2,C00475,0,0
+641,Cytosine,PM3,F05,nitrogen,MET2,C00380,0,0
+642,Guanine,PM3,F06,nitrogen,MET2,C00242,0,0
+643,Guanosine,PM3,F07,nitrogen,MET2,C00387,0,0
+644,Thymine,PM3,F08,nitrogen,MET2,C00178,1,0
+645,Thymidine,PM3,F09,nitrogen,MET2,C00214,0,0
+646,Uracil,PM3,F10,nitrogen,MET2,C00106,0,0
+647,Uridine,PM3,F11,nitrogen,MET2,C00299,0,0
+648,Inosine,PM3,F12,nitrogen,MET2,C00294,0,0
+649,Xanthine,PM3,G01,nitrogen,MET2,C00385,0,0
+650,Xanthosine,PM3,G02,nitrogen,MET2,C01762,0,0
+651,Uric acid,PM3,G03,nitrogen,MET2,C00366,0,0
+652,Alloxan,PM3,G04,nitrogen,MET2,,NA,0
+653,Allantoin,PM3,G05,nitrogen,MET2,C01551,0,0
+654,Parabanic acid,PM3,G06,nitrogen,MET2,,NA,0
+655,DL-a-Amino-N-Butyric acid,PM3,G07,nitrogen,MET2,Cluster3316,1,0
+656,g-Amino-N-Butyric acid,PM3,G08,nitrogen,MET2,C00334,0,0
+657,e-Amino-N-Caproic acid,PM3,G09,nitrogen,MET2,C02378,1,0
+658,DL-a-Amino-Caprylic acid,PM3,G10,nitrogen,MET2,,NA,0
+659,d-Amino-N-Valeric acid,PM3,G11,nitrogen,MET2,C00431,0,0
+660,a-Amino-N-Valeric acid,PM3,G12,nitrogen,MET2,,NA,0
+661,Ala-Asp,PM3,H01,nitrogen,MET2,Cluster3898,1,0
+662,Ala-Gln,PM3,H02,nitrogen,MET2,Cluster1480,1,0
+663,Ala-Glu,PM3,H03,nitrogen,MET2,Cluster4793,1,0
+664,Ala-Gly,PM3,H04,nitrogen,MET2,Cluster774,1,0
+665,Ala-His,PM3,H05,nitrogen,MET2,Cluster5933,1,0
+666,Ala-Leu,PM3,H06,nitrogen,MET2,Cluster2744,1,0
+667,Ala-Thr,PM3,H07,nitrogen,MET2,Cluster843,1,0
+668,Gly-Asn,PM3,H08,nitrogen,MET2,Cluster2052,1,0
+669,Gly-Gln,PM3,H09,nitrogen,MET2,Cluster419,1,0
+670,Gly-Glu,PM3,H10,nitrogen,MET2,Cluster4672,1,0
+671,Gly-Met,PM3,H11,nitrogen,MET2,Cluster168,1,1
+672,Met-Ala,PM3,H12,nitrogen,MET2,,NA,1
+673,Negative Control,PM4,A01,phosphorus,MET2,,NA,0
+674,Phosphate,PM4,A02,phosphorus,MET2,C00009,0,0
+675,Pyrophosphate,PM4,A03,phosphorus,MET2,C00013,0,0
+676,Trimetaphosphate,PM4,A04,phosphorus,MET2,,NA,0
+677,Tripolyphosphate,PM4,A05,phosphorus,MET2,C00536,0,0
+678,Triethyl Phosphate,PM4,A06,phosphorus,MET2,,NA,0
+679,Hypophosphite,PM4,A07,phosphorus,MET2,,NA,0
+680,Adenosine 2`-Monophosphate,PM4,A08,phosphorus,MET2,CHEBI28223,0,0
+681,Adenosine 3`-Monophosphate,PM4,A09,phosphorus,MET2,,NA,0
+682,Adenosine 5`-Monophosphate,PM4,A10,phosphorus,MET2,C00020,0,0
+683,"Adenosine 2`,3`-Cyclic Monophosphate",PM4,A11,phosphorus,MET2,C02353,0,0
+684,"Adenosine 3`,5`-Cyclic Monophosphate",PM4,A12,phosphorus,MET2,C00575,0,0
+685,Thiophosphate,PM4,B01,phosphorus,MET2,,NA,0
+686,Dithiophosphate,PM4,B02,phosphorus,MET2,,NA,0
+687,DL-a-Glycerol Phosphate,PM4,B03,phosphorus,MET2,C00093,0,0
+688,b-Glycerol Phosphate,PM4,B04,phosphorus,MET2,,NA,0
+689,Carbamyl Phosphate,PM4,B05,phosphorus,MET2,C00169,0,0
+690,D-2-Phospho-Glyceric acid,PM4,B06,phosphorus,MET2,C00631,0,0
+691,D-3-Phospho-Glyceric acid,PM4,B07,phosphorus,MET2,C00197,0,0
+692,Guanosine 2`-Monophosphate,PM4,B08,phosphorus,MET2,Cluster519,0,0
+693,Guanosine 3`-Monophosphate,PM4,B09,phosphorus,MET2,,NA,0
+694,Guanosine 5`-Monophosphate,PM4,B10,phosphorus,MET2,C00144,0,0
+695,"Guanosine 2`,3`-Cyclic Monophosphate",PM4,B11,phosphorus,MET2,C06194,0,0
+696,"Guanosine 3`,5`-Cyclic Monophosphate",PM4,B12,phosphorus,MET2,C00942,0,0
+697,Phosphoenol Pyruvate,PM4,C01,phosphorus,MET2,C00074,0,0
+698,Phospho-Glycolic acid,PM4,C02,phosphorus,MET2,C00988,0,0
+699,D-Glucose-1-Phosphate,PM4,C03,phosphorus,MET2,C00103,0,0
+700,D-Glucose-6-Phosphate,PM4,C04,phosphorus,MET2,C00092,0,0
+701,2-Deoxy-D-Glucose 6-Phosphate,PM4,C05,phosphorus,MET2,C06369,1,0
+702,D-Glucosamine-6-Phosphate,PM4,C06,phosphorus,MET2,C00352,0,0
+703,6-Phospho-Gluconic acid,PM4,C07,phosphorus,MET2,C00345,0,0
+704,Cytidine 2`-Monophosphate,PM4,C08,phosphorus,MET2,Cluster3292,0,0
+705,Cytidine 3`-Monophosphate,PM4,C09,phosphorus,MET2,,NA,0
+706,Cytidine 5`-Monophosphate,PM4,C10,phosphorus,MET2,C00055,0,0
+707,"Cytidine 2`,3`-Cyclic Monophosphate",PM4,C11,phosphorus,MET2,C02354,0,0
+708,"Cytidine 3`,5`-Cyclic Monophosphate",PM4,C12,phosphorus,MET2,C00941,0,0
+709,D-Mannose-1-Phosphate,PM4,D01,phosphorus,MET2,C00636,0,0
+710,D-Mannose-6-Phosphate,PM4,D02,phosphorus,MET2,C00275,0,0
+711,Cysteamine-S-Phosphate,PM4,D03,phosphorus,MET2,,NA,0
+712,Phospho-L-Arginine,PM4,D04,phosphorus,MET2,,NA,0
+713,O-Phospho-D-Serine,PM4,D05,phosphorus,MET2,C02532,0,0
+714,O-Phospho-L-Serine,PM4,D06,phosphorus,MET2,C01005,0,0
+715,O-Phospho-L-Threonine,PM4,D07,phosphorus,MET2,C12147,0,0
+716,Uridine 2`-Monophosphate,PM4,D08,phosphorus,MET2,Cluster119,0,0
+717,Uridine 3`-Monophosphate,PM4,D09,phosphorus,MET2,,NA,0
+718,Uridine 5`-Monophosphate,PM4,D10,phosphorus,MET2,C00105,0,0
+719,"Uridine 2`,3`-Cyclic Monophosphate",PM4,D11,phosphorus,MET2,C02355,0,0
+720,"Uridine 3`,5`-Cyclic Monophosphate",PM4,D12,phosphorus,MET2,,NA,0
+721,O-Phospho-D-Tyrosine,PM4,E01,phosphorus,MET2,,NA,0
+722,O-Phospho-L-Tyrosine,PM4,E02,phosphorus,MET2,,NA,0
+723,Phosphocreatine,PM4,E03,phosphorus,MET2,,NA,0
+724,Phosphoryl Choline,PM4,E04,phosphorus,MET2,C00588,0,0
+725,O-Phosphoryl-Ethanolamine,PM4,E05,phosphorus,MET2,C00346,0,0
+726,Phosphono Acetic acid,PM4,E06,phosphorus,MET2,,NA,0
+727,2-Aminoethyl Phosphonic acid,PM4,E07,phosphorus,MET2,C03557,0,0
+728,Methylene Diphosphonic acid,PM4,E08,phosphorus,MET2,,NA,0
+729,Thymidine 3`-Monophosphate,PM4,E09,phosphorus,MET2,,NA,0
+730,Thymidine 5`-Monophosphate,PM4,E10,phosphorus,MET2,C00364,0,0
+731,Inositol Hexaphosphate,PM4,E11,phosphorus,MET2,C01204,0,0
+732,"Thymidine 3`,5`-Cyclic Monophosphate",PM4,E12,phosphorus,MET2,,NA,0
+733,Negative Control,PM4,F01,sulfur,MET2,,NA,0
+734,Sulfate,PM4,F02,sulfur,MET2,C00059,0,0
+735,Thiosulfate,PM4,F03,sulfur,MET2,C00320,0,0
+736,Tetrathionate,PM4,F04,sulfur,MET2,,NA,0
+737,Thiophosphate,PM4,F05,sulfur,MET2,,NA,0
+738,Dithiophosphate,PM4,F06,sulfur,MET2,,NA,0
+739,L-Cysteine,PM4,F07,sulfur,MET2,C00097,0,0
+740,D-Cysteine,PM4,F08,sulfur,MET2,,NA,0
+741,Cys-Gly,PM4,F09,sulfur,MET2,C01419,0,0
+742,L-Cysteic acid,PM4,F10,sulfur,MET2,C00506,0,0
+743,Cysteamine,PM4,F11,sulfur,MET2,C01678,0,0
+744,L-Cysteine Sulfinic acid,PM4,F12,sulfur,MET2,C00606,0,0
+745,N-Acetyl-L-Cysteine,PM4,G01,sulfur,MET2,,NA,0
+746,S-Methyl-L-Cysteine,PM4,G02,sulfur,MET2,,NA,0
+747,Cystathionine,PM4,G03,sulfur,MET2,C00542,0,1
+748,Lanthionine,PM4,G04,sulfur,MET2,,NA,0
+749,Glutathione,PM4,G05,sulfur,MET2,C00051,0,0
+750,DL-Ethionine,PM4,G06,sulfur,MET2,,NA,0
+751,L-Methionine,PM4,G07,sulfur,MET2,C00073,0,1
+752,D-Methionine,PM4,G08,sulfur,MET2,,NA,1
+753,Gly-Met,PM4,G09,sulfur,MET2,Cluster168,1,1
+754,"N-Acetyl-D,L-Methionine",PM4,G10,sulfur,MET2,Cluster582,0,1
+755,L-Methionine Sulfoxide,PM4,G11,sulfur,MET2,,NA,1
+756,L-Methionine Sulfone,PM4,G12,sulfur,MET2,,NA,0
+757,L-Djenkolic acid,PM4,H01,sulfur,MET2,,NA,0
+758,Thiourea,PM4,H02,sulfur,MET2,,NA,0
+759,1-Thio-b-D-Glucose,PM4,H03,sulfur,MET2,,NA,0
+760,DL-Lipoamide,PM4,H04,sulfur,MET2,C00248,0,0
+761,Taurocholic acid,PM4,H05,sulfur,MET2,,NA,0
+762,Taurine,PM4,H06,sulfur,MET2,C00245,0,0
+763,Hypotaurine,PM4,H07,sulfur,MET2,C00519,0,0
+764,p-Aminobenzene Sulfonic acid,PM4,H08,sulfur,MET2,,NA,0
+765,Butane Sulfonic acid,PM4,H09,sulfur,MET2,,NA,0
+766,2-Hydroxyethane Sulfonic acid,PM4,H10,sulfur,MET2,,NA,0
+767,Methane Sulfonic acid,PM4,H11,sulfur,MET2,,NA,0
+768,Tetramethylene Sulfone,PM4,H12,sulfur,MET2,,NA,0
+769,Negative Control,PM1,A01,carbon,niaD,,NA,0
+770,L-Arabinose,PM1,A02,carbon,niaD,C00259,0,1
+771,N-Acetyl-D-Glucosamine,PM1,A03,carbon,niaD,C00140,0,1
+772,D-Saccharic acid,PM1,A04,carbon,niaD,C00818,0,0
+773,Succinic acid,PM1,A05,carbon,niaD,C00042,0,0
+774,D-Galactose,PM1,A06,carbon,niaD,C00124,0,1
+775,L-Aspartic acid,PM1,A07,carbon,niaD,C00049,0,0
+776,L-Proline,PM1,A08,carbon,niaD,C00148,0,1
+777,D-Alanine,PM1,A09,carbon,niaD,,NA,0
+778,D-Trehalose,PM1,A10,carbon,niaD,C01083,0,1
+779,D-Mannose,PM1,A11,carbon,niaD,C00159,0,1
+780,Dulcitol,PM1,A12,carbon,niaD,C01697,0,1
+781,D-Serine,PM1,B01,carbon,niaD,C00740,0,0
+782,D-Sorbitol,PM1,B02,carbon,niaD,C00794,0,1
+783,Glycerol,PM1,B03,carbon,niaD,C00116,0,0
+784,L-Fucose,PM1,B04,carbon,niaD,C01019,0,0
+785,D-Glucuronic acid,PM1,B05,carbon,niaD,C00191,0,0
+786,D-Gluconic acid,PM1,B06,carbon,niaD,C00257,0,1
+787,DL-a-Glycerol Phosphate,PM1,B07,carbon,niaD,C00093,0,0
+788,D-Xylose,PM1,B08,carbon,niaD,C00181,0,1
+789,L-Lactic acid,PM1,B09,carbon,niaD,C00186,0,0
+790,Formic acid,PM1,B10,carbon,niaD,C00058,0,0
+791,D-Mannitol,PM1,B11,carbon,niaD,C00392,0,1
+792,L-Glutamic acid,PM1,B12,carbon,niaD,C00025,0,0
+793,D-Glucose-6-Phosphate,PM1,C01,carbon,niaD,C00092,0,0
+794,D-Galactonic acid-g-Lactone,PM1,C02,carbon,niaD,,NA,0
+795,DL-Malic acid,PM1,C03,carbon,niaD,C00149,0,1
+796,D-Ribose,PM1,C04,carbon,niaD,C00121,0,1
+797,Tween 20,PM1,C05,carbon,niaD,,NA,0
+798,L-Rhamnose,PM1,C06,carbon,niaD,C00507,1,1
+799,D-Fructose,PM1,C07,carbon,niaD,C00095,0,1
+800,Acetic acid,PM1,C08,carbon,niaD,C00033,0,0
+801,a-D-Glucose,PM1,C09,carbon,niaD,C00031,0,1
+802,Maltose,PM1,C10,carbon,niaD,C00208,0,1
+803,D-Melibiose,PM1,C11,carbon,niaD,C05402,0,1
+804,Thymidine,PM1,C12,carbon,niaD,C00214,0,0
+805,L-Asparagine,PM1,D01,carbon,niaD,C00152,0,1
+806,D-Aspartic acid,PM1,D02,carbon,niaD,,NA,0
+807,D-Glucosaminic acid,PM1,D03,carbon,niaD,C03752,1,0
+808,"1,2-Propanediol",PM1,D04,carbon,niaD,C00583,1,0
+809,Tween 40,PM1,D05,carbon,niaD,,NA,0
+810,a-Ketoglutaric acid,PM1,D06,carbon,niaD,C00026,0,1
+811,a-Ketobutyric acid,PM1,D07,carbon,niaD,C00109,0,0
+812,a-Methyl-D-Galactoside,PM1,D08,carbon,niaD,,NA,0
+813,a-D-Lactose,PM1,D09,carbon,niaD,C00243,0,0
+814,Lactulose,PM1,D10,carbon,niaD,,NA,0
+815,Sucrose,PM1,D11,carbon,niaD,C00089,0,1
+816,Uridine,PM1,D12,carbon,niaD,C00299,0,0
+817,L-Glutamine,PM1,E01,carbon,niaD,C00064,0,1
+818,m-Tartaric acid,PM1,E02,carbon,niaD,C00552,1,0
+819,D-Glucose-1-Phosphate,PM1,E03,carbon,niaD,C00103,0,0
+820,D-Fructose-6-Phosphate,PM1,E04,carbon,niaD,C00085,0,0
+821,Tween 80,PM1,E05,carbon,niaD,,NA,0
+822,a-Hydroxyglutaric acid-g-Lactone,PM1,E06,carbon,niaD,,NA,0
+823,a-Hydroxybutyric acid,PM1,E07,carbon,niaD,C05984,0,0
+824,b-Methyl-D-Glucoside,PM1,E08,carbon,niaD,,NA,0
+825,Adonitol,PM1,E09,carbon,niaD,C00474,0,0
+826,Maltotriose,PM1,E10,carbon,niaD,CHEBI27931,0,1
+827,2`-Deoxyadenosine,PM1,E11,carbon,niaD,C00559,0,0
+828,Adenosine,PM1,E12,carbon,niaD,C00212,0,0
+829,Gly-Asp,PM1,F01,carbon,niaD,Cluster363,1,0
+830,Citric acid,PM1,F02,carbon,niaD,C00158,0,0
+831,m-Inositol,PM1,F03,carbon,niaD,C00137,0,1
+832,D-Threonine,PM1,F04,carbon,niaD,,NA,0
+833,Fumaric acid,PM1,F05,carbon,niaD,C00122,0,1
+834,Bromosuccinic acid,PM1,F06,carbon,niaD,,NA,0
+835,Propionic acid,PM1,F07,carbon,niaD,C00163,0,0
+836,Mucic acid,PM1,F08,carbon,niaD,,NA,0
+837,Glycolic acid,PM1,F09,carbon,niaD,C00160,0,1
+838,Glyoxylic acid,PM1,F10,carbon,niaD,C00048,0,0
+839,D-Cellobiose,PM1,F11,carbon,niaD,C00185,0,1
+840,Inosine,PM1,F12,carbon,niaD,C00294,0,0
+841,Gly-Glu,PM1,G01,carbon,niaD,Cluster4672,1,0
+842,Tricarballylic acid,PM1,G02,carbon,niaD,,NA,0
+843,L-Serine,PM1,G03,carbon,niaD,C00065,0,0
+844,L-Threonine,PM1,G04,carbon,niaD,C00188,0,1
+845,L-Alanine,PM1,G05,carbon,niaD,C00133,0,1
+846,Ala-Gly,PM1,G06,carbon,niaD,Cluster774,1,1
+847,Acetoacetic acid,PM1,G07,carbon,niaD,C00164,0,0
+848,N-Acetyl-D-Mannosamine,PM1,G08,carbon,niaD,C00645,1,0
+849,Mono-Methylsuccinate,PM1,G09,carbon,niaD,,NA,0
+850,Methylpyruvate,PM1,G10,carbon,niaD,,NA,0
+851,D-Malic acid,PM1,G11,carbon,niaD,C00497,0,1
+852,L-Malic acid,PM1,G12,carbon,niaD,C00149,0,0
+853,Gly-Pro,PM1,H01,carbon,niaD,Cluster3300,1,1
+854,p-Hydroxyphenyl Acetic acid,PM1,H02,carbon,niaD,C00642,0,1
+855,m-Hydroxyphenyl Acetic acid,PM1,H03,carbon,niaD,,NA,1
+856,Tyramine,PM1,H04,carbon,niaD,C00483,0,1
+857,D-Psicose,PM1,H05,carbon,niaD,,NA,0
+858,L-Lyxose,PM1,H06,carbon,niaD,,NA,1
+859,Glucuronamide,PM1,H07,carbon,niaD,,NA,0
+860,Pyruvic acid,PM1,H08,carbon,niaD,C00022,0,1
+861,L-Galactonic acid-g-Lactone,PM1,H09,carbon,niaD,C01115,1,0
+862,D-Galacturonic acid,PM1,H10,carbon,niaD,C00333,0,1
+863,Phenylethylamine,PM1,H11,carbon,niaD,C05332,0,0
+864,2-Aminoethanol,PM1,H12,carbon,niaD,C00189,0,1
+865,Negative Control,PM2,A01,carbon,niaD,,NA,0
+866,Chondroitin Sulfate C,PM2,A02,carbon,niaD,,NA,0
+867,a-Cyclodextrin,PM2,A03,carbon,niaD,C00973,1,0
+868,b-Cyclodextrin,PM2,A04,carbon,niaD,C00973,1,1
+869,g-Cyclodextrin,PM2,A05,carbon,niaD,C00973,1,1
+870,Dextrin,PM2,A06,carbon,niaD,C00721,0,1
+871,Gelatin,PM2,A07,carbon,niaD,,NA,1
+872,Glycogen,PM2,A08,carbon,niaD,C00182,0,1
+873,Inulin,PM2,A09,carbon,niaD,,NA,0
+874,Laminarin,PM2,A10,carbon,niaD,,NA,1
+875,Mannan,PM2,A11,carbon,niaD,C00721,0,0
+876,Pectin,PM2,A12,carbon,niaD,CHEBI17309,0,1
+877,N-Acetyl-D-Galactosamine,PM2,B01,carbon,niaD,C01132,0,0
+878,N-Acetyl-Neuraminic acid,PM2,B02,carbon,niaD,C00270,0,0
+879,b-D-Allose,PM2,B03,carbon,niaD,,NA,0
+880,Amygdalin,PM2,B04,carbon,niaD,C08325,0,1
+881,D-Arabinose,PM2,B05,carbon,niaD,C00216,0,1
+882,D-Arabitol,PM2,B06,carbon,niaD,C01904,0,1
+883,L-Arabitol,PM2,B07,carbon,niaD,C00532,0,1
+884,Arbutin,PM2,B08,carbon,niaD,C06186,1,1
+885,2-Deoxy-D-Ribose,PM2,B09,carbon,niaD,C01801,0,1
+886,i-Erythritol,PM2,B10,carbon,niaD,C00503,0,1
+887,D-Fucose,PM2,B11,carbon,niaD,,NA,1
+888,3-O-b-D-Galactopyranosyl-D-Arabinose,PM2,B12,carbon,niaD,,NA,0
+889,Gentiobiose,PM2,C01,carbon,niaD,,NA,1
+890,L-Glucose,PM2,C02,carbon,niaD,,NA,0
+891,D-Lactitol,PM2,C03,carbon,niaD,,NA,0
+892,D-Melezitose,PM2,C04,carbon,niaD,,NA,0
+893,Maltitol,PM2,C05,carbon,niaD,,NA,1
+894,a-Methyl-D-Glucoside,PM2,C06,carbon,niaD,,NA,0
+895,b-Methyl-D-Galactoside,PM2,C07,carbon,niaD,,NA,0
+896,3-Methylglucose,PM2,C08,carbon,niaD,,NA,0
+897,b-Methyl-D-Glucuronic acid,PM2,C09,carbon,niaD,,NA,0
+898,a-Methyl-D-Mannoside,PM2,C10,carbon,niaD,,NA,0
+899,b-Methyl-D-Xyloside,PM2,C11,carbon,niaD,,NA,0
+900,Palatinose,PM2,C12,carbon,niaD,,NA,1
+901,D-Raffinose,PM2,D01,carbon,niaD,C00492,0,1
+902,Salicin,PM2,D02,carbon,niaD,C01451,1,1
+903,Sedoheptulosan,PM2,D03,carbon,niaD,,NA,0
+904,L-Sorbose,PM2,D04,carbon,niaD,C00247,0,1
+905,Stachyose,PM2,D05,carbon,niaD,C01613,0,1
+906,D-Tagatose,PM2,D06,carbon,niaD,C00795,1,1
+907,Turanose,PM2,D07,carbon,niaD,,NA,1
+908,Xylitol,PM2,D08,carbon,niaD,C00379,0,1
+909,N-Acetyl-D-Glucosaminitol,PM2,D09,carbon,niaD,,NA,0
+910,g-Amino-N-Butyric acid,PM2,D10,carbon,niaD,C00334,0,1
+911,d-Amino Valeric acid,PM2,D11,carbon,niaD,,NA,0
+912,Butyric acid,PM2,D12,carbon,niaD,C00246,0,1
+913,Capric acid,PM2,E01,carbon,niaD,C01571,0,0
+914,Caproic acid,PM2,E02,carbon,niaD,C01585,0,1
+915,Citraconic acid,PM2,E03,carbon,niaD,C02226,1,0
+916,Citramalic acid,PM2,E04,carbon,niaD,C02614,1,0
+917,D-Glucosamine,PM2,E05,carbon,niaD,C00329,0,1
+918,2-Hydroxybenzoic acid,PM2,E06,carbon,niaD,C00805,0,1
+919,4-Hydroxybenzoic acid,PM2,E07,carbon,niaD,C00156,0,1
+920,b-Hydroxybutyric acid,PM2,E08,carbon,niaD,C01089,0,1
+921,g-Hydroxybutyric acid,PM2,E09,carbon,niaD,,NA,1
+922,a-Keto-Valeric acid,PM2,E10,carbon,niaD,,NA,1
+923,Itaconic acid,PM2,E11,carbon,niaD,C00490,0,0
+924,5-Keto-D-Gluconic acid,PM2,E12,carbon,niaD,,NA,1
+925,D-Lactic acid Methyl Ester,PM2,F01,carbon,niaD,,NA,1
+926,Malonic acid,PM2,F02,carbon,niaD,,NA,1
+927,Melibionic acid,PM2,F03,carbon,niaD,,NA,0
+928,Oxalic acid,PM2,F04,carbon,niaD,C00209,0,0
+929,Oxalomalic acid,PM2,F05,carbon,niaD,,NA,1
+930,Quinic acid,PM2,F06,carbon,niaD,C00296,0,1
+931,"D-Ribono-1,4-Lactone",PM2,F07,carbon,niaD,,NA,1
+932,Sebacic acid,PM2,F08,carbon,niaD,C08277,1,1
+933,Sorbic acid,PM2,F09,carbon,niaD,,NA,1
+934,Succinamic acid,PM2,F10,carbon,niaD,,NA,1
+935,D-Tartaric acid,PM2,F11,carbon,niaD,,NA,0
+936,L-Tartaric acid,PM2,F12,carbon,niaD,,NA,1
+937,Acetamide,PM2,G01,carbon,niaD,C06244,0,0
+938,L-Alaninamide,PM2,G02,carbon,niaD,,NA,1
+939,N-Acetyl-L-Glutamic acid,PM2,G03,carbon,niaD,C00624,0,0
+940,L-Arginine,PM2,G04,carbon,niaD,C00062,0,1
+941,Glycine,PM2,G05,carbon,niaD,C00037,0,1
+942,L-Histidine,PM2,G06,carbon,niaD,C00135,0,1
+943,L-Homoserine,PM2,G07,carbon,niaD,C00263,0,0
+944,Hydroxy-L-Proline,PM2,G08,carbon,niaD,C01157,0,0
+945,L-Isoleucine,PM2,G09,carbon,niaD,C00407,0,1
+946,L-Leucine,PM2,G10,carbon,niaD,C00123,0,1
+947,L-Lysine,PM2,G11,carbon,niaD,C00047,0,1
+948,L-Methionine,PM2,G12,carbon,niaD,C00073,0,0
+949,L-Ornithine,PM2,H01,carbon,niaD,C00077,0,1
+950,L-Phenylalanine,PM2,H02,carbon,niaD,C00079,0,1
+951,L-Pyroglutamic acid,PM2,H03,carbon,niaD,C01879,0,1
+952,L-Valine,PM2,H04,carbon,niaD,C00183,0,1
+953,"D,L-Carnitine",PM2,H05,carbon,niaD,C15025,1,0
+954,sec-Butylamine,PM2,H06,carbon,niaD,,NA,0
+955,"D,L-Octopamine",PM2,H07,carbon,niaD,,NA,0
+956,Putrescine,PM2,H08,carbon,niaD,C00134,0,0
+957,Dihydroxyacetone,PM2,H09,carbon,niaD,C00184,0,1
+958,"2,3-Butanediol",PM2,H10,carbon,niaD,C03044,0,0
+959,"2,3-Butanedione",PM2,H11,carbon,niaD,C00741,1,1
+960,3-Hydroxy-2-buta,PM2,H12,carbon,niaD,,NA,0
+961,Negative Control,PM3,A01,nitrogen,niaD,,NA,0
+962,Ammonia,PM3,A02,nitrogen,niaD,C01342,0,1
+963,Nitrite,PM3,A03,nitrogen,niaD,C00088,0,0
+964,Nitrate,PM3,A04,nitrogen,niaD,C00244,0,0
+965,Urea,PM3,A05,nitrogen,niaD,C00086,0,1
+966,Biuret,PM3,A06,nitrogen,niaD,C06555,1,0
+967,L-Alanine,PM3,A07,nitrogen,niaD,C00133,0,1
+968,L-Arginine,PM3,A08,nitrogen,niaD,C00062,0,1
+969,L-Asparagine,PM3,A09,nitrogen,niaD,C00152,0,1
+970,L-Aspartic acid,PM3,A10,nitrogen,niaD,C00049,0,1
+971,L-Cysteine,PM3,A11,nitrogen,niaD,C00097,0,1
+972,L-Glutamic acid,PM3,A12,nitrogen,niaD,C00025,0,1
+973,L-Glutamine,PM3,B01,nitrogen,niaD,C00064,0,1
+974,Glycine,PM3,B02,nitrogen,niaD,C00037,0,0
+975,L-Histidine,PM3,B03,nitrogen,niaD,C00135,0,0
+976,L-Isoleucine,PM3,B04,nitrogen,niaD,C00407,0,0
+977,L-Leucine,PM3,B05,nitrogen,niaD,C00123,0,0
+978,L-Lysine,PM3,B06,nitrogen,niaD,C00047,0,0
+979,L-Methionine,PM3,B07,nitrogen,niaD,C00073,0,0
+980,L-Phenylalanine,PM3,B08,nitrogen,niaD,C00079,0,1
+981,L-Proline,PM3,B09,nitrogen,niaD,C00148,0,0
+982,L-Serine,PM3,B10,nitrogen,niaD,C00065,0,0
+983,L-Threonine,PM3,B11,nitrogen,niaD,C00188,0,1
+984,L-Tryptophan,PM3,B12,nitrogen,niaD,C00078,0,1
+985,L-Tyrosine,PM3,C01,nitrogen,niaD,C00082,0,1
+986,L-Valine,PM3,C02,nitrogen,niaD,C00183,0,0
+987,D-Alanine,PM3,C03,nitrogen,niaD,,NA,0
+988,D-Asparagine,PM3,C04,nitrogen,niaD,,NA,0
+989,D-Aspartic acid,PM3,C05,nitrogen,niaD,,NA,0
+990,D-Glutamic acid,PM3,C06,nitrogen,niaD,C00217,1,0
+991,D-Lysine,PM3,C07,nitrogen,niaD,C00739,0,0
+992,D-Serine,PM3,C08,nitrogen,niaD,C00740,0,0
+993,D-Valine,PM3,C09,nitrogen,niaD,,NA,0
+994,L-Citrulline,PM3,C10,nitrogen,niaD,C00327,0,0
+995,L-Homoserine,PM3,C11,nitrogen,niaD,C00263,0,0
+996,L-Ornithine,PM3,C12,nitrogen,niaD,C00077,0,1
+997,N-Acetyl-L-Glutamic acid,PM3,D01,nitrogen,niaD,C00624,0,0
+998,N-Phthaloyl-L-Glutamic acid,PM3,D02,nitrogen,niaD,,NA,0
+999,L-Pyroglutamic acid,PM3,D03,nitrogen,niaD,C01879,0,0
+1000,Hydroxylamine,PM3,D04,nitrogen,niaD,,NA,0
+1001,Methylamine,PM3,D05,nitrogen,niaD,C00218,0,0
+1002,N-Amylamine,PM3,D06,nitrogen,niaD,,NA,0
+1003,N-Butylamine,PM3,D07,nitrogen,niaD,,NA,0
+1004,Ethylamine,PM3,D08,nitrogen,niaD,C00797,1,0
+1005,Ethanolamine,PM3,D09,nitrogen,niaD,C00189,0,1
+1006,Ethylenediamine,PM3,D10,nitrogen,niaD,,NA,0
+1007,Putrescine,PM3,D11,nitrogen,niaD,C00134,0,0
+1008,Agmatine,PM3,D12,nitrogen,niaD,C00179,0,1
+1009,Histamine,PM3,E01,nitrogen,niaD,C00388,1,0
+1010,b-Phenylethylamine,PM3,E02,nitrogen,niaD,C05332,0,1
+1011,Tyramine,PM3,E03,nitrogen,niaD,C00483,0,1
+1012,Acetamide,PM3,E04,nitrogen,niaD,C06244,0,0
+1013,Formamide,PM3,E05,nitrogen,niaD,C00488,0,0
+1014,Glucuronamide,PM3,E06,nitrogen,niaD,,NA,0
+1015,DL-Lactamide,PM3,E07,nitrogen,niaD,,NA,0
+1016,D-Glucosamine,PM3,E08,nitrogen,niaD,C00329,0,0
+1017,D-Galactosamine,PM3,E09,nitrogen,niaD,C02262,1,0
+1018,D-Mannosamine,PM3,E10,nitrogen,niaD,,NA,0
+1019,N-Acetyl-D-Glucosamine,PM3,E11,nitrogen,niaD,C00140,0,0
+1020,N-Acetyl-D-Galactosamine,PM3,E12,nitrogen,niaD,C01132,0,0
+1021,N-Acetyl-D-Mannosamine,PM3,F01,nitrogen,niaD,C00645,1,0
+1022,Adenine,PM3,F02,nitrogen,niaD,C00147,0,1
+1023,Adenosine,PM3,F03,nitrogen,niaD,C00212,0,1
+1024,Cytidine,PM3,F04,nitrogen,niaD,C00475,0,0
+1025,Cytosine,PM3,F05,nitrogen,niaD,C00380,0,0
+1026,Guanine,PM3,F06,nitrogen,niaD,C00242,0,1
+1027,Guanosine,PM3,F07,nitrogen,niaD,C00387,0,1
+1028,Thymine,PM3,F08,nitrogen,niaD,C00178,1,0
+1029,Thymidine,PM3,F09,nitrogen,niaD,C00214,0,0
+1030,Uracil,PM3,F10,nitrogen,niaD,C00106,0,0
+1031,Uridine,PM3,F11,nitrogen,niaD,C00299,0,0
+1032,Inosine,PM3,F12,nitrogen,niaD,C00294,0,1
+1033,Xanthine,PM3,G01,nitrogen,niaD,C00385,0,1
+1034,Xanthosine,PM3,G02,nitrogen,niaD,C01762,0,0
+1035,Uric acid,PM3,G03,nitrogen,niaD,C00366,0,1
+1036,Alloxan,PM3,G04,nitrogen,niaD,,NA,0
+1037,Allantoin,PM3,G05,nitrogen,niaD,C01551,0,1
+1038,Parabanic acid,PM3,G06,nitrogen,niaD,,NA,0
+1039,DL-a-Amino-N-Butyric acid,PM3,G07,nitrogen,niaD,Cluster3316,1,0
+1040,g-Amino-N-Butyric acid,PM3,G08,nitrogen,niaD,C00334,0,1
+1041,e-Amino-N-Caproic acid,PM3,G09,nitrogen,niaD,C02378,1,0
+1042,DL-a-Amino-Caprylic acid,PM3,G10,nitrogen,niaD,,NA,0
+1043,d-Amino-N-Valeric acid,PM3,G11,nitrogen,niaD,C00431,0,0
+1044,a-Amino-N-Valeric acid,PM3,G12,nitrogen,niaD,,NA,1
+1045,Ala-Asp,PM3,H01,nitrogen,niaD,Cluster3898,1,1
+1046,Ala-Gln,PM3,H02,nitrogen,niaD,Cluster1480,1,1
+1047,Ala-Glu,PM3,H03,nitrogen,niaD,Cluster4793,1,1
+1048,Ala-Gly,PM3,H04,nitrogen,niaD,Cluster774,1,1
+1049,Ala-His,PM3,H05,nitrogen,niaD,Cluster5933,1,1
+1050,Ala-Leu,PM3,H06,nitrogen,niaD,Cluster2744,1,1
+1051,Ala-Thr,PM3,H07,nitrogen,niaD,Cluster843,1,0
+1052,Gly-Asn,PM3,H08,nitrogen,niaD,Cluster2052,1,1
+1053,Gly-Gln,PM3,H09,nitrogen,niaD,Cluster419,1,1
+1054,Gly-Glu,PM3,H10,nitrogen,niaD,Cluster4672,1,1
+1055,Gly-Met,PM3,H11,nitrogen,niaD,Cluster168,1,1
+1056,Met-Ala,PM3,H12,nitrogen,niaD,,NA,1
+1057,Negative Control,PM4,A01,phosphorus,niaD,,NA,0
+1058,Phosphate,PM4,A02,phosphorus,niaD,C00009,0,0
+1059,Pyrophosphate,PM4,A03,phosphorus,niaD,C00013,0,0
+1060,Trimetaphosphate,PM4,A04,phosphorus,niaD,,NA,0
+1061,Tripolyphosphate,PM4,A05,phosphorus,niaD,C00536,0,0
+1062,Triethyl Phosphate,PM4,A06,phosphorus,niaD,,NA,0
+1063,Hypophosphite,PM4,A07,phosphorus,niaD,,NA,0
+1064,Adenosine 2`-Monophosphate,PM4,A08,phosphorus,niaD,CHEBI28223,0,0
+1065,Adenosine 3`-Monophosphate,PM4,A09,phosphorus,niaD,,NA,0
+1066,Adenosine 5`-Monophosphate,PM4,A10,phosphorus,niaD,C00020,0,0
+1067,"Adenosine 2`,3`-Cyclic Monophosphate",PM4,A11,phosphorus,niaD,C02353,0,0
+1068,"Adenosine 3`,5`-Cyclic Monophosphate",PM4,A12,phosphorus,niaD,C00575,0,0
+1069,Thiophosphate,PM4,B01,phosphorus,niaD,,NA,0
+1070,Dithiophosphate,PM4,B02,phosphorus,niaD,,NA,0
+1071,DL-a-Glycerol Phosphate,PM4,B03,phosphorus,niaD,C00093,0,0
+1072,b-Glycerol Phosphate,PM4,B04,phosphorus,niaD,,NA,0
+1073,Carbamyl Phosphate,PM4,B05,phosphorus,niaD,C00169,0,0
+1074,D-2-Phospho-Glyceric acid,PM4,B06,phosphorus,niaD,C00631,0,0
+1075,D-3-Phospho-Glyceric acid,PM4,B07,phosphorus,niaD,C00197,0,0
+1076,Guanosine 2`-Monophosphate,PM4,B08,phosphorus,niaD,Cluster519,0,0
+1077,Guanosine 3`-Monophosphate,PM4,B09,phosphorus,niaD,,NA,0
+1078,Guanosine 5`-Monophosphate,PM4,B10,phosphorus,niaD,C00144,0,0
+1079,"Guanosine 2`,3`-Cyclic Monophosphate",PM4,B11,phosphorus,niaD,C06194,0,0
+1080,"Guanosine 3`,5`-Cyclic Monophosphate",PM4,B12,phosphorus,niaD,C00942,0,0
+1081,Phosphoenol Pyruvate,PM4,C01,phosphorus,niaD,C00074,0,0
+1082,Phospho-Glycolic acid,PM4,C02,phosphorus,niaD,C00988,0,0
+1083,D-Glucose-1-Phosphate,PM4,C03,phosphorus,niaD,C00103,0,0
+1084,D-Glucose-6-Phosphate,PM4,C04,phosphorus,niaD,C00092,0,0
+1085,2-Deoxy-D-Glucose 6-Phosphate,PM4,C05,phosphorus,niaD,C06369,1,0
+1086,D-Glucosamine-6-Phosphate,PM4,C06,phosphorus,niaD,C00352,0,0
+1087,6-Phospho-Gluconic acid,PM4,C07,phosphorus,niaD,C00345,0,0
+1088,Cytidine 2`-Monophosphate,PM4,C08,phosphorus,niaD,Cluster3292,0,0
+1089,Cytidine 3`-Monophosphate,PM4,C09,phosphorus,niaD,,NA,0
+1090,Cytidine 5`-Monophosphate,PM4,C10,phosphorus,niaD,C00055,0,0
+1091,"Cytidine 2`,3`-Cyclic Monophosphate",PM4,C11,phosphorus,niaD,C02354,0,0
+1092,"Cytidine 3`,5`-Cyclic Monophosphate",PM4,C12,phosphorus,niaD,C00941,0,0
+1093,D-Mannose-1-Phosphate,PM4,D01,phosphorus,niaD,C00636,0,0
+1094,D-Mannose-6-Phosphate,PM4,D02,phosphorus,niaD,C00275,0,0
+1095,Cysteamine-S-Phosphate,PM4,D03,phosphorus,niaD,,NA,0
+1096,Phospho-L-Arginine,PM4,D04,phosphorus,niaD,,NA,0
+1097,O-Phospho-D-Serine,PM4,D05,phosphorus,niaD,C02532,0,0
+1098,O-Phospho-L-Serine,PM4,D06,phosphorus,niaD,C01005,0,0
+1099,O-Phospho-L-Threonine,PM4,D07,phosphorus,niaD,C12147,0,0
+1100,Uridine 2`-Monophosphate,PM4,D08,phosphorus,niaD,Cluster119,0,0
+1101,Uridine 3`-Monophosphate,PM4,D09,phosphorus,niaD,,NA,0
+1102,Uridine 5`-Monophosphate,PM4,D10,phosphorus,niaD,C00105,0,0
+1103,"Uridine 2`,3`-Cyclic Monophosphate",PM4,D11,phosphorus,niaD,C02355,0,0
+1104,"Uridine 3`,5`-Cyclic Monophosphate",PM4,D12,phosphorus,niaD,,NA,0
+1105,O-Phospho-D-Tyrosine,PM4,E01,phosphorus,niaD,,NA,0
+1106,O-Phospho-L-Tyrosine,PM4,E02,phosphorus,niaD,,NA,0
+1107,Phosphocreatine,PM4,E03,phosphorus,niaD,,NA,0
+1108,Phosphoryl Choline,PM4,E04,phosphorus,niaD,C00588,0,0
+1109,O-Phosphoryl-Ethanolamine,PM4,E05,phosphorus,niaD,C00346,0,0
+1110,Phosphono Acetic acid,PM4,E06,phosphorus,niaD,,NA,0
+1111,2-Aminoethyl Phosphonic acid,PM4,E07,phosphorus,niaD,C03557,0,0
+1112,Methylene Diphosphonic acid,PM4,E08,phosphorus,niaD,,NA,0
+1113,Thymidine 3`-Monophosphate,PM4,E09,phosphorus,niaD,,NA,0
+1114,Thymidine 5`-Monophosphate,PM4,E10,phosphorus,niaD,C00364,0,0
+1115,Inositol Hexaphosphate,PM4,E11,phosphorus,niaD,C01204,0,0
+1116,"Thymidine 3`,5`-Cyclic Monophosphate",PM4,E12,phosphorus,niaD,,NA,0
+1117,Negative Control,PM4,F01,sulfur,niaD,,NA,0
+1118,Sulfate,PM4,F02,sulfur,niaD,C00059,0,0
+1119,Thiosulfate,PM4,F03,sulfur,niaD,C00320,0,0
+1120,Tetrathionate,PM4,F04,sulfur,niaD,,NA,1
+1121,Thiophosphate,PM4,F05,sulfur,niaD,,NA,0
+1122,Dithiophosphate,PM4,F06,sulfur,niaD,,NA,0
+1123,L-Cysteine,PM4,F07,sulfur,niaD,C00097,0,1
+1124,D-Cysteine,PM4,F08,sulfur,niaD,,NA,1
+1125,Cys-Gly,PM4,F09,sulfur,niaD,C01419,0,1
+1126,L-Cysteic acid,PM4,F10,sulfur,niaD,C00506,0,1
+1127,Cysteamine,PM4,F11,sulfur,niaD,C01678,0,0
+1128,L-Cysteine Sulfinic acid,PM4,F12,sulfur,niaD,C00606,0,1
+1129,N-Acetyl-L-Cysteine,PM4,G01,sulfur,niaD,,NA,1
+1130,S-Methyl-L-Cysteine,PM4,G02,sulfur,niaD,,NA,1
+1131,Cystathionine,PM4,G03,sulfur,niaD,C00542,0,0
+1132,Lanthionine,PM4,G04,sulfur,niaD,,NA,1
+1133,Glutathione,PM4,G05,sulfur,niaD,C00051,0,1
+1134,DL-Ethionine,PM4,G06,sulfur,niaD,,NA,0
+1135,L-Methionine,PM4,G07,sulfur,niaD,C00073,0,1
+1136,D-Methionine,PM4,G08,sulfur,niaD,,NA,1
+1137,Gly-Met,PM4,G09,sulfur,niaD,Cluster168,1,1
+1138,"N-Acetyl-D,L-Methionine",PM4,G10,sulfur,niaD,Cluster582,0,1
+1139,L-Methionine Sulfoxide,PM4,G11,sulfur,niaD,,NA,1
+1140,L-Methionine Sulfone,PM4,G12,sulfur,niaD,,NA,1
+1141,L-Djenkolic acid,PM4,H01,sulfur,niaD,,NA,1
+1142,Thiourea,PM4,H02,sulfur,niaD,,NA,0
+1143,1-Thio-b-D-Glucose,PM4,H03,sulfur,niaD,,NA,0
+1144,DL-Lipoamide,PM4,H04,sulfur,niaD,C00248,0,1
+1145,Taurocholic acid,PM4,H05,sulfur,niaD,,NA,0
+1146,Taurine,PM4,H06,sulfur,niaD,C00245,0,1
+1147,Hypotaurine,PM4,H07,sulfur,niaD,C00519,0,1
+1148,p-Aminobenzene Sulfonic acid,PM4,H08,sulfur,niaD,,NA,0
+1149,Butane Sulfonic acid,PM4,H09,sulfur,niaD,,NA,1
+1150,2-Hydroxyethane Sulfonic acid,PM4,H10,sulfur,niaD,,NA,1
+1151,Methane Sulfonic acid,PM4,H11,sulfur,niaD,,NA,1
+1152,Tetramethylene Sulfone,PM4,H12,sulfur,niaD,,NA,0
+1153,Negative Control,PM1,A01,carbon,LYS4,,NA,0
+1154,L-Arabinose,PM1,A02,carbon,LYS4,C00259,0,1
+1155,N-Acetyl-D-Glucosamine,PM1,A03,carbon,LYS4,C00140,0,1
+1156,D-Saccharic acid,PM1,A04,carbon,LYS4,C00818,0,0
+1157,Succinic acid,PM1,A05,carbon,LYS4,C00042,0,0
+1158,D-Galactose,PM1,A06,carbon,LYS4,C00124,0,1
+1159,L-Aspartic acid,PM1,A07,carbon,LYS4,C00049,0,0
+1160,L-Proline,PM1,A08,carbon,LYS4,C00148,0,1
+1161,D-Alanine,PM1,A09,carbon,LYS4,,NA,0
+1162,D-Trehalose,PM1,A10,carbon,LYS4,C01083,0,1
+1163,D-Mannose,PM1,A11,carbon,LYS4,C00159,0,1
+1164,Dulcitol,PM1,A12,carbon,LYS4,C01697,0,1
+1165,D-Serine,PM1,B01,carbon,LYS4,C00740,0,0
+1166,D-Sorbitol,PM1,B02,carbon,LYS4,C00794,0,1
+1167,Glycerol,PM1,B03,carbon,LYS4,C00116,0,0
+1168,L-Fucose,PM1,B04,carbon,LYS4,C01019,0,0
+1169,D-Glucuronic acid,PM1,B05,carbon,LYS4,C00191,0,0
+1170,D-Gluconic acid,PM1,B06,carbon,LYS4,C00257,0,1
+1171,DL-a-Glycerol Phosphate,PM1,B07,carbon,LYS4,C00093,0,0
+1172,D-Xylose,PM1,B08,carbon,LYS4,C00181,0,1
+1173,L-Lactic acid,PM1,B09,carbon,LYS4,C00186,0,0
+1174,Formic acid,PM1,B10,carbon,LYS4,C00058,0,0
+1175,D-Mannitol,PM1,B11,carbon,LYS4,C00392,0,1
+1176,L-Glutamic acid,PM1,B12,carbon,LYS4,C00025,0,1
+1177,D-Glucose-6-Phosphate,PM1,C01,carbon,LYS4,C00092,0,0
+1178,D-Galactonic acid-g-Lactone,PM1,C02,carbon,LYS4,,NA,0
+1179,DL-Malic acid,PM1,C03,carbon,LYS4,C00149,0,1
+1180,D-Ribose,PM1,C04,carbon,LYS4,C00121,0,1
+1181,Tween 20,PM1,C05,carbon,LYS4,,NA,0
+1182,L-Rhamnose,PM1,C06,carbon,LYS4,C00507,1,1
+1183,D-Fructose,PM1,C07,carbon,LYS4,C00095,0,1
+1184,Acetic acid,PM1,C08,carbon,LYS4,C00033,0,0
+1185,a-D-Glucose,PM1,C09,carbon,LYS4,C00031,0,1
+1186,Maltose,PM1,C10,carbon,LYS4,C00208,0,1
+1187,D-Melibiose,PM1,C11,carbon,LYS4,C05402,0,1
+1188,Thymidine,PM1,C12,carbon,LYS4,C00214,0,0
+1189,L-Asparagine,PM1,D01,carbon,LYS4,C00152,0,1
+1190,D-Aspartic acid,PM1,D02,carbon,LYS4,,NA,0
+1191,D-Glucosaminic acid,PM1,D03,carbon,LYS4,C03752,1,0
+1192,"1,2-Propanediol",PM1,D04,carbon,LYS4,C00583,1,0
+1193,Tween 40,PM1,D05,carbon,LYS4,,NA,0
+1194,a-Ketoglutaric acid,PM1,D06,carbon,LYS4,C00026,0,1
+1195,a-Ketobutyric acid,PM1,D07,carbon,LYS4,C00109,0,0
+1196,a-Methyl-D-Galactoside,PM1,D08,carbon,LYS4,,NA,0
+1197,a-D-Lactose,PM1,D09,carbon,LYS4,C00243,0,0
+1198,Lactulose,PM1,D10,carbon,LYS4,,NA,0
+1199,Sucrose,PM1,D11,carbon,LYS4,C00089,0,1
+1200,Uridine,PM1,D12,carbon,LYS4,C00299,0,0
+1201,L-Glutamine,PM1,E01,carbon,LYS4,C00064,0,1
+1202,m-Tartaric acid,PM1,E02,carbon,LYS4,C00552,1,0
+1203,D-Glucose-1-Phosphate,PM1,E03,carbon,LYS4,C00103,0,0
+1204,D-Fructose-6-Phosphate,PM1,E04,carbon,LYS4,C00085,0,0
+1205,Tween 80,PM1,E05,carbon,LYS4,,NA,0
+1206,a-Hydroxyglutaric acid-g-Lactone,PM1,E06,carbon,LYS4,,NA,0
+1207,a-Hydroxybutyric acid,PM1,E07,carbon,LYS4,C05984,0,0
+1208,b-Methyl-D-Glucoside,PM1,E08,carbon,LYS4,,NA,0
+1209,Adonitol,PM1,E09,carbon,LYS4,C00474,0,0
+1210,Maltotriose,PM1,E10,carbon,LYS4,CHEBI27931,0,1
+1211,2`-Deoxyadenosine,PM1,E11,carbon,LYS4,C00559,0,0
+1212,Adenosine,PM1,E12,carbon,LYS4,C00212,0,0
+1213,Gly-Asp,PM1,F01,carbon,LYS4,Cluster363,1,0
+1214,Citric acid,PM1,F02,carbon,LYS4,C00158,0,0
+1215,m-Inositol,PM1,F03,carbon,LYS4,C00137,0,1
+1216,D-Threonine,PM1,F04,carbon,LYS4,,NA,0
+1217,Fumaric acid,PM1,F05,carbon,LYS4,C00122,0,1
+1218,Bromosuccinic acid,PM1,F06,carbon,LYS4,,NA,0
+1219,Propionic acid,PM1,F07,carbon,LYS4,C00163,0,0
+1220,Mucic acid,PM1,F08,carbon,LYS4,,NA,0
+1221,Glycolic acid,PM1,F09,carbon,LYS4,C00160,0,1
+1222,Glyoxylic acid,PM1,F10,carbon,LYS4,C00048,0,0
+1223,D-Cellobiose,PM1,F11,carbon,LYS4,C00185,0,1
+1224,Inosine,PM1,F12,carbon,LYS4,C00294,0,0
+1225,Gly-Glu,PM1,G01,carbon,LYS4,Cluster4672,1,0
+1226,Tricarballylic acid,PM1,G02,carbon,LYS4,,NA,0
+1227,L-Serine,PM1,G03,carbon,LYS4,C00065,0,0
+1228,L-Threonine,PM1,G04,carbon,LYS4,C00188,0,1
+1229,L-Alanine,PM1,G05,carbon,LYS4,C00133,0,1
+1230,Ala-Gly,PM1,G06,carbon,LYS4,Cluster774,1,1
+1231,Acetoacetic acid,PM1,G07,carbon,LYS4,C00164,0,0
+1232,N-Acetyl-D-Mannosamine,PM1,G08,carbon,LYS4,C00645,1,0
+1233,Mono-Methylsuccinate,PM1,G09,carbon,LYS4,,NA,0
+1234,Methylpyruvate,PM1,G10,carbon,LYS4,,NA,0
+1235,D-Malic acid,PM1,G11,carbon,LYS4,C00497,0,1
+1236,L-Malic acid,PM1,G12,carbon,LYS4,C00149,0,1
+1237,Gly-Pro,PM1,H01,carbon,LYS4,Cluster3300,1,1
+1238,p-Hydroxyphenyl Acetic acid,PM1,H02,carbon,LYS4,C00642,0,1
+1239,m-Hydroxyphenyl Acetic acid,PM1,H03,carbon,LYS4,,NA,1
+1240,Tyramine,PM1,H04,carbon,LYS4,C00483,0,1
+1241,D-Psicose,PM1,H05,carbon,LYS4,,NA,0
+1242,L-Lyxose,PM1,H06,carbon,LYS4,,NA,1
+1243,Glucuronamide,PM1,H07,carbon,LYS4,,NA,0
+1244,Pyruvic acid,PM1,H08,carbon,LYS4,C00022,0,1
+1245,L-Galactonic acid-g-Lactone,PM1,H09,carbon,LYS4,C01115,1,0
+1246,D-Galacturonic acid,PM1,H10,carbon,LYS4,C00333,0,1
+1247,Phenylethylamine,PM1,H11,carbon,LYS4,C05332,0,0
+1248,2-Aminoethanol,PM1,H12,carbon,LYS4,C00189,0,1
+1249,Negative Control,PM2,A01,carbon,LYS4,,NA,0
+1250,Chondroitin Sulfate C,PM2,A02,carbon,LYS4,,NA,0
+1251,a-Cyclodextrin,PM2,A03,carbon,LYS4,C00973,1,0
+1252,b-Cyclodextrin,PM2,A04,carbon,LYS4,C00973,1,1
+1253,g-Cyclodextrin,PM2,A05,carbon,LYS4,C00973,1,1
+1254,Dextrin,PM2,A06,carbon,LYS4,C00721,0,1
+1255,Gelatin,PM2,A07,carbon,LYS4,,NA,1
+1256,Glycogen,PM2,A08,carbon,LYS4,C00182,0,1
+1257,Inulin,PM2,A09,carbon,LYS4,,NA,0
+1258,Laminarin,PM2,A10,carbon,LYS4,,NA,1
+1259,Mannan,PM2,A11,carbon,LYS4,C00721,0,0
+1260,Pectin,PM2,A12,carbon,LYS4,CHEBI17309,0,1
+1261,N-Acetyl-D-Galactosamine,PM2,B01,carbon,LYS4,C01132,0,0
+1262,N-Acetyl-Neuraminic acid,PM2,B02,carbon,LYS4,C00270,0,0
+1263,b-D-Allose,PM2,B03,carbon,LYS4,,NA,0
+1264,Amygdalin,PM2,B04,carbon,LYS4,C08325,0,1
+1265,D-Arabinose,PM2,B05,carbon,LYS4,C00216,0,1
+1266,D-Arabitol,PM2,B06,carbon,LYS4,C01904,0,1
+1267,L-Arabitol,PM2,B07,carbon,LYS4,C00532,0,1
+1268,Arbutin,PM2,B08,carbon,LYS4,C06186,1,1
+1269,2-Deoxy-D-Ribose,PM2,B09,carbon,LYS4,C01801,0,1
+1270,i-Erythritol,PM2,B10,carbon,LYS4,C00503,0,1
+1271,D-Fucose,PM2,B11,carbon,LYS4,,NA,1
+1272,3-O-b-D-Galactopyranosyl-D-Arabinose,PM2,B12,carbon,LYS4,,NA,1
+1273,Gentiobiose,PM2,C01,carbon,LYS4,,NA,1
+1274,L-Glucose,PM2,C02,carbon,LYS4,,NA,0
+1275,D-Lactitol,PM2,C03,carbon,LYS4,,NA,0
+1276,D-Melezitose,PM2,C04,carbon,LYS4,,NA,0
+1277,Maltitol,PM2,C05,carbon,LYS4,,NA,1
+1278,a-Methyl-D-Glucoside,PM2,C06,carbon,LYS4,,NA,0
+1279,b-Methyl-D-Galactoside,PM2,C07,carbon,LYS4,,NA,0
+1280,3-Methylglucose,PM2,C08,carbon,LYS4,,NA,0
+1281,b-Methyl-D-Glucuronic acid,PM2,C09,carbon,LYS4,,NA,0
+1282,a-Methyl-D-Mannoside,PM2,C10,carbon,LYS4,,NA,0
+1283,b-Methyl-D-Xyloside,PM2,C11,carbon,LYS4,,NA,0
+1284,Palatinose,PM2,C12,carbon,LYS4,,NA,1
+1285,D-Raffinose,PM2,D01,carbon,LYS4,C00492,0,1
+1286,Salicin,PM2,D02,carbon,LYS4,C01451,1,1
+1287,Sedoheptulosan,PM2,D03,carbon,LYS4,,NA,0
+1288,L-Sorbose,PM2,D04,carbon,LYS4,C00247,0,1
+1289,Stachyose,PM2,D05,carbon,LYS4,C01613,0,1
+1290,D-Tagatose,PM2,D06,carbon,LYS4,C00795,1,1
+1291,Turanose,PM2,D07,carbon,LYS4,,NA,1
+1292,Xylitol,PM2,D08,carbon,LYS4,C00379,0,1
+1293,N-Acetyl-D-Glucosaminitol,PM2,D09,carbon,LYS4,,NA,0
+1294,g-Amino-N-Butyric acid,PM2,D10,carbon,LYS4,C00334,0,1
+1295,d-Amino Valeric acid,PM2,D11,carbon,LYS4,,NA,0
+1296,Butyric acid,PM2,D12,carbon,LYS4,C00246,0,1
+1297,Capric acid,PM2,E01,carbon,LYS4,C01571,0,0
+1298,Caproic acid,PM2,E02,carbon,LYS4,C01585,0,1
+1299,Citraconic acid,PM2,E03,carbon,LYS4,C02226,1,0
+1300,Citramalic acid,PM2,E04,carbon,LYS4,C02614,1,0
+1301,D-Glucosamine,PM2,E05,carbon,LYS4,C00329,0,1
+1302,2-Hydroxybenzoic acid,PM2,E06,carbon,LYS4,C00805,0,1
+1303,4-Hydroxybenzoic acid,PM2,E07,carbon,LYS4,C00156,0,0
+1304,b-Hydroxybutyric acid,PM2,E08,carbon,LYS4,C01089,0,1
+1305,g-Hydroxybutyric acid,PM2,E09,carbon,LYS4,,NA,1
+1306,a-Keto-Valeric acid,PM2,E10,carbon,LYS4,,NA,1
+1307,Itaconic acid,PM2,E11,carbon,LYS4,C00490,0,0
+1308,5-Keto-D-Gluconic acid,PM2,E12,carbon,LYS4,,NA,1
+1309,D-Lactic acid Methyl Ester,PM2,F01,carbon,LYS4,,NA,1
+1310,Malonic acid,PM2,F02,carbon,LYS4,,NA,1
+1311,Melibionic acid,PM2,F03,carbon,LYS4,,NA,0
+1312,Oxalic acid,PM2,F04,carbon,LYS4,C00209,0,0
+1313,Oxalomalic acid,PM2,F05,carbon,LYS4,,NA,1
+1314,Quinic acid,PM2,F06,carbon,LYS4,C00296,0,1
+1315,"D-Ribono-1,4-Lactone",PM2,F07,carbon,LYS4,,NA,1
+1316,Sebacic acid,PM2,F08,carbon,LYS4,C08277,1,1
+1317,Sorbic acid,PM2,F09,carbon,LYS4,,NA,1
+1318,Succinamic acid,PM2,F10,carbon,LYS4,,NA,1
+1319,D-Tartaric acid,PM2,F11,carbon,LYS4,,NA,0
+1320,L-Tartaric acid,PM2,F12,carbon,LYS4,,NA,0
+1321,Acetamide,PM2,G01,carbon,LYS4,C06244,0,0
+1322,L-Alaninamide,PM2,G02,carbon,LYS4,,NA,1
+1323,N-Acetyl-L-Glutamic acid,PM2,G03,carbon,LYS4,C00624,0,0
+1324,L-Arginine,PM2,G04,carbon,LYS4,C00062,0,1
+1325,Glycine,PM2,G05,carbon,LYS4,C00037,0,1
+1326,L-Histidine,PM2,G06,carbon,LYS4,C00135,0,1
+1327,L-Homoserine,PM2,G07,carbon,LYS4,C00263,0,0
+1328,Hydroxy-L-Proline,PM2,G08,carbon,LYS4,C01157,0,0
+1329,L-Isoleucine,PM2,G09,carbon,LYS4,C00407,0,1
+1330,L-Leucine,PM2,G10,carbon,LYS4,C00123,0,1
+1331,L-Lysine,PM2,G11,carbon,LYS4,C00047,0,1
+1332,L-Methionine,PM2,G12,carbon,LYS4,C00073,0,0
+1333,L-Ornithine,PM2,H01,carbon,LYS4,C00077,0,1
+1334,L-Phenylalanine,PM2,H02,carbon,LYS4,C00079,0,1
+1335,L-Pyroglutamic acid,PM2,H03,carbon,LYS4,C01879,0,1
+1336,L-Valine,PM2,H04,carbon,LYS4,C00183,0,1
+1337,"D,L-Carnitine",PM2,H05,carbon,LYS4,C15025,1,0
+1338,sec-Butylamine,PM2,H06,carbon,LYS4,,NA,0
+1339,"D,L-Octopamine",PM2,H07,carbon,LYS4,,NA,0
+1340,Putrescine,PM2,H08,carbon,LYS4,C00134,0,0
+1341,Dihydroxyacetone,PM2,H09,carbon,LYS4,C00184,0,1
+1342,"2,3-Butanediol",PM2,H10,carbon,LYS4,C03044,0,0
+1343,"2,3-Butanedione",PM2,H11,carbon,LYS4,C00741,1,1
+1344,3-Hydroxy-2-buta,PM2,H12,carbon,LYS4,,NA,0
+1345,Negative Control,PM3,A01,nitrogen,LYS4,,NA,0
+1346,Ammonia,PM3,A02,nitrogen,LYS4,C01342,0,1
+1347,Nitrite,PM3,A03,nitrogen,LYS4,C00088,0,0
+1348,Nitrate,PM3,A04,nitrogen,LYS4,C00244,0,0
+1349,Urea,PM3,A05,nitrogen,LYS4,C00086,0,1
+1350,Biuret,PM3,A06,nitrogen,LYS4,C06555,1,0
+1351,L-Alanine,PM3,A07,nitrogen,LYS4,C00133,0,1
+1352,L-Arginine,PM3,A08,nitrogen,LYS4,C00062,0,1
+1353,L-Asparagine,PM3,A09,nitrogen,LYS4,C00152,0,1
+1354,L-Aspartic acid,PM3,A10,nitrogen,LYS4,C00049,0,1
+1355,L-Cysteine,PM3,A11,nitrogen,LYS4,C00097,0,1
+1356,L-Glutamic acid,PM3,A12,nitrogen,LYS4,C00025,0,1
+1357,L-Glutamine,PM3,B01,nitrogen,LYS4,C00064,0,1
+1358,Glycine,PM3,B02,nitrogen,LYS4,C00037,0,1
+1359,L-Histidine,PM3,B03,nitrogen,LYS4,C00135,0,1
+1360,L-Isoleucine,PM3,B04,nitrogen,LYS4,C00407,0,1
+1361,L-Leucine,PM3,B05,nitrogen,LYS4,C00123,0,0
+1362,L-Lysine,PM3,B06,nitrogen,LYS4,C00047,0,0
+1363,L-Methionine,PM3,B07,nitrogen,LYS4,C00073,0,0
+1364,L-Phenylalanine,PM3,B08,nitrogen,LYS4,C00079,0,1
+1365,L-Proline,PM3,B09,nitrogen,LYS4,C00148,0,1
+1366,L-Serine,PM3,B10,nitrogen,LYS4,C00065,0,1
+1367,L-Threonine,PM3,B11,nitrogen,LYS4,C00188,0,0
+1368,L-Tryptophan,PM3,B12,nitrogen,LYS4,C00078,0,1
+1369,L-Tyrosine,PM3,C01,nitrogen,LYS4,C00082,0,1
+1370,L-Valine,PM3,C02,nitrogen,LYS4,C00183,0,1
+1371,D-Alanine,PM3,C03,nitrogen,LYS4,,NA,0
+1372,D-Asparagine,PM3,C04,nitrogen,LYS4,,NA,0
+1373,D-Aspartic acid,PM3,C05,nitrogen,LYS4,,NA,0
+1374,D-Glutamic acid,PM3,C06,nitrogen,LYS4,C00217,1,0
+1375,D-Lysine,PM3,C07,nitrogen,LYS4,C00739,0,0
+1376,D-Serine,PM3,C08,nitrogen,LYS4,C00740,0,0
+1377,D-Valine,PM3,C09,nitrogen,LYS4,,NA,0
+1378,L-Citrulline,PM3,C10,nitrogen,LYS4,C00327,0,0
+1379,L-Homoserine,PM3,C11,nitrogen,LYS4,C00263,0,1
+1380,L-Ornithine,PM3,C12,nitrogen,LYS4,C00077,0,1
+1381,N-Acetyl-L-Glutamic acid,PM3,D01,nitrogen,LYS4,C00624,0,0
+1382,N-Phthaloyl-L-Glutamic acid,PM3,D02,nitrogen,LYS4,,NA,0
+1383,L-Pyroglutamic acid,PM3,D03,nitrogen,LYS4,C01879,0,1
+1384,Hydroxylamine,PM3,D04,nitrogen,LYS4,,NA,0
+1385,Methylamine,PM3,D05,nitrogen,LYS4,C00218,0,0
+1386,N-Amylamine,PM3,D06,nitrogen,LYS4,,NA,0
+1387,N-Butylamine,PM3,D07,nitrogen,LYS4,,NA,0
+1388,Ethylamine,PM3,D08,nitrogen,LYS4,C00797,1,0
+1389,Ethanolamine,PM3,D09,nitrogen,LYS4,C00189,0,1
+1390,Ethylenediamine,PM3,D10,nitrogen,LYS4,,NA,0
+1391,Putrescine,PM3,D11,nitrogen,LYS4,C00134,0,0
+1392,Agmatine,PM3,D12,nitrogen,LYS4,C00179,0,1
+1393,Histamine,PM3,E01,nitrogen,LYS4,C00388,1,0
+1394,b-Phenylethylamine,PM3,E02,nitrogen,LYS4,C05332,0,1
+1395,Tyramine,PM3,E03,nitrogen,LYS4,C00483,0,1
+1396,Acetamide,PM3,E04,nitrogen,LYS4,C06244,0,0
+1397,Formamide,PM3,E05,nitrogen,LYS4,C00488,0,0
+1398,Glucuronamide,PM3,E06,nitrogen,LYS4,,NA,0
+1399,DL-Lactamide,PM3,E07,nitrogen,LYS4,,NA,0
+1400,D-Glucosamine,PM3,E08,nitrogen,LYS4,C00329,0,0
+1401,D-Galactosamine,PM3,E09,nitrogen,LYS4,C02262,1,0
+1402,D-Mannosamine,PM3,E10,nitrogen,LYS4,,NA,0
+1403,N-Acetyl-D-Glucosamine,PM3,E11,nitrogen,LYS4,C00140,0,1
+1404,N-Acetyl-D-Galactosamine,PM3,E12,nitrogen,LYS4,C01132,0,0
+1405,N-Acetyl-D-Mannosamine,PM3,F01,nitrogen,LYS4,C00645,1,0
+1406,Adenine,PM3,F02,nitrogen,LYS4,C00147,0,1
+1407,Adenosine,PM3,F03,nitrogen,LYS4,C00212,0,1
+1408,Cytidine,PM3,F04,nitrogen,LYS4,C00475,0,0
+1409,Cytosine,PM3,F05,nitrogen,LYS4,C00380,0,0
+1410,Guanine,PM3,F06,nitrogen,LYS4,C00242,0,1
+1411,Guanosine,PM3,F07,nitrogen,LYS4,C00387,0,1
+1412,Thymine,PM3,F08,nitrogen,LYS4,C00178,1,0
+1413,Thymidine,PM3,F09,nitrogen,LYS4,C00214,0,0
+1414,Uracil,PM3,F10,nitrogen,LYS4,C00106,0,0
+1415,Uridine,PM3,F11,nitrogen,LYS4,C00299,0,0
+1416,Inosine,PM3,F12,nitrogen,LYS4,C00294,0,1
+1417,Xanthine,PM3,G01,nitrogen,LYS4,C00385,0,1
+1418,Xanthosine,PM3,G02,nitrogen,LYS4,C01762,0,0
+1419,Uric acid,PM3,G03,nitrogen,LYS4,C00366,0,1
+1420,Alloxan,PM3,G04,nitrogen,LYS4,,NA,0
+1421,Allantoin,PM3,G05,nitrogen,LYS4,C01551,0,1
+1422,Parabanic acid,PM3,G06,nitrogen,LYS4,,NA,1
+1423,DL-a-Amino-N-Butyric acid,PM3,G07,nitrogen,LYS4,Cluster3316,1,0
+1424,g-Amino-N-Butyric acid,PM3,G08,nitrogen,LYS4,C00334,0,1
+1425,e-Amino-N-Caproic acid,PM3,G09,nitrogen,LYS4,C02378,1,0
+1426,DL-a-Amino-Caprylic acid,PM3,G10,nitrogen,LYS4,,NA,0
+1427,d-Amino-N-Valeric acid,PM3,G11,nitrogen,LYS4,C00431,0,1
+1428,a-Amino-N-Valeric acid,PM3,G12,nitrogen,LYS4,,NA,1
+1429,Ala-Asp,PM3,H01,nitrogen,LYS4,Cluster3898,1,1
+1430,Ala-Gln,PM3,H02,nitrogen,LYS4,Cluster1480,1,1
+1431,Ala-Glu,PM3,H03,nitrogen,LYS4,Cluster4793,1,1
+1432,Ala-Gly,PM3,H04,nitrogen,LYS4,Cluster774,1,1
+1433,Ala-His,PM3,H05,nitrogen,LYS4,Cluster5933,1,1
+1434,Ala-Leu,PM3,H06,nitrogen,LYS4,Cluster2744,1,1
+1435,Ala-Thr,PM3,H07,nitrogen,LYS4,Cluster843,1,1
+1436,Gly-Asn,PM3,H08,nitrogen,LYS4,Cluster2052,1,1
+1437,Gly-Gln,PM3,H09,nitrogen,LYS4,Cluster419,1,1
+1438,Gly-Glu,PM3,H10,nitrogen,LYS4,Cluster4672,1,1
+1439,Gly-Met,PM3,H11,nitrogen,LYS4,Cluster168,1,1
+1440,Met-Ala,PM3,H12,nitrogen,LYS4,,NA,1
+1441,Negative Control,PM4,A01,phosphorus,LYS4,,NA,0
+1442,Phosphate,PM4,A02,phosphorus,LYS4,C00009,0,0
+1443,Pyrophosphate,PM4,A03,phosphorus,LYS4,C00013,0,0
+1444,Trimetaphosphate,PM4,A04,phosphorus,LYS4,,NA,0
+1445,Tripolyphosphate,PM4,A05,phosphorus,LYS4,C00536,0,0
+1446,Triethyl Phosphate,PM4,A06,phosphorus,LYS4,,NA,0
+1447,Hypophosphite,PM4,A07,phosphorus,LYS4,,NA,0
+1448,Adenosine 2`-Monophosphate,PM4,A08,phosphorus,LYS4,CHEBI28223,0,0
+1449,Adenosine 3`-Monophosphate,PM4,A09,phosphorus,LYS4,,NA,0
+1450,Adenosine 5`-Monophosphate,PM4,A10,phosphorus,LYS4,C00020,0,0
+1451,"Adenosine 2`,3`-Cyclic Monophosphate",PM4,A11,phosphorus,LYS4,C02353,0,0
+1452,"Adenosine 3`,5`-Cyclic Monophosphate",PM4,A12,phosphorus,LYS4,C00575,0,0
+1453,Thiophosphate,PM4,B01,phosphorus,LYS4,,NA,0
+1454,Dithiophosphate,PM4,B02,phosphorus,LYS4,,NA,0
+1455,DL-a-Glycerol Phosphate,PM4,B03,phosphorus,LYS4,C00093,0,0
+1456,b-Glycerol Phosphate,PM4,B04,phosphorus,LYS4,,NA,0
+1457,Carbamyl Phosphate,PM4,B05,phosphorus,LYS4,C00169,0,0
+1458,D-2-Phospho-Glyceric acid,PM4,B06,phosphorus,LYS4,C00631,0,0
+1459,D-3-Phospho-Glyceric acid,PM4,B07,phosphorus,LYS4,C00197,0,0
+1460,Guanosine 2`-Monophosphate,PM4,B08,phosphorus,LYS4,Cluster519,0,0
+1461,Guanosine 3`-Monophosphate,PM4,B09,phosphorus,LYS4,,NA,0
+1462,Guanosine 5`-Monophosphate,PM4,B10,phosphorus,LYS4,C00144,0,0
+1463,"Guanosine 2`,3`-Cyclic Monophosphate",PM4,B11,phosphorus,LYS4,C06194,0,0
+1464,"Guanosine 3`,5`-Cyclic Monophosphate",PM4,B12,phosphorus,LYS4,C00942,0,0
+1465,Phosphoenol Pyruvate,PM4,C01,phosphorus,LYS4,C00074,0,0
+1466,Phospho-Glycolic acid,PM4,C02,phosphorus,LYS4,C00988,0,0
+1467,D-Glucose-1-Phosphate,PM4,C03,phosphorus,LYS4,C00103,0,0
+1468,D-Glucose-6-Phosphate,PM4,C04,phosphorus,LYS4,C00092,0,0
+1469,2-Deoxy-D-Glucose 6-Phosphate,PM4,C05,phosphorus,LYS4,C06369,1,0
+1470,D-Glucosamine-6-Phosphate,PM4,C06,phosphorus,LYS4,C00352,0,0
+1471,6-Phospho-Gluconic acid,PM4,C07,phosphorus,LYS4,C00345,0,0
+1472,Cytidine 2`-Monophosphate,PM4,C08,phosphorus,LYS4,Cluster3292,0,0
+1473,Cytidine 3`-Monophosphate,PM4,C09,phosphorus,LYS4,,NA,0
+1474,Cytidine 5`-Monophosphate,PM4,C10,phosphorus,LYS4,C00055,0,0
+1475,"Cytidine 2`,3`-Cyclic Monophosphate",PM4,C11,phosphorus,LYS4,C02354,0,0
+1476,"Cytidine 3`,5`-Cyclic Monophosphate",PM4,C12,phosphorus,LYS4,C00941,0,0
+1477,D-Mannose-1-Phosphate,PM4,D01,phosphorus,LYS4,C00636,0,0
+1478,D-Mannose-6-Phosphate,PM4,D02,phosphorus,LYS4,C00275,0,0
+1479,Cysteamine-S-Phosphate,PM4,D03,phosphorus,LYS4,,NA,0
+1480,Phospho-L-Arginine,PM4,D04,phosphorus,LYS4,,NA,0
+1481,O-Phospho-D-Serine,PM4,D05,phosphorus,LYS4,C02532,0,0
+1482,O-Phospho-L-Serine,PM4,D06,phosphorus,LYS4,C01005,0,0
+1483,O-Phospho-L-Threonine,PM4,D07,phosphorus,LYS4,C12147,0,0
+1484,Uridine 2`-Monophosphate,PM4,D08,phosphorus,LYS4,Cluster119,0,0
+1485,Uridine 3`-Monophosphate,PM4,D09,phosphorus,LYS4,,NA,0
+1486,Uridine 5`-Monophosphate,PM4,D10,phosphorus,LYS4,C00105,0,0
+1487,"Uridine 2`,3`-Cyclic Monophosphate",PM4,D11,phosphorus,LYS4,C02355,0,0
+1488,"Uridine 3`,5`-Cyclic Monophosphate",PM4,D12,phosphorus,LYS4,,NA,0
+1489,O-Phospho-D-Tyrosine,PM4,E01,phosphorus,LYS4,,NA,0
+1490,O-Phospho-L-Tyrosine,PM4,E02,phosphorus,LYS4,,NA,0
+1491,Phosphocreatine,PM4,E03,phosphorus,LYS4,,NA,0
+1492,Phosphoryl Choline,PM4,E04,phosphorus,LYS4,C00588,0,0
+1493,O-Phosphoryl-Ethanolamine,PM4,E05,phosphorus,LYS4,C00346,0,0
+1494,Phosphono Acetic acid,PM4,E06,phosphorus,LYS4,,NA,0
+1495,2-Aminoethyl Phosphonic acid,PM4,E07,phosphorus,LYS4,C03557,0,0
+1496,Methylene Diphosphonic acid,PM4,E08,phosphorus,LYS4,,NA,0
+1497,Thymidine 3`-Monophosphate,PM4,E09,phosphorus,LYS4,,NA,0
+1498,Thymidine 5`-Monophosphate,PM4,E10,phosphorus,LYS4,C00364,0,0
+1499,Inositol Hexaphosphate,PM4,E11,phosphorus,LYS4,C01204,0,0
+1500,"Thymidine 3`,5`-Cyclic Monophosphate",PM4,E12,phosphorus,LYS4,,NA,0
+1501,Negative Control,PM4,F01,sulfur,LYS4,,NA,0
+1502,Sulfate,PM4,F02,sulfur,LYS4,C00059,0,0
+1503,Thiosulfate,PM4,F03,sulfur,LYS4,C00320,0,1
+1504,Tetrathionate,PM4,F04,sulfur,LYS4,,NA,1
+1505,Thiophosphate,PM4,F05,sulfur,LYS4,,NA,0
+1506,Dithiophosphate,PM4,F06,sulfur,LYS4,,NA,1
+1507,L-Cysteine,PM4,F07,sulfur,LYS4,C00097,0,1
+1508,D-Cysteine,PM4,F08,sulfur,LYS4,,NA,0
+1509,Cys-Gly,PM4,F09,sulfur,LYS4,C01419,0,1
+1510,L-Cysteic acid,PM4,F10,sulfur,LYS4,C00506,0,1
+1511,Cysteamine,PM4,F11,sulfur,LYS4,C01678,0,0
+1512,L-Cysteine Sulfinic acid,PM4,F12,sulfur,LYS4,C00606,0,1
+1513,N-Acetyl-L-Cysteine,PM4,G01,sulfur,LYS4,,NA,1
+1514,S-Methyl-L-Cysteine,PM4,G02,sulfur,LYS4,,NA,1
+1515,Cystathionine,PM4,G03,sulfur,LYS4,C00542,0,0
+1516,Lanthionine,PM4,G04,sulfur,LYS4,,NA,1
+1517,Glutathione,PM4,G05,sulfur,LYS4,C00051,0,1
+1518,DL-Ethionine,PM4,G06,sulfur,LYS4,,NA,1
+1519,L-Methionine,PM4,G07,sulfur,LYS4,C00073,0,1
+1520,D-Methionine,PM4,G08,sulfur,LYS4,,NA,1
+1521,Gly-Met,PM4,G09,sulfur,LYS4,Cluster168,1,1
+1522,"N-Acetyl-D,L-Methionine",PM4,G10,sulfur,LYS4,Cluster582,0,1
+1523,L-Methionine Sulfoxide,PM4,G11,sulfur,LYS4,,NA,1
+1524,L-Methionine Sulfone,PM4,G12,sulfur,LYS4,,NA,1
+1525,L-Djenkolic acid,PM4,H01,sulfur,LYS4,,NA,1
+1526,Thiourea,PM4,H02,sulfur,LYS4,,NA,0
+1527,1-Thio-b-D-Glucose,PM4,H03,sulfur,LYS4,,NA,0
+1528,DL-Lipoamide,PM4,H04,sulfur,LYS4,C00248,0,1
+1529,Taurocholic acid,PM4,H05,sulfur,LYS4,,NA,0
+1530,Taurine,PM4,H06,sulfur,LYS4,C00245,0,1
+1531,Hypotaurine,PM4,H07,sulfur,LYS4,C00519,0,1
+1532,p-Aminobenzene Sulfonic acid,PM4,H08,sulfur,LYS4,,NA,0
+1533,Butane Sulfonic acid,PM4,H09,sulfur,LYS4,,NA,1
+1534,2-Hydroxyethane Sulfonic acid,PM4,H10,sulfur,LYS4,,NA,1
+1535,Methane Sulfonic acid,PM4,H11,sulfur,LYS4,,NA,1
+1536,Tetramethylene Sulfone,PM4,H12,sulfur,LYS4,,NA,1
+1537,Negative Control,PM1,A01,carbon,pyrG,,NA,0
+1538,L-Arabinose,PM1,A02,carbon,pyrG,C00259,0,1
+1539,N-Acetyl-D-Glucosamine,PM1,A03,carbon,pyrG,C00140,0,0
+1540,D-Saccharic acid,PM1,A04,carbon,pyrG,C00818,0,0
+1541,Succinic acid,PM1,A05,carbon,pyrG,C00042,0,0
+1542,D-Galactose,PM1,A06,carbon,pyrG,C00124,0,0
+1543,L-Aspartic acid,PM1,A07,carbon,pyrG,C00049,0,0
+1544,L-Proline,PM1,A08,carbon,pyrG,C00148,0,0
+1545,D-Alanine,PM1,A09,carbon,pyrG,,NA,0
+1546,D-Trehalose,PM1,A10,carbon,pyrG,C01083,0,0
+1547,D-Mannose,PM1,A11,carbon,pyrG,C00159,0,0
+1548,Dulcitol,PM1,A12,carbon,pyrG,C01697,0,0
+1549,D-Serine,PM1,B01,carbon,pyrG,C00740,0,0
+1550,D-Sorbitol,PM1,B02,carbon,pyrG,C00794,0,0
+1551,Glycerol,PM1,B03,carbon,pyrG,C00116,0,0
+1552,L-Fucose,PM1,B04,carbon,pyrG,C01019,0,0
+1553,D-Glucuronic acid,PM1,B05,carbon,pyrG,C00191,0,0
+1554,D-Gluconic acid,PM1,B06,carbon,pyrG,C00257,0,0
+1555,DL-a-Glycerol Phosphate,PM1,B07,carbon,pyrG,C00093,0,0
+1556,D-Xylose,PM1,B08,carbon,pyrG,C00181,0,1
+1557,L-Lactic acid,PM1,B09,carbon,pyrG,C00186,0,0
+1558,Formic acid,PM1,B10,carbon,pyrG,C00058,0,0
+1559,D-Mannitol,PM1,B11,carbon,pyrG,C00392,0,0
+1560,L-Glutamic acid,PM1,B12,carbon,pyrG,C00025,0,0
+1561,D-Glucose-6-Phosphate,PM1,C01,carbon,pyrG,C00092,0,0
+1562,D-Galactonic acid-g-Lactone,PM1,C02,carbon,pyrG,,NA,0
+1563,DL-Malic acid,PM1,C03,carbon,pyrG,C00149,0,0
+1564,D-Ribose,PM1,C04,carbon,pyrG,C00121,0,1
+1565,Tween 20,PM1,C05,carbon,pyrG,,NA,0
+1566,L-Rhamnose,PM1,C06,carbon,pyrG,C00507,1,0
+1567,D-Fructose,PM1,C07,carbon,pyrG,C00095,0,0
+1568,Acetic acid,PM1,C08,carbon,pyrG,C00033,0,0
+1569,a-D-Glucose,PM1,C09,carbon,pyrG,C00031,0,0
+1570,Maltose,PM1,C10,carbon,pyrG,C00208,0,0
+1571,D-Melibiose,PM1,C11,carbon,pyrG,C05402,0,0
+1572,Thymidine,PM1,C12,carbon,pyrG,C00214,0,0
+1573,L-Asparagine,PM1,D01,carbon,pyrG,C00152,0,0
+1574,D-Aspartic acid,PM1,D02,carbon,pyrG,,NA,0
+1575,D-Glucosaminic acid,PM1,D03,carbon,pyrG,C03752,1,0
+1576,"1,2-Propanediol",PM1,D04,carbon,pyrG,C00583,1,0
+1577,Tween 40,PM1,D05,carbon,pyrG,,NA,0
+1578,a-Ketoglutaric acid,PM1,D06,carbon,pyrG,C00026,0,0
+1579,a-Ketobutyric acid,PM1,D07,carbon,pyrG,C00109,0,0
+1580,a-Methyl-D-Galactoside,PM1,D08,carbon,pyrG,,NA,0
+1581,a-D-Lactose,PM1,D09,carbon,pyrG,C00243,0,0
+1582,Lactulose,PM1,D10,carbon,pyrG,,NA,0
+1583,Sucrose,PM1,D11,carbon,pyrG,C00089,0,0
+1584,Uridine,PM1,D12,carbon,pyrG,C00299,0,0
+1585,L-Glutamine,PM1,E01,carbon,pyrG,C00064,0,0
+1586,m-Tartaric acid,PM1,E02,carbon,pyrG,C00552,1,0
+1587,D-Glucose-1-Phosphate,PM1,E03,carbon,pyrG,C00103,0,0
+1588,D-Fructose-6-Phosphate,PM1,E04,carbon,pyrG,C00085,0,0
+1589,Tween 80,PM1,E05,carbon,pyrG,,NA,0
+1590,a-Hydroxyglutaric acid-g-Lactone,PM1,E06,carbon,pyrG,,NA,0
+1591,a-Hydroxybutyric acid,PM1,E07,carbon,pyrG,C05984,0,0
+1592,b-Methyl-D-Glucoside,PM1,E08,carbon,pyrG,,NA,0
+1593,Adonitol,PM1,E09,carbon,pyrG,C00474,0,0
+1594,Maltotriose,PM1,E10,carbon,pyrG,CHEBI27931,0,0
+1595,2`-Deoxyadenosine,PM1,E11,carbon,pyrG,C00559,0,0
+1596,Adenosine,PM1,E12,carbon,pyrG,C00212,0,0
+1597,Gly-Asp,PM1,F01,carbon,pyrG,Cluster363,1,0
+1598,Citric acid,PM1,F02,carbon,pyrG,C00158,0,0
+1599,m-Inositol,PM1,F03,carbon,pyrG,C00137,0,0
+1600,D-Threonine,PM1,F04,carbon,pyrG,,NA,0
+1601,Fumaric acid,PM1,F05,carbon,pyrG,C00122,0,0
+1602,Bromosuccinic acid,PM1,F06,carbon,pyrG,,NA,0
+1603,Propionic acid,PM1,F07,carbon,pyrG,C00163,0,0
+1604,Mucic acid,PM1,F08,carbon,pyrG,,NA,0
+1605,Glycolic acid,PM1,F09,carbon,pyrG,C00160,0,0
+1606,Glyoxylic acid,PM1,F10,carbon,pyrG,C00048,0,0
+1607,D-Cellobiose,PM1,F11,carbon,pyrG,C00185,0,0
+1608,Inosine,PM1,F12,carbon,pyrG,C00294,0,0
+1609,Gly-Glu,PM1,G01,carbon,pyrG,Cluster4672,1,0
+1610,Tricarballylic acid,PM1,G02,carbon,pyrG,,NA,0
+1611,L-Serine,PM1,G03,carbon,pyrG,C00065,0,0
+1612,L-Threonine,PM1,G04,carbon,pyrG,C00188,0,0
+1613,L-Alanine,PM1,G05,carbon,pyrG,C00133,0,0
+1614,Ala-Gly,PM1,G06,carbon,pyrG,Cluster774,1,0
+1615,Acetoacetic acid,PM1,G07,carbon,pyrG,C00164,0,0
+1616,N-Acetyl-D-Mannosamine,PM1,G08,carbon,pyrG,C00645,1,0
+1617,Mono-Methylsuccinate,PM1,G09,carbon,pyrG,,NA,0
+1618,Methylpyruvate,PM1,G10,carbon,pyrG,,NA,0
+1619,D-Malic acid,PM1,G11,carbon,pyrG,C00497,0,0
+1620,L-Malic acid,PM1,G12,carbon,pyrG,C00149,0,0
+1621,Gly-Pro,PM1,H01,carbon,pyrG,Cluster3300,1,0
+1622,p-Hydroxyphenyl Acetic acid,PM1,H02,carbon,pyrG,C00642,0,0
+1623,m-Hydroxyphenyl Acetic acid,PM1,H03,carbon,pyrG,,NA,0
+1624,Tyramine,PM1,H04,carbon,pyrG,C00483,0,0
+1625,D-Psicose,PM1,H05,carbon,pyrG,,NA,0
+1626,L-Lyxose,PM1,H06,carbon,pyrG,,NA,1
+1627,Glucuronamide,PM1,H07,carbon,pyrG,,NA,0
+1628,Pyruvic acid,PM1,H08,carbon,pyrG,C00022,0,0
+1629,L-Galactonic acid-g-Lactone,PM1,H09,carbon,pyrG,C01115,1,0
+1630,D-Galacturonic acid,PM1,H10,carbon,pyrG,C00333,0,0
+1631,Phenylethylamine,PM1,H11,carbon,pyrG,C05332,0,0
+1632,2-Aminoethanol,PM1,H12,carbon,pyrG,C00189,0,0
+1633,Negative Control,PM2,A01,carbon,pyrG,,NA,0
+1634,Chondroitin Sulfate C,PM2,A02,carbon,pyrG,,NA,0
+1635,a-Cyclodextrin,PM2,A03,carbon,pyrG,C00973,1,0
+1636,b-Cyclodextrin,PM2,A04,carbon,pyrG,C00973,1,0
+1637,g-Cyclodextrin,PM2,A05,carbon,pyrG,C00973,1,0
+1638,Dextrin,PM2,A06,carbon,pyrG,C00721,0,0
+1639,Gelatin,PM2,A07,carbon,pyrG,,NA,0
+1640,Glycogen,PM2,A08,carbon,pyrG,C00182,0,0
+1641,Inulin,PM2,A09,carbon,pyrG,,NA,0
+1642,Laminarin,PM2,A10,carbon,pyrG,,NA,0
+1643,Mannan,PM2,A11,carbon,pyrG,C00721,0,0
+1644,Pectin,PM2,A12,carbon,pyrG,CHEBI17309,0,0
+1645,N-Acetyl-D-Galactosamine,PM2,B01,carbon,pyrG,C01132,0,0
+1646,N-Acetyl-Neuraminic acid,PM2,B02,carbon,pyrG,C00270,0,0
+1647,b-D-Allose,PM2,B03,carbon,pyrG,,NA,0
+1648,Amygdalin,PM2,B04,carbon,pyrG,C08325,0,0
+1649,D-Arabinose,PM2,B05,carbon,pyrG,C00216,0,1
+1650,D-Arabitol,PM2,B06,carbon,pyrG,C01904,0,0
+1651,L-Arabitol,PM2,B07,carbon,pyrG,C00532,0,0
+1652,Arbutin,PM2,B08,carbon,pyrG,C06186,1,0
+1653,2-Deoxy-D-Ribose,PM2,B09,carbon,pyrG,C01801,0,1
+1654,i-Erythritol,PM2,B10,carbon,pyrG,C00503,0,0
+1655,D-Fucose,PM2,B11,carbon,pyrG,,NA,0
+1656,3-O-b-D-Galactopyranosyl-D-Arabinose,PM2,B12,carbon,pyrG,,NA,0
+1657,Gentiobiose,PM2,C01,carbon,pyrG,,NA,0
+1658,L-Glucose,PM2,C02,carbon,pyrG,,NA,0
+1659,D-Lactitol,PM2,C03,carbon,pyrG,,NA,0
+1660,D-Melezitose,PM2,C04,carbon,pyrG,,NA,0
+1661,Maltitol,PM2,C05,carbon,pyrG,,NA,0
+1662,a-Methyl-D-Glucoside,PM2,C06,carbon,pyrG,,NA,0
+1663,b-Methyl-D-Galactoside,PM2,C07,carbon,pyrG,,NA,0
+1664,3-Methylglucose,PM2,C08,carbon,pyrG,,NA,0
+1665,b-Methyl-D-Glucuronic acid,PM2,C09,carbon,pyrG,,NA,0
+1666,a-Methyl-D-Mannoside,PM2,C10,carbon,pyrG,,NA,0
+1667,b-Methyl-D-Xyloside,PM2,C11,carbon,pyrG,,NA,0
+1668,Palatinose,PM2,C12,carbon,pyrG,,NA,1
+1669,D-Raffinose,PM2,D01,carbon,pyrG,C00492,0,0
+1670,Salicin,PM2,D02,carbon,pyrG,C01451,1,0
+1671,Sedoheptulosan,PM2,D03,carbon,pyrG,,NA,0
+1672,L-Sorbose,PM2,D04,carbon,pyrG,C00247,0,0
+1673,Stachyose,PM2,D05,carbon,pyrG,C01613,0,0
+1674,D-Tagatose,PM2,D06,carbon,pyrG,C00795,1,0
+1675,Turanose,PM2,D07,carbon,pyrG,,NA,0
+1676,Xylitol,PM2,D08,carbon,pyrG,C00379,0,0
+1677,N-Acetyl-D-Glucosaminitol,PM2,D09,carbon,pyrG,,NA,0
+1678,g-Amino-N-Butyric acid,PM2,D10,carbon,pyrG,C00334,0,0
+1679,d-Amino Valeric acid,PM2,D11,carbon,pyrG,,NA,0
+1680,Butyric acid,PM2,D12,carbon,pyrG,C00246,0,0
+1681,Capric acid,PM2,E01,carbon,pyrG,C01571,0,0
+1682,Caproic acid,PM2,E02,carbon,pyrG,C01585,0,0
+1683,Citraconic acid,PM2,E03,carbon,pyrG,C02226,1,0
+1684,Citramalic acid,PM2,E04,carbon,pyrG,C02614,1,0
+1685,D-Glucosamine,PM2,E05,carbon,pyrG,C00329,0,1
+1686,2-Hydroxybenzoic acid,PM2,E06,carbon,pyrG,C00805,0,0
+1687,4-Hydroxybenzoic acid,PM2,E07,carbon,pyrG,C00156,0,0
+1688,b-Hydroxybutyric acid,PM2,E08,carbon,pyrG,C01089,0,0
+1689,g-Hydroxybutyric acid,PM2,E09,carbon,pyrG,,NA,0
+1690,a-Keto-Valeric acid,PM2,E10,carbon,pyrG,,NA,0
+1691,Itaconic acid,PM2,E11,carbon,pyrG,C00490,0,0
+1692,5-Keto-D-Gluconic acid,PM2,E12,carbon,pyrG,,NA,1
+1693,D-Lactic acid Methyl Ester,PM2,F01,carbon,pyrG,,NA,0
+1694,Malonic acid,PM2,F02,carbon,pyrG,,NA,0
+1695,Melibionic acid,PM2,F03,carbon,pyrG,,NA,0
+1696,Oxalic acid,PM2,F04,carbon,pyrG,C00209,0,0
+1697,Oxalomalic acid,PM2,F05,carbon,pyrG,,NA,1
+1698,Quinic acid,PM2,F06,carbon,pyrG,C00296,0,0
+1699,"D-Ribono-1,4-Lactone",PM2,F07,carbon,pyrG,,NA,0
+1700,Sebacic acid,PM2,F08,carbon,pyrG,C08277,1,0
+1701,Sorbic acid,PM2,F09,carbon,pyrG,,NA,1
+1702,Succinamic acid,PM2,F10,carbon,pyrG,,NA,0
+1703,D-Tartaric acid,PM2,F11,carbon,pyrG,,NA,0
+1704,L-Tartaric acid,PM2,F12,carbon,pyrG,,NA,0
+1705,Acetamide,PM2,G01,carbon,pyrG,C06244,0,0
+1706,L-Alaninamide,PM2,G02,carbon,pyrG,,NA,0
+1707,N-Acetyl-L-Glutamic acid,PM2,G03,carbon,pyrG,C00624,0,0
+1708,L-Arginine,PM2,G04,carbon,pyrG,C00062,0,0
+1709,Glycine,PM2,G05,carbon,pyrG,C00037,0,0
+1710,L-Histidine,PM2,G06,carbon,pyrG,C00135,0,0
+1711,L-Homoserine,PM2,G07,carbon,pyrG,C00263,0,0
+1712,Hydroxy-L-Proline,PM2,G08,carbon,pyrG,C01157,0,0
+1713,L-Isoleucine,PM2,G09,carbon,pyrG,C00407,0,0
+1714,L-Leucine,PM2,G10,carbon,pyrG,C00123,0,0
+1715,L-Lysine,PM2,G11,carbon,pyrG,C00047,0,0
+1716,L-Methionine,PM2,G12,carbon,pyrG,C00073,0,0
+1717,L-Ornithine,PM2,H01,carbon,pyrG,C00077,0,0
+1718,L-Phenylalanine,PM2,H02,carbon,pyrG,C00079,0,0
+1719,L-Pyroglutamic acid,PM2,H03,carbon,pyrG,C01879,0,0
+1720,L-Valine,PM2,H04,carbon,pyrG,C00183,0,0
+1721,"D,L-Carnitine",PM2,H05,carbon,pyrG,C15025,1,0
+1722,sec-Butylamine,PM2,H06,carbon,pyrG,,NA,0
+1723,"D,L-Octopamine",PM2,H07,carbon,pyrG,,NA,0
+1724,Putrescine,PM2,H08,carbon,pyrG,C00134,0,0
+1725,Dihydroxyacetone,PM2,H09,carbon,pyrG,C00184,0,1
+1726,"2,3-Butanediol",PM2,H10,carbon,pyrG,C03044,0,0
+1727,"2,3-Butanedione",PM2,H11,carbon,pyrG,C00741,1,0
+1728,3-Hydroxy-2-buta,PM2,H12,carbon,pyrG,,NA,0
+1729,Negative Control,PM3,A01,nitrogen,pyrG,,NA,0
+1730,Ammonia,PM3,A02,nitrogen,pyrG,C01342,0,0
+1731,Nitrite,PM3,A03,nitrogen,pyrG,C00088,0,0
+1732,Nitrate,PM3,A04,nitrogen,pyrG,C00244,0,0
+1733,Urea,PM3,A05,nitrogen,pyrG,C00086,0,0
+1734,Biuret,PM3,A06,nitrogen,pyrG,C06555,1,0
+1735,L-Alanine,PM3,A07,nitrogen,pyrG,C00133,0,0
+1736,L-Arginine,PM3,A08,nitrogen,pyrG,C00062,0,0
+1737,L-Asparagine,PM3,A09,nitrogen,pyrG,C00152,0,0
+1738,L-Aspartic acid,PM3,A10,nitrogen,pyrG,C00049,0,0
+1739,L-Cysteine,PM3,A11,nitrogen,pyrG,C00097,0,1
+1740,L-Glutamic acid,PM3,A12,nitrogen,pyrG,C00025,0,1
+1741,L-Glutamine,PM3,B01,nitrogen,pyrG,C00064,0,0
+1742,Glycine,PM3,B02,nitrogen,pyrG,C00037,0,0
+1743,L-Histidine,PM3,B03,nitrogen,pyrG,C00135,0,0
+1744,L-Isoleucine,PM3,B04,nitrogen,pyrG,C00407,0,0
+1745,L-Leucine,PM3,B05,nitrogen,pyrG,C00123,0,0
+1746,L-Lysine,PM3,B06,nitrogen,pyrG,C00047,0,0
+1747,L-Methionine,PM3,B07,nitrogen,pyrG,C00073,0,0
+1748,L-Phenylalanine,PM3,B08,nitrogen,pyrG,C00079,0,0
+1749,L-Proline,PM3,B09,nitrogen,pyrG,C00148,0,0
+1750,L-Serine,PM3,B10,nitrogen,pyrG,C00065,0,0
+1751,L-Threonine,PM3,B11,nitrogen,pyrG,C00188,0,0
+1752,L-Tryptophan,PM3,B12,nitrogen,pyrG,C00078,0,0
+1753,L-Tyrosine,PM3,C01,nitrogen,pyrG,C00082,0,0
+1754,L-Valine,PM3,C02,nitrogen,pyrG,C00183,0,0
+1755,D-Alanine,PM3,C03,nitrogen,pyrG,,NA,0
+1756,D-Asparagine,PM3,C04,nitrogen,pyrG,,NA,0
+1757,D-Aspartic acid,PM3,C05,nitrogen,pyrG,,NA,0
+1758,D-Glutamic acid,PM3,C06,nitrogen,pyrG,C00217,1,0
+1759,D-Lysine,PM3,C07,nitrogen,pyrG,C00739,0,0
+1760,D-Serine,PM3,C08,nitrogen,pyrG,C00740,0,0
+1761,D-Valine,PM3,C09,nitrogen,pyrG,,NA,0
+1762,L-Citrulline,PM3,C10,nitrogen,pyrG,C00327,0,0
+1763,L-Homoserine,PM3,C11,nitrogen,pyrG,C00263,0,0
+1764,L-Ornithine,PM3,C12,nitrogen,pyrG,C00077,0,0
+1765,N-Acetyl-L-Glutamic acid,PM3,D01,nitrogen,pyrG,C00624,0,0
+1766,N-Phthaloyl-L-Glutamic acid,PM3,D02,nitrogen,pyrG,,NA,0
+1767,L-Pyroglutamic acid,PM3,D03,nitrogen,pyrG,C01879,0,0
+1768,Hydroxylamine,PM3,D04,nitrogen,pyrG,,NA,0
+1769,Methylamine,PM3,D05,nitrogen,pyrG,C00218,0,0
+1770,N-Amylamine,PM3,D06,nitrogen,pyrG,,NA,0
+1771,N-Butylamine,PM3,D07,nitrogen,pyrG,,NA,0
+1772,Ethylamine,PM3,D08,nitrogen,pyrG,C00797,1,0
+1773,Ethanolamine,PM3,D09,nitrogen,pyrG,C00189,0,0
+1774,Ethylenediamine,PM3,D10,nitrogen,pyrG,,NA,0
+1775,Putrescine,PM3,D11,nitrogen,pyrG,C00134,0,0
+1776,Agmatine,PM3,D12,nitrogen,pyrG,C00179,0,0
+1777,Histamine,PM3,E01,nitrogen,pyrG,C00388,1,0
+1778,b-Phenylethylamine,PM3,E02,nitrogen,pyrG,C05332,0,0
+1779,Tyramine,PM3,E03,nitrogen,pyrG,C00483,0,0
+1780,Acetamide,PM3,E04,nitrogen,pyrG,C06244,0,0
+1781,Formamide,PM3,E05,nitrogen,pyrG,C00488,0,0
+1782,Glucuronamide,PM3,E06,nitrogen,pyrG,,NA,0
+1783,DL-Lactamide,PM3,E07,nitrogen,pyrG,,NA,0
+1784,D-Glucosamine,PM3,E08,nitrogen,pyrG,C00329,0,0
+1785,D-Galactosamine,PM3,E09,nitrogen,pyrG,C02262,1,0
+1786,D-Mannosamine,PM3,E10,nitrogen,pyrG,,NA,0
+1787,N-Acetyl-D-Glucosamine,PM3,E11,nitrogen,pyrG,C00140,0,0
+1788,N-Acetyl-D-Galactosamine,PM3,E12,nitrogen,pyrG,C01132,0,0
+1789,N-Acetyl-D-Mannosamine,PM3,F01,nitrogen,pyrG,C00645,1,0
+1790,Adenine,PM3,F02,nitrogen,pyrG,C00147,0,0
+1791,Adenosine,PM3,F03,nitrogen,pyrG,C00212,0,0
+1792,Cytidine,PM3,F04,nitrogen,pyrG,C00475,0,0
+1793,Cytosine,PM3,F05,nitrogen,pyrG,C00380,0,0
+1794,Guanine,PM3,F06,nitrogen,pyrG,C00242,0,0
+1795,Guanosine,PM3,F07,nitrogen,pyrG,C00387,0,0
+1796,Thymine,PM3,F08,nitrogen,pyrG,C00178,1,0
+1797,Thymidine,PM3,F09,nitrogen,pyrG,C00214,0,0
+1798,Uracil,PM3,F10,nitrogen,pyrG,C00106,0,0
+1799,Uridine,PM3,F11,nitrogen,pyrG,C00299,0,0
+1800,Inosine,PM3,F12,nitrogen,pyrG,C00294,0,0
+1801,Xanthine,PM3,G01,nitrogen,pyrG,C00385,0,0
+1802,Xanthosine,PM3,G02,nitrogen,pyrG,C01762,0,0
+1803,Uric acid,PM3,G03,nitrogen,pyrG,C00366,0,0
+1804,Alloxan,PM3,G04,nitrogen,pyrG,,NA,0
+1805,Allantoin,PM3,G05,nitrogen,pyrG,C01551,0,0
+1806,Parabanic acid,PM3,G06,nitrogen,pyrG,,NA,0
+1807,DL-a-Amino-N-Butyric acid,PM3,G07,nitrogen,pyrG,Cluster3316,1,0
+1808,g-Amino-N-Butyric acid,PM3,G08,nitrogen,pyrG,C00334,0,0
+1809,e-Amino-N-Caproic acid,PM3,G09,nitrogen,pyrG,C02378,1,0
+1810,DL-a-Amino-Caprylic acid,PM3,G10,nitrogen,pyrG,,NA,1
+1811,d-Amino-N-Valeric acid,PM3,G11,nitrogen,pyrG,C00431,0,0
+1812,a-Amino-N-Valeric acid,PM3,G12,nitrogen,pyrG,,NA,1
+1813,Ala-Asp,PM3,H01,nitrogen,pyrG,Cluster3898,1,0
+1814,Ala-Gln,PM3,H02,nitrogen,pyrG,Cluster1480,1,0
+1815,Ala-Glu,PM3,H03,nitrogen,pyrG,Cluster4793,1,0
+1816,Ala-Gly,PM3,H04,nitrogen,pyrG,Cluster774,1,0
+1817,Ala-His,PM3,H05,nitrogen,pyrG,Cluster5933,1,0
+1818,Ala-Leu,PM3,H06,nitrogen,pyrG,Cluster2744,1,0
+1819,Ala-Thr,PM3,H07,nitrogen,pyrG,Cluster843,1,0
+1820,Gly-Asn,PM3,H08,nitrogen,pyrG,Cluster2052,1,0
+1821,Gly-Gln,PM3,H09,nitrogen,pyrG,Cluster419,1,0
+1822,Gly-Glu,PM3,H10,nitrogen,pyrG,Cluster4672,1,0
+1823,Gly-Met,PM3,H11,nitrogen,pyrG,Cluster168,1,0
+1824,Met-Ala,PM3,H12,nitrogen,pyrG,,NA,0
+1825,Negative Control,PM4,A01,phosphorus,pyrG,,NA,0
+1826,Phosphate,PM4,A02,phosphorus,pyrG,C00009,0,0
+1827,Pyrophosphate,PM4,A03,phosphorus,pyrG,C00013,0,0
+1828,Trimetaphosphate,PM4,A04,phosphorus,pyrG,,NA,0
+1829,Tripolyphosphate,PM4,A05,phosphorus,pyrG,C00536,0,0
+1830,Triethyl Phosphate,PM4,A06,phosphorus,pyrG,,NA,0
+1831,Hypophosphite,PM4,A07,phosphorus,pyrG,,NA,0
+1832,Adenosine 2`-Monophosphate,PM4,A08,phosphorus,pyrG,CHEBI28223,0,0
+1833,Adenosine 3`-Monophosphate,PM4,A09,phosphorus,pyrG,,NA,0
+1834,Adenosine 5`-Monophosphate,PM4,A10,phosphorus,pyrG,C00020,0,0
+1835,"Adenosine 2`,3`-Cyclic Monophosphate",PM4,A11,phosphorus,pyrG,C02353,0,0
+1836,"Adenosine 3`,5`-Cyclic Monophosphate",PM4,A12,phosphorus,pyrG,C00575,0,0
+1837,Thiophosphate,PM4,B01,phosphorus,pyrG,,NA,0
+1838,Dithiophosphate,PM4,B02,phosphorus,pyrG,,NA,0
+1839,DL-a-Glycerol Phosphate,PM4,B03,phosphorus,pyrG,C00093,0,0
+1840,b-Glycerol Phosphate,PM4,B04,phosphorus,pyrG,,NA,0
+1841,Carbamyl Phosphate,PM4,B05,phosphorus,pyrG,C00169,0,0
+1842,D-2-Phospho-Glyceric acid,PM4,B06,phosphorus,pyrG,C00631,0,0
+1843,D-3-Phospho-Glyceric acid,PM4,B07,phosphorus,pyrG,C00197,0,0
+1844,Guanosine 2`-Monophosphate,PM4,B08,phosphorus,pyrG,Cluster519,0,0
+1845,Guanosine 3`-Monophosphate,PM4,B09,phosphorus,pyrG,,NA,0
+1846,Guanosine 5`-Monophosphate,PM4,B10,phosphorus,pyrG,C00144,0,0
+1847,"Guanosine 2`,3`-Cyclic Monophosphate",PM4,B11,phosphorus,pyrG,C06194,0,0
+1848,"Guanosine 3`,5`-Cyclic Monophosphate",PM4,B12,phosphorus,pyrG,C00942,0,0
+1849,Phosphoenol Pyruvate,PM4,C01,phosphorus,pyrG,C00074,0,0
+1850,Phospho-Glycolic acid,PM4,C02,phosphorus,pyrG,C00988,0,0
+1851,D-Glucose-1-Phosphate,PM4,C03,phosphorus,pyrG,C00103,0,0
+1852,D-Glucose-6-Phosphate,PM4,C04,phosphorus,pyrG,C00092,0,0
+1853,2-Deoxy-D-Glucose 6-Phosphate,PM4,C05,phosphorus,pyrG,C06369,1,0
+1854,D-Glucosamine-6-Phosphate,PM4,C06,phosphorus,pyrG,C00352,0,0
+1855,6-Phospho-Gluconic acid,PM4,C07,phosphorus,pyrG,C00345,0,0
+1856,Cytidine 2`-Monophosphate,PM4,C08,phosphorus,pyrG,Cluster3292,0,1
+1857,Cytidine 3`-Monophosphate,PM4,C09,phosphorus,pyrG,,NA,0
+1858,Cytidine 5`-Monophosphate,PM4,C10,phosphorus,pyrG,C00055,0,0
+1859,"Cytidine 2`,3`-Cyclic Monophosphate",PM4,C11,phosphorus,pyrG,C02354,0,0
+1860,"Cytidine 3`,5`-Cyclic Monophosphate",PM4,C12,phosphorus,pyrG,C00941,0,0
+1861,D-Mannose-1-Phosphate,PM4,D01,phosphorus,pyrG,C00636,0,0
+1862,D-Mannose-6-Phosphate,PM4,D02,phosphorus,pyrG,C00275,0,0
+1863,Cysteamine-S-Phosphate,PM4,D03,phosphorus,pyrG,,NA,0
+1864,Phospho-L-Arginine,PM4,D04,phosphorus,pyrG,,NA,0
+1865,O-Phospho-D-Serine,PM4,D05,phosphorus,pyrG,C02532,0,0
+1866,O-Phospho-L-Serine,PM4,D06,phosphorus,pyrG,C01005,0,0
+1867,O-Phospho-L-Threonine,PM4,D07,phosphorus,pyrG,C12147,0,0
+1868,Uridine 2`-Monophosphate,PM4,D08,phosphorus,pyrG,Cluster119,0,0
+1869,Uridine 3`-Monophosphate,PM4,D09,phosphorus,pyrG,,NA,0
+1870,Uridine 5`-Monophosphate,PM4,D10,phosphorus,pyrG,C00105,0,0
+1871,"Uridine 2`,3`-Cyclic Monophosphate",PM4,D11,phosphorus,pyrG,C02355,0,0
+1872,"Uridine 3`,5`-Cyclic Monophosphate",PM4,D12,phosphorus,pyrG,,NA,0
+1873,O-Phospho-D-Tyrosine,PM4,E01,phosphorus,pyrG,,NA,0
+1874,O-Phospho-L-Tyrosine,PM4,E02,phosphorus,pyrG,,NA,0
+1875,Phosphocreatine,PM4,E03,phosphorus,pyrG,,NA,0
+1876,Phosphoryl Choline,PM4,E04,phosphorus,pyrG,C00588,0,0
+1877,O-Phosphoryl-Ethanolamine,PM4,E05,phosphorus,pyrG,C00346,0,0
+1878,Phosphono Acetic acid,PM4,E06,phosphorus,pyrG,,NA,0
+1879,2-Aminoethyl Phosphonic acid,PM4,E07,phosphorus,pyrG,C03557,0,0
+1880,Methylene Diphosphonic acid,PM4,E08,phosphorus,pyrG,,NA,0
+1881,Thymidine 3`-Monophosphate,PM4,E09,phosphorus,pyrG,,NA,0
+1882,Thymidine 5`-Monophosphate,PM4,E10,phosphorus,pyrG,C00364,0,0
+1883,Inositol Hexaphosphate,PM4,E11,phosphorus,pyrG,C01204,0,0
+1884,"Thymidine 3`,5`-Cyclic Monophosphate",PM4,E12,phosphorus,pyrG,,NA,0
+1885,Negative Control,PM4,F01,sulfur,pyrG,,NA,0
+1886,Sulfate,PM4,F02,sulfur,pyrG,C00059,0,0
+1887,Thiosulfate,PM4,F03,sulfur,pyrG,C00320,0,0
+1888,Tetrathionate,PM4,F04,sulfur,pyrG,,NA,0
+1889,Thiophosphate,PM4,F05,sulfur,pyrG,,NA,0
+1890,Dithiophosphate,PM4,F06,sulfur,pyrG,,NA,0
+1891,L-Cysteine,PM4,F07,sulfur,pyrG,C00097,0,0
+1892,D-Cysteine,PM4,F08,sulfur,pyrG,,NA,0
+1893,Cys-Gly,PM4,F09,sulfur,pyrG,C01419,0,0
+1894,L-Cysteic acid,PM4,F10,sulfur,pyrG,C00506,0,0
+1895,Cysteamine,PM4,F11,sulfur,pyrG,C01678,0,0
+1896,L-Cysteine Sulfinic acid,PM4,F12,sulfur,pyrG,C00606,0,0
+1897,N-Acetyl-L-Cysteine,PM4,G01,sulfur,pyrG,,NA,0
+1898,S-Methyl-L-Cysteine,PM4,G02,sulfur,pyrG,,NA,0
+1899,Cystathionine,PM4,G03,sulfur,pyrG,C00542,0,0
+1900,Lanthionine,PM4,G04,sulfur,pyrG,,NA,0
+1901,Glutathione,PM4,G05,sulfur,pyrG,C00051,0,0
+1902,DL-Ethionine,PM4,G06,sulfur,pyrG,,NA,0
+1903,L-Methionine,PM4,G07,sulfur,pyrG,C00073,0,0
+1904,D-Methionine,PM4,G08,sulfur,pyrG,,NA,0
+1905,Gly-Met,PM4,G09,sulfur,pyrG,Cluster168,1,0
+1906,"N-Acetyl-D,L-Methionine",PM4,G10,sulfur,pyrG,Cluster582,0,0
+1907,L-Methionine Sulfoxide,PM4,G11,sulfur,pyrG,,NA,0
+1908,L-Methionine Sulfone,PM4,G12,sulfur,pyrG,,NA,0
+1909,L-Djenkolic acid,PM4,H01,sulfur,pyrG,,NA,0
+1910,Thiourea,PM4,H02,sulfur,pyrG,,NA,0
+1911,1-Thio-b-D-Glucose,PM4,H03,sulfur,pyrG,,NA,0
+1912,DL-Lipoamide,PM4,H04,sulfur,pyrG,C00248,0,0
+1913,Taurocholic acid,PM4,H05,sulfur,pyrG,,NA,0
+1914,Taurine,PM4,H06,sulfur,pyrG,C00245,0,0
+1915,Hypotaurine,PM4,H07,sulfur,pyrG,C00519,0,0
+1916,p-Aminobenzene Sulfonic acid,PM4,H08,sulfur,pyrG,,NA,0
+1917,Butane Sulfonic acid,PM4,H09,sulfur,pyrG,,NA,0
+1918,2-Hydroxyethane Sulfonic acid,PM4,H10,sulfur,pyrG,,NA,0
+1919,Methane Sulfonic acid,PM4,H11,sulfur,pyrG,,NA,0
+1920,Tetramethylene Sulfone,PM4,H12,sulfur,pyrG,,NA,0

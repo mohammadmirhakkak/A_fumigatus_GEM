@@ -1,0 +1,303 @@
+id,alt_id,source,source_exact,azole_r,itra_r,vor_r,pos_r,collection_date,country,mating_type,cyp51a,cluster
+ERR232406,AF293 VKBR1,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,1993,United Kingdom,MAT1-2,NA,5
+ERR232408,SF3S10,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-1,NA,6
+ERR232409,M128,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-2,NA,5
+ERR232411,SF4S10,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-1,NA,7
+ERR232412,F18454,Clinical,"Clinical; invasive, pulmonary",Resistant,Susceptible,Resistant,Susceptible,NA,United Kingdom,MAT1-2,NA,2
+ERR232413,F20140,Clinical,Clinical; chronic,Resistant,Resistant,Resistant,Susceptible,NA,United Kingdom,MAT1-1,NA,2
+ERR232414,F21732,Clinical,Clinical; disease unknown,Resistant,Resistant,Resistant,Susceptible,NA,United Kingdom,MAT1-1,NA,6
+ERR232417,F17999,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Susceptible,NA,United Kingdom,MAT1-2,NA,2
+ERR232418,F18329,Clinical,Clinical; chronic,Resistant,Susceptible,Resistant,Susceptible,NA,United Kingdom,MAT1-1,NA,6
+ERR232420,AF300-2,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-1,NA,6
+ERR232421,F21857,Clinical,Clinical; disease unknown,Resistant,Resistant,Susceptible,Resistant,NA,United Kingdom,MAT1-1,NA,2
+ERR232422,SF2S6,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-2,NA,2
+ERR232429,AP65,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-1,NA,7
+ERR232430,D17,Environmental,Environmental,Resistant,Resistant,Resistant,Resistant,NA,United Kingdom,MAT1-1,NA,6
+ERR232431,SF3S1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-1,NA,6
+ERR232432,SF2S9,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-2,NA,5
+ERR232437,F20451,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Susceptible,Susceptible,NA,United Kingdom,MAT1-2,NA,5
+ERR232438,SF1S5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-2,NA,7
+ERR232440,F21572,Clinical,Clinical; disease unknown,Resistant,Resistant,Susceptible,Susceptible,NA,United Kingdom,MAT1-1,NA,7
+ERR232441,RSF2S8,Environmental,Environmental,Resistant,Resistant,Resistant,Resistant,NA,United Kingdom,MAT1-2,TR34/L98H,7
+DRR022925,IFM 59361-1,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,NA,2009,Japan,MAT1-1,NA,5
+DRR237582,AfA1,Clinical,Clinical; disease unknown,NA,NA,NA,NA,2016,Japan,MAT1-2,NA,2
+ERR769510,08-19-02-30,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,2008,Netherlands,MAT1-1,NA,5
+SRR12894196,15-33,Clinical,Clinical; disease unknown,NA,NA,NA,NA,2020,Canada,MAT1-1,NA,5
+SRR2954803,LMB-35Aa,Environmental,Environmental,NA,NA,NA,NA,2005,Peru,MAT1-1,NA,1
+SRR4002443,ISSFT-021,Environmental,Environmental,NA,NA,NA,NA,2015,International Space Station,MAT1-1,NA,6
+SRR5676587,MO54056EXP,Clinical,Clinical; disease unknown,NA,NA,NA,NA,2011,Portugal,MAT1-1,NA,5
+SRR617720,AF41,Clinical,"Clinical; invasive, non-pulmonary",Susceptible,Susceptible,NA,NA,1988,United States,MAT1-2,NA,2
+SRR617722,AF90,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,NA,NA,1989,United States,MAT1-1,M220V,2
+SRR617734,F15927,Clinical,Clinical; disease unknown,Resistant,Resistant,NA,NA,NA,United Kingdom,MAT1-1,NA,1
+SRR617745,F17764,Clinical,Clinical; disease unknown,Susceptible,Susceptible,NA,NA,NA,United Kingdom,MAT1-1,NA,2
+SRR6434917,Af-M1509-D,Clinical,"Clinical; invasive, pulmonary",Susceptible,NA,NA,NA,2004,United States,MAT1-1,NA,2
+SRR7418924,CM2730,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,Susceptible,2004,Spain,MAT1-2,NA,1
+SRR7418934,CEA10,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Resistant,NA,France,MAT1-1,NA,2
+SRR7418941,CM7632,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,Susceptible,2015,Spain,MAT1-1,NA,5
+SRR7418942,CM237,Clinical,Clinical; disease unknown,Susceptible,NA,NA,NA,1996,Spain,MAT1-1,NA,3
+SRR7418947,CM2141,Clinical,Clinical; disease unknown,Susceptible,NA,NA,NA,1998,Spain,MAT1-1,NA,7
+SRR8759697,V130-54,Clinical,Clinical; chronic,Resistant,Resistant,Susceptible,Susceptible,2011,Netherlands,MAT1-1,NA,6
+SRR9067511,SGAir0713,Environmental,Environmental,NA,NA,NA,NA,2016,Singapore,MAT1-2,NA,3
+SRR7418935,ATCC 46645,Clinical,"Clinical; invasive, pulmonary",Susceptible,NA,NA,NA,2008,United Kingdom,MAT1-1,NA,7
+SRR7418930,CM2495,Clinical,Clinical; disease unknown,Susceptible,NA,NA,NA,2002,Spain,MAT1-1,NA,1
+SRR7418926,CM3249,Clinical,Clinical; disease unknown,Susceptible,NA,NA,NA,2005,Spain,MAT1-1,NA,1
+SRR7418928,CM4602,Clinical,Clinical; disease unknown,Susceptible,NA,NA,NA,2006,Spain,MAT1-2,NA,1
+SRR7418944,CM5419,Clinical,Clinical; disease unknown,Susceptible,NA,NA,NA,2008,Spain,MAT1-2,NA,7
+SRR7418949,CM5757,Clinical,Clinical; disease unknown,Susceptible,NA,NA,NA,2009,Spain,MAT1-2,NA,2
+SRR7418936,CM6458,Clinical,Clinical; disease unknown,Susceptible,NA,NA,NA,2011,Spain,MAT1-2,NA,2
+SRR7418939,CM7510,Clinical,Clinical; disease unknown,Resistant,NA,NA,NA,2014,Spain,MAT1-1,NA,2
+SRR7418938,CM7555,Clinical,Clinical; disease unknown,Resistant,NA,NA,NA,2014,Spain,MAT1-1,NA,5
+C10-NRZ-2017-039,C10-NRZ-2017-039,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Susceptible,Resistant,NA,Germany,MAT1-2,NA,6
+C11-NRZ-2017-040,C11-NRZ-2017-040,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-1,NA,1
+C13-NRZ-2017-069,C13-NRZ-2017-069,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,NA,NA,Germany,MAT1-2,NA,3
+C14-NRZ-2017-076,C14-NRZ-2017-076,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-2,NA,5
+C15-NRZ-2017-096,C15-NRZ-2017-096,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+C16-NRZ-2017-115,C16-NRZ-2017-115,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+C17-NRZ-2017-134,C17-NRZ-2017-134,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+C18-NRZ-2017-195,C18-NRZ-2017-195,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+C19-NRZ-2017-214,C19-NRZ-2017-214,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-2,TR46/G448S,6
+C1-NRZ-2014-065,C1-NRZ-2014-065,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Susceptible,NA,Germany,MAT1-1,TR46/Y121F/T289A/G448S,7
+C20-NRZ-2017-282,C20-NRZ-2017-282,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+C21-NRZ-2017-283,C21-NRZ-2017-283,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+C22-NRZ-2017-322,C22-NRZ-2017-322,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+C23-NRZ-2017-346,C23-NRZ-2017-346,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Susceptible,NA,Germany,MAT1-2,NA,2
+C24-NRZ-2017-362,C24-NRZ-2017-362,Clinical,Clinical; disease unknown,Resistant,Resistant,Resistant,Resistant,NA,Germany,NA,NA,3
+C25-NRZ-2017-381,C25-NRZ-2017-381,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+C26-NRZ-2017-434,C26-NRZ-2017-434,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+C27-NRZ-2017-508,C27-NRZ-2017-508,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+C28-NRZ-2017-534,C28-NRZ-2017-534,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,3
+C29-NRZ-2017-537,C29-NRZ-2017-537,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+C2-NRZ-2015-218,C2-NRZ-2015-218,Clinical,"Clinical; invasive, non-pulmonary",Resistant,Resistant,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+C30-NRZ-2017-546,C30-NRZ-2017-546,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+C31-NRZ-2018-043,C31-NRZ-2018-043,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+C32-NRZ-2018-097,C32-NRZ-2018-097,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,4
+C33-NRZ-2017-101,C33-NRZ-2017-101,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+C34-NRZ-2018-123,C34-NRZ-2018-123,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+C35-NRZ-2018-146,C35-NRZ-2018-146,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+C36-NRZ-2018-236,C36-NRZ-2018-236,Clinical,"Clinical; invasive, non-pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+C37-NRZ-2018-272,C37-NRZ-2018-272,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+C38-NRZ-2018-281,C38-NRZ-2018-281,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+C39-NRZ-2018-286,C39-NRZ-2018-286,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+C3-NRZ-2016-032,C3-NRZ-2016-032,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+C40-NRZ-2018-290,C40-NRZ-2018-290,Clinical,Clinical; chronic,Resistant,Resistant,Susceptible,Resistant,NA,Germany,MAT1-1,TR34/L98H/S297T/F495I,3
+C41-NRZ-2018-300,C41-NRZ-2018-300,Clinical,Clinical; chronic,Resistant,Resistant,Susceptible,Resistant,NA,Germany,MAT1-1,F219L,5
+C42-NRZ-2018-307,C42-NRZ-2018-307,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+C43-NRZ-2018-313,C43-NRZ-2018-313,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Susceptible,Susceptible,NA,Germany,MAT1-2,TR34/L98H,3
+C44-NRZ-2017-339,C44-NRZ-2017-339,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,1
+C45-NRZ-2018-326,C45-NRZ-2018-326,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+C46-NRZ-2018-396,C46-NRZ-2018-396,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,NA,NA,Germany,MAT1-2,NA,3
+C47-NRZ-2018-529,C47-NRZ-2018-529,Clinical,Clinical; chronic,Resistant,Resistant,Resistant,Susceptible,NA,Germany,MAT1-2,NA,7
+C48-NRZ-2018-539,C48-NRZ-2018-539,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Susceptible,NA,Germany,MAT1-1,Y121F,6
+C49-NRZ-2018-646,C49-NRZ-2018-646,Clinical,"Clinical; invasive, non-pulmonary",Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-2,NA,3
+C4-NRZ-2016-063,C4-NRZ-2016-063,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+C50-NRZ-2018-649,C50-NRZ-2018-649,Clinical,Clinical; disease unknown,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+C5-NRZ-2016-071,C5-NRZ-2016-071,Clinical,Clinical; chronic,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+C6-NRZ-2016-108,C6-NRZ-2016-108,Clinical,Clinical; chronic,Resistant,Resistant,Resistant,Susceptible,NA,Germany,MAT1-1,NA,6
+C7-NRZ-2016-121,C7-NRZ-2016-121,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-1,TR34/L98H,7
+C8-NRZ-2016-141,C8-NRZ-2016-141,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+C9-NRZ-2016-342,C9-NRZ-2016-342,Clinical,"Clinical; invasive, pulmonary",Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-1,NA,6
+100-C-1-80s-1,100-C-1-80s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+104-D-2-32L-1,104-D-2-32L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+105-D-2-38L-1,105-D-2-38L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+106-C-1-72s-2,106-C-1-72s-2,Environmental,Environmental,Resistant,Resistant,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+10-C-1-40s-1,10-C-1-40s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+110-C-1-76s-2,110-C-1-76s-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+111-C-1-76s-1,111-C-1-76s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+112-B-1-78L-1,112-B-1-78L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+113-B-1-71L-1,113-B-1-71L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+114-B-1-69L-1,114-B-1-69L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+115-B-1-70s-1,115-B-1-70s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+118-B-1-63s-1,118-B-1-63s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+119-B-1-66s-1,119-B-1-66s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+120-B-1-68s-1,120-B-1-68s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+121-B-1-67L-1,121-B-1-67L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+122-B-1-75L-1,122-B-1-75L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+124-B-1-66L-1,124-B-1-66L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,4
+125-B-1-73L-1,125-B-1-73L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+126-A-2-26s-2,126-A-2-26s-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+128-A-2-27s-1,128-A-2-27s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+12-D-2-44L-1,12-D-2-44L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,4
+13-D-2-43L-1,13-D-2-43L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+14-D-2-43L-2,14-D-2-43L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+153-A-2-48s-2,153-A-2-48s-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+154-A-2-47L-2,154-A-2-47L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+155-A-2-47s-3,155-A-2-47s-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+15-D-2-39L-1,15-D-2-39L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+164-K-1-3L-2,164-K-1-3L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,1
+167-K-1-34L-1,167-K-1-34L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+169-K-1-18L-3,169-K-1-18L-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,3
+16-D-2-39L-2,16-D-2-39L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+174-K-1-32s-1,174-K-1-32s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+179-K-1-1L-5,179-K-1-1L-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+180-K-1-8L-1,180-K-1-8L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+182-K-1-3L-4,182-K-1-3L-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+186-K-1-18L-6,186-K-1-18L-6,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,3
+190-K-1-4s-1,190-K-1-4s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+193-L-2-16-1,193-L-2-16-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+194-L-2-17-1,194-L-2-17-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+197-L-2-7-2,197-L-2-7-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+198-L-2-7-1,198-L-2-7-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+1-D-2-2s-3,1-D-2-2s-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,3
+200-L-2-9-1,200-L-2-9-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+201-L-2-9-5,201-L-2-9-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+205-L-2-15-4,205-L-2-15-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+207-L-2-16-3,207-L-2-16-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+210-L-2-22-4,210-L-2-22-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+211-L-2-11-2,211-L-2-11-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+220-L-2-11-4,220-L-2-11-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+227-F-1-10L-1,227-F-1-10L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+229-K-1-24L-1,229-K-1-24L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+22-C-1-60L-1,22-C-1-60L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+230-K-1-4s-1,230-K-1-4s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+231-K-1-12L-1,231-K-1-12L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+238-F-1-4L-1,238-F-1-4L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+240-F-1-13L-1,240-F-1-13L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+243-F-1-33L-2,243-F-1-33L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,1
+24-C-1-93s-1,24-C-1-93s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+254-F-1-13L-3,254-F-1-13L-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+255-F-1-3L-1,255-F-1-3L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+259-I-1-25-1,259-I-1-25-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+25-D-2-26s-1,25-D-2-26s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+262-I-1-12-1,262-I-1-12-1,Environmental,Environmental,Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-1,TR34/L98H,7
+264-I-1-22-5,264-I-1-22-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,1
+265-I-1-22-4,265-I-1-22-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,1
+269-I-1-32-2,269-I-1-32-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+26-D-2-29s-1,26-D-2-29s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+271-I-1-32-1,271-I-1-32-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+275-I-1-19-2,275-I-1-19-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+285-I-1-2-4,285-I-1-2-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+289-I-1-2-2,289-I-1-2-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,1
+29-D-2-35s-1,29-D-2-35s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+2-D-2-15L-3,2-D-2-15L-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+302-B-1-32-1,302-B-1-32-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+303-B-1-32-3,303-B-1-32-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+305-B-1-48-5,305-B-1-48-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+313-H-1-15-2,313-H-1-15-2,Environmental,Environmental,Resistant,Resistant,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+319-B-1-30-1,319-B-1-30-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+325-C-1-6s-3,325-C-1-6s-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,4
+326-C-1-31s-1,326-C-1-31s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+327-C-1-28L-2,327-C-1-28L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+328-C-1-30L-1,328-C-1-30L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+332-C-1-31L-1,332-C-1-31L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+333-C-1-28L-1,333-C-1-28L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+334-E-1-48-2,334-E-1-48-2,Environmental,Environmental,Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-2,TR34/L98H,7
+336-E-1-49-1,336-E-1-49-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+347-E-1-46-2,347-E-1-46-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+349-E-1-33L-1,349-E-1-33L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+350-E-1-37L-2,350-E-1-37L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+355-E-1-35-1,355-E-1-35-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,3
+373-C-1-40L-2,373-C-1-40L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+375-C-1-6s-2,375-C-1-6s-2,Environmental,Environmental,Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-1,TR34/L98H,7
+377-C-1-33L-2,377-C-1-33L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+382-A-2-35s-1,382-A-2-35s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+383-C-1-27s-1,383-C-1-27s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+386-C-1-33L-1,386-C-1-33L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,4
+390-A-2-36s-3,390-A-2-36s-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,3
+393-A-3-43s-1,393-A-3-43s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,1
+394-L-2-24-1,394-L-2-24-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+3-D-2-2s-2,3-D-2-2s-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+407-L-2-4-3,407-L-2-4-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+410-L-2-21-2,410-L-2-21-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+423-D-2-25L-3,423-D-2-25L-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,1
+424-D-2-22s-1,424-D-2-22s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+429-D-2-25L-2,429-D-2-25L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+439-A-3-46s-1,439-A-3-46s-1,Environmental,Environmental,Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-2,TR34/L98H,7
+43-C-1-69L-1,43-C-1-69L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+441-A-3-45L-2,441-A-3-45L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+442-D-2-17L-1,442-D-2-17L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+451-D-2-24s-1,451-D-2-24s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+452-C-1-51s-1,452-C-1-51s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,1
+453-E-1-56s-1,453-E-1-56s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+454-A-3-40L-1,454-A-3-40L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+459-H-1-21-5,459-H-1-21-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+468-H-1-30-2,468-H-1-30-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+470-E-1-14-1,470-E-1-14-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+473-E-1-7-1,473-E-1-7-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+476-H-1-21-9,476-H-1-21-9,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+477-E-1-25-10,477-E-1-25-10,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+479-L-2-13-4,479-L-2-13-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+47-C-1-72L-1,47-C-1-72L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+480-E-1-21-2,480-E-1-21-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+487-E-1-20-2,487-E-1-20-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,1
+4-C-1-24L-2,4-C-1-24L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+514-H-1-29-2,514-H-1-29-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+52-C-1-64L-2,52-C-1-64L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+540-K-1-1L-2,540-K-1-1L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+542-K-1-48s-1,542-K-1-48s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+545-K-1-8L-3,545-K-1-8L-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+54-C-1-66L-2,54-C-1-66L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+552-H-1-1-2,552-H-1-1-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+55-C-1-66L-3,55-C-1-66L-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+569-H-1-10-6,569-H-1-10-6,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,NA,NA,5
+570-H-1-23-3,570-H-1-23-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+588-I-1-48-3,588-I-1-48-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+592-I-1-49-3,592-I-1-49-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+599-F-1-14-1,599-F-1-14-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+5-C-1-24L-3,5-C-1-24L-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+616-D-2-23L-5,616-D-2-23L-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+625-H-1-26-1,625-H-1-26-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+649-G-2-22-4,649-G-2-22-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,1
+64-C-1-90L-1,64-C-1-90L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+652-G-2-6-1,652-G-2-6-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+653-G-2-1-2,653-G-2-1-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+656-G-2-14-1,656-G-2-14-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+658-G-2-5-2,658-G-2-5-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+663-G-2-3-1,663-G-2-3-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+665-G-2-9-2,665-G-2-9-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+666-L-3-21-1,666-L-3-21-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+669-L-3-21-3,669-L-3-21-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+670-L-3-15-2,670-L-3-15-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,1
+672-L-3-11-1,672-L-3-11-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,5
+676-L-3-13-1,676-L-3-13-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+680-L-3-13-2,680-L-3-13-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+683-L-3-24-1,683-L-3-24-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+684-L-3-7-1,684-L-3-7-1,Environmental,Environmental,Resistant,Resistant,Susceptible,Resistant,NA,Germany,MAT1-2,NA,6
+68-C-1-93L-3,68-C-1-93L-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+690-L-3-22-2,690-L-3-22-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+692-L-3-24-3,692-L-3-24-3,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+698-L-3-11-2,698-L-3-11-2,Environmental,Environmental,Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-1,TR34/L98H,5
+699-A-2-49L-2,699-A-2-49L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+6-C-1-49-1,6-C-1-49-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+701-E-1-75s-1,701-E-1-75s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,3
+703-E-1-66s-1,703-E-1-66s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+704-E-1-70L-4,704-E-1-70L-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+709-A-2-49L-5,709-A-2-49L-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,3
+711-B-1-43-1,711-B-1-43-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+716-E-1-70L-5,716-E-1-70L-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+717-E-1-74s-1,717-E-1-74s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+72-C-1-67s-1,72-C-1-67s-1,Environmental,Environmental,Resistant,Resistant,Resistant,Resistant,NA,Germany,MAT1-1,TR34/L98H,7
+743-B-1-45-5,743-B-1-45-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+746-B-1-45-2,746-B-1-45-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+74-C-1-94L-2,74-C-1-94L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,NA,NA,5
+754-A-3-37s-1,754-A-3-37s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+766-E-1-65L-2,766-E-1-65L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,5
+767-E-1-67s-1,767-E-1-67s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+774-B-1-44-s,774-B-1-44-s,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+788-A-3-30s-2,788-A-3-30s-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+78-C-1-99L-2,78-C-1-99L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+79-C-1-69s-1,79-C-1-69s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+7-C-1-34s-1,7-C-1-34s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,4
+815-A-2-34L-2,815-A-2-34L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+82-D-2-47L-2,82-D-2-47L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+83-D-2-47L-1,83-D-2-47L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+84-D-2-49L-5,84-D-2-49L-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+860-F-1-42-2,860-F-1-42-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+863-A-2-35L-1,863-A-2-35L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+865-A-2-44L-2,865-A-2-44L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+875-E-1-65L-4,875-E-1-65L-4,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,2
+87-D-2-49L-2,87-D-2-49L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+882-F-1-39-1,882-F-1-39-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+901-A-2-45L-5,901-A-2-45L-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+91-D-2-50s-1,91-D-2-50s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+92-D-2-43s-1,92-D-2-43s-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,7
+939-E-1-75s-2,939-E-1-75s-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+93-D-2-48L-1,93-D-2-48L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,2
+940-A-2-43L-2,940-A-2-43L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,3
+94-D-2-28L-1,94-D-2-28L-1,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+969-B-1-26-5,969-B-1-26-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,6
+975-B-1-27-5,975-B-1-27-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+978-B-1-46-5,978-B-1-46-5,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,4
+99-C-1-77s-2,99-C-1-77s-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-2,NA,6
+9-D-2-15L-2,9-D-2-15L-2,Environmental,Environmental,Susceptible,Susceptible,Susceptible,Susceptible,NA,Germany,MAT1-1,NA,7
+Af293-ref,Af293-ref,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,United Kingdom,MAT1-2,NA,NA
+A1163-ref,A1163-ref,Clinical,"Clinical; invasive, pulmonary",Susceptible,Susceptible,Susceptible,Susceptible,NA,France,MAT1-1,NA,NA

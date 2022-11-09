@@ -1,0 +1,397 @@
+,Substrates,Source,ID
+0,L-Arabinose,carbon,C00259
+1,Nicotinate,carbon,C00253
+2,5-Aminolevulinate,carbon,C00430
+3,(R)-Lactate,carbon,C00256
+4,Hypoxanthine,carbon,C00262
+5,beta-Alanine,carbon,C00099
+6,Glyceride,carbon,C01885
+7,Tetradecanoic acid,carbon,C06424
+8,Thiamin diphosphate,carbon,C00068
+9,Glycerophosphocholine,carbon,C00670
+10,Pantothenate,carbon,C00864
+11,3-cyanopyridine,carbon,Cluster6035
+12,Thiamin monophosphate,carbon,C01081
+13,Nicotinamide,carbon,C00153
+14,Phenylacetic acid,carbon,C07086
+15,4-Aminobenzoate,carbon,C00568
+16,alpha-Isopropylmalate,carbon,C02504
+17,Nicotinamide D-ribonucleotide,carbon,C00455
+18,Palmitoleic acid,carbon,C08362
+19,beta-D-Glucose 6-phosphate,carbon,C01172
+20,"3,4-Dihydroxybenzoate",carbon,C00230
+21,Phosphatidate,carbon,C00416
+22,L-Iditol,carbon,C01507
+23,"4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol",carbon,C11455
+24,(S)-Mandelate,carbon,C01984
+25,Quinolinate,carbon,C03722
+26,Gluconolactone,carbon,C00198
+27,Dihydroxyacetone,carbon,C00184
+28,"2,3-Butanediol",carbon,C03044
+29,"Adenosine 3',5'-bisphosphate",carbon,C00054
+30,Propanal,carbon,C00479
+31,alpha-D-Glucose,carbon,C00267
+32,Fecosterol,carbon,C04525
+33,Anthranilate,carbon,C00108
+34,cis-Aconitate,carbon,C00417
+35,Benzoate,carbon,C00180
+36,NADPH,carbon,C00005
+37,D-Erythrose 4-phosphate,carbon,C00279
+38,D-Glyceraldehyde 3-phosphate,carbon,C00118
+39,Methanol,carbon,C00132
+40,Riboflavin,carbon,C00255
+41,D-Ribose 5-phosphate,carbon,C00117
+42,Deoxythymidine triphosphate,carbon,C00459
+43,Lanosterol,carbon,C01724
+44,Succinyl-CoA,carbon,C00091
+45,Benzamide,carbon,C09815
+46,Spermidine,carbon,C00315
+47,CO2,carbon,C00011
+48,Fatty acid,carbon,C00162
+49,NADH,carbon,C00004
+50,Oleic acid,carbon,C00712
+51,"Ergosta-5,7,22,24(28)-tetraen-3beta-ol",carbon,C05440
+52,Tannic acid,carbon,C13452
+53,Allantoate,carbon,C00499
+54,Pectate,carbon,CHEBI15446
+55,Octadecanoic acid,carbon,C01530
+56,D-Galactonate,carbon,C00880
+57,Zymosterol,carbon,C05437
+58,L-Methionine S-oxide,carbon,C02989
+59,Acetaldehyde,carbon,C00084
+60,Isocitrate,carbon,C00311
+61,Folinic acid,carbon,C03479
+62,Ethanol,carbon,C00469
+63,D-Ribulose,carbon,C00309
+64,Mevalonic acid,carbon,C00418
+65,Hexadecanoic acid,carbon,C00249
+66,Spermine,carbon,C00750
+67,Episterol,carbon,C15777
+68,Benzonitrile,carbon,C09814
+69,D-erythro-Imidazole-glycerol 3-phosphate,carbon,C04666
+70,1-Acyl-sn-glycero-3-phosphocholine,carbon,C04230
+71,Glutathione disulfide,carbon,C00127
+72,Ergosterol,carbon,C01694
+73,8-Amino-7-oxononanoate,carbon,C01092
+74,14-Demethyllanosterol,carbon,C05108
+75,Carboxylate,carbon,C00060
+76,(S)-3-Methyl-2-oxopentanoic acid,carbon,C00671
+77,Choline,carbon,C00114
+78,Putrescine,carbon,C00134
+79,Riboflavin-5-phosphate,carbon,C00061
+80,L-Kynurenine,carbon,C00328
+81,Acetyl-CoA,carbon,C00024
+82,S-Methyl-L-methionine,carbon,C03172
+83,Gallate,carbon,C01424
+84,S-Adenosyl-L-methionine,carbon,C00019
+85,D-Xylulose,carbon,C00310
+86,Hydrogencarbonate,carbon,C00288
+87,Oxaloacetate,carbon,C00036
+88,isobutyraldehyde,carbon,CHEBI48943
+89,Imidazole-acetol phosphate,carbon,C01267
+90,Phenylpyruvate,carbon,C00166
+91,Glycolaldehyde,carbon,C00266
+92,2-Methylbutanal,carbon,C02223
+93,Glycerone phosphate,carbon,C00111
+94,Indole-3-acetaldehyde,carbon,C00637
+95,(R)-Mandelate,carbon,C01983
+96,Acyl-[acyl-carrier protein],carbon,C00173
+97,"1,3-beta-D-Glucan",carbon,CHEBI37671
+98,Phenylacetaldehyde,carbon,C00601
+99,Indole,carbon,C00463
+100,2-methylbutan-1-ol,carbon,CHEBI48945
+101,Isobutyl alcohol,carbon,C14710
+102,Shikimate,carbon,C00493
+103,Phenylethyl alcohol,carbon,C05853
+104,Thiamin,carbon,C00378
+105,L-Valine,carbon,C00183
+106,ATP,carbon,C00002
+107,L-Phenylalanine,carbon,C00079
+108,Thymidine,carbon,C00214
+109,L-Asparagine,carbon,C00152
+110,a-Ketoglutaric acid,carbon,C00026
+111,a-Ketobutyric acid,carbon,C00109
+112,a-D-Lactose,carbon,C00243
+113,Sucrose,carbon,C00089
+114,Uridine,carbon,C00299
+115,L-Glutamine,carbon,C00064
+116,D-Glucose-1-Phosphate,carbon,C00103
+117,D-Fructose-6-Phosphate,carbon,C00085
+118,a-Hydroxybutyric acid,carbon,C05984
+119,D-Melibiose,carbon,C05402
+120,Adonitol,carbon,C00474
+121,2`-Deoxyadenosine,carbon,C00559
+122,Adenosine,carbon,C00212
+123,Citric acid,carbon,C00158
+124,m-Inositol,carbon,C00137
+125,Fumaric acid,carbon,C00122
+126,Propionic acid,carbon,C00163
+127,Glycolic acid,carbon,C00160
+128,Glyoxylic acid,carbon,C00048
+129,D-Cellobiose,carbon,C00185
+130,Inosine,carbon,C00294
+131,L-Serine,carbon,C00065
+132,Maltotriose,carbon,CHEBI27931
+133,Maltose,carbon,C00208
+134,a-D-Glucose,carbon,C00031
+135,Acetic acid,carbon,C00033
+136,N-Acetyl-D-Glucosamine,carbon,C00140
+137,D-Saccharic acid,carbon,C00818
+138,Succinic acid,carbon,C00042
+139,D-Galactose,carbon,C00124
+140,L-Aspartic acid,carbon,C00049
+141,L-Proline,carbon,C00148
+142,D-Trehalose,carbon,C01083
+143,D-Mannose,carbon,C00159
+144,Dulcitol,carbon,C01697
+145,D-Serine,carbon,C00740
+146,D-Sorbitol,carbon,C00794
+147,Glycerol,carbon,C00116
+148,L-Fucose,carbon,C01019
+149,D-Glucuronic acid,carbon,C00191
+150,D-Gluconic acid,carbon,C00257
+151,DL-a-Glycerol Phosphate,carbon,C00093
+152,D-Xylose,carbon,C00181
+153,L-Lactic acid,carbon,C00186
+154,Formic acid,carbon,C00058
+155,D-Mannitol,carbon,C00392
+156,L-Glutamic acid,carbon,C00025
+157,D-Glucose-6-Phosphate,carbon,C00092
+158,DL-Malic acid,carbon,C00149
+159,D-Ribose,carbon,C00121
+160,D-Fructose,carbon,C00095
+161,L-Threonine,carbon,C00188
+162,L-Alanine,carbon,C00133
+163,Acetoacetic acid,carbon,C00164
+164,D-Malic acid,carbon,C00497
+165,Capric acid,carbon,C01571
+166,Caproic acid,carbon,C01585
+167,L-Pyroglutamic acid,carbon,C01879
+168,2-Hydroxybenzoic acid,carbon,C00805
+169,4-Hydroxybenzoic acid,carbon,C00156
+170,b-Hydroxybutyric acid,carbon,C01089
+171,Itaconic acid,carbon,C00490
+172,Oxalic acid,carbon,C00209
+173,Quinic acid,carbon,C00296
+174,Acetamide,carbon,C06244
+175,N-Acetyl-L-Glutamic acid,carbon,C00624
+176,L-Arginine,carbon,C00062
+177,Glycine,carbon,C00037
+178,L-Histidine,carbon,C00135
+179,L-Homoserine,carbon,C00263
+180,Hydroxy-L-Proline,carbon,C01157
+181,L-Isoleucine,carbon,C00407
+182,L-Leucine,carbon,C00123
+183,L-Lysine,carbon,C00047
+184,L-Methionine,carbon,C00073
+185,L-Ornithine,carbon,C00077
+186,Butyric acid,carbon,C00246
+187,g-Amino-N-Butyric acid,carbon,C00334
+188,D-Glucosamine,carbon,C00329
+189,Stachyose,carbon,C01613
+190,L-Malic acid,carbon,C00149
+191,p-Hydroxyphenyl Acetic acid,carbon,C00642
+192,Tyramine,carbon,C00483
+193,Pyruvic acid,carbon,C00022
+194,D-Galacturonic acid,carbon,C00333
+195,Phenylethylamine,carbon,C05332
+196,Xylitol,carbon,C00379
+197,Dextrin,carbon,C00721
+198,Glycogen,carbon,C00182
+199,Mannan,carbon,C00721
+200,2-Aminoethanol,carbon,C00189
+201,N-Acetyl-D-Galactosamine,carbon,C01132
+202,N-Acetyl-Neuraminic acid,carbon,C00270
+203,Amygdalin,carbon,C08325
+204,D-Arabinose,carbon,C00216
+205,D-Arabitol,carbon,C01904
+206,L-Arabitol,carbon,C00532
+207,2-Deoxy-D-Ribose,carbon,C01801
+208,L-Sorbose,carbon,C00247
+209,D-Raffinose,carbon,C00492
+210,Pectin,carbon,CHEBI17309
+211,i-Erythritol,carbon,C00503
+212,Spermine,nitrogen,C00750
+213,Benzonitrile,nitrogen,C09814
+214,8-Amino-7-oxononanoate,nitrogen,C01092
+215,1-Acyl-sn-glycero-3-phosphocholine,nitrogen,C04230
+216,Glutathione disulfide,nitrogen,C00127
+217,"Adenosine 3',5'-bisphosphate",nitrogen,C00054
+218,ATP,nitrogen,C00002
+219,D-erythro-Imidazole-glycerol 3-phosphate,nitrogen,C04666
+220,Folinic acid,nitrogen,C03479
+221,g-Amino-N-Butyric acid,nitrogen,C00334
+222,Thiamin,nitrogen,C00378
+223,L-Ornithine,nitrogen,C00077
+224,N-Acetyl-L-Glutamic acid,nitrogen,C00624
+225,L-Pyroglutamic acid,nitrogen,C01879
+226,Methylamine,nitrogen,C00218
+227,Ethanolamine,nitrogen,C00189
+228,Putrescine,nitrogen,C00134
+229,Agmatine,nitrogen,C00179
+230,b-Phenylethylamine,nitrogen,C05332
+231,Tyramine,nitrogen,C00483
+232,Acetamide,nitrogen,C06244
+233,Formamide,nitrogen,C00488
+234,L-Homoserine,nitrogen,C00263
+235,D-Glucosamine,nitrogen,C00329
+236,N-Acetyl-D-Galactosamine,nitrogen,C01132
+237,Adenine,nitrogen,C00147
+238,Adenosine,nitrogen,C00212
+239,Cytidine,nitrogen,C00475
+240,Cytosine,nitrogen,C00380
+241,Guanine,nitrogen,C00242
+242,Guanosine,nitrogen,C00387
+243,Thymidine,nitrogen,C00214
+244,Uracil,nitrogen,C00106
+245,Uridine,nitrogen,C00299
+246,Inosine,nitrogen,C00294
+247,N-Acetyl-D-Glucosamine,nitrogen,C00140
+248,Xanthine,nitrogen,C00385
+249,L-Citrulline,nitrogen,C00327
+250,D-Lysine,nitrogen,C00739
+251,Ammonia,nitrogen,C01342
+252,Nitrite,nitrogen,C00088
+253,Nitrate,nitrogen,C00244
+254,Urea,nitrogen,C00086
+255,L-Alanine,nitrogen,C00133
+256,L-Arginine,nitrogen,C00062
+257,L-Asparagine,nitrogen,C00152
+258,L-Aspartic acid,nitrogen,C00049
+259,L-Cysteine,nitrogen,C00097
+260,L-Glutamic acid,nitrogen,C00025
+261,L-Glutamine,nitrogen,C00064
+262,D-Serine,nitrogen,C00740
+263,Glycine,nitrogen,C00037
+264,L-Isoleucine,nitrogen,C00407
+265,L-Leucine,nitrogen,C00123
+266,L-Lysine,nitrogen,C00047
+267,L-Methionine,nitrogen,C00073
+268,L-Phenylalanine,nitrogen,C00079
+269,L-Proline,nitrogen,C00148
+270,L-Serine,nitrogen,C00065
+271,L-Threonine,nitrogen,C00188
+272,L-Tryptophan,nitrogen,C00078
+273,L-Tyrosine,nitrogen,C00082
+274,L-Valine,nitrogen,C00183
+275,L-Histidine,nitrogen,C00135
+276,Riboflavin-5-phosphate,nitrogen,C00061
+277,Xanthosine,nitrogen,C01762
+278,Allantoin,nitrogen,C01551
+279,Benzamide,nitrogen,C09815
+280,Spermidine,nitrogen,C00315
+281,NADH,nitrogen,C00004
+282,Quinolinate,nitrogen,C03722
+283,3-cyanopyridine,nitrogen,Cluster6035
+284,Nicotinate,nitrogen,C00253
+285,5-Aminolevulinate,nitrogen,C00430
+286,Hypoxanthine,nitrogen,C00262
+287,beta-Alanine,nitrogen,C00099
+288,Thiamin diphosphate,nitrogen,C00068
+289,Glycerophosphocholine,nitrogen,C00670
+290,Succinyl-CoA,nitrogen,C00091
+291,Pantothenate,nitrogen,C00864
+292,Nicotinamide,nitrogen,C00153
+293,4-Aminobenzoate,nitrogen,C00568
+294,Nicotinamide D-ribonucleotide,nitrogen,C00455
+295,Allantoate,nitrogen,C00499
+296,Acetyl-CoA,nitrogen,C00024
+297,S-Methyl-L-methionine,nitrogen,C03172
+298,S-Adenosyl-L-methionine,nitrogen,C00019
+299,Imidazole-acetol phosphate,nitrogen,C01267
+300,Indole-3-acetaldehyde,nitrogen,C00637
+301,Indole,nitrogen,C00463
+302,L-Kynurenine,nitrogen,C00328
+303,Thiamin monophosphate,nitrogen,C01081
+304,Uric acid,nitrogen,C00366
+305,Deoxythymidine triphosphate,nitrogen,C00459
+306,NADPH,nitrogen,C00005
+307,L-Methionine S-oxide,nitrogen,C02989
+308,d-Amino-N-Valeric acid,nitrogen,C00431
+309,Riboflavin,nitrogen,C00255
+310,Choline,nitrogen,C00114
+311,Anthranilate,nitrogen,C00108
+312,D-erythro-Imidazole-glycerol 3-phosphate,phosphorus,C04666
+313,ATP,phosphorus,C00002
+314,NADPH,phosphorus,C00005
+315,D-Erythrose 4-phosphate,phosphorus,C00279
+316,D-Glyceraldehyde 3-phosphate,phosphorus,C00118
+317,D-Ribose 5-phosphate,phosphorus,C00117
+318,Deoxythymidine triphosphate,phosphorus,C00459
+319,Succinyl-CoA,phosphorus,C00091
+320,NADH,phosphorus,C00004
+321,Thiamin diphosphate,phosphorus,C00068
+322,Glycerophosphocholine,phosphorus,C00670
+323,"Adenosine 3',5'-bisphosphate",phosphorus,C00054
+324,Nicotinamide D-ribonucleotide,phosphorus,C00455
+325,beta-D-Glucose 6-phosphate,phosphorus,C01172
+326,Phosphatidate,phosphorus,C00416
+327,Acetyl-CoA,phosphorus,C00024
+328,Imidazole-acetol phosphate,phosphorus,C01267
+329,Glycerone phosphate,phosphorus,C00111
+330,Riboflavin-5-phosphate,phosphorus,C00061
+331,1-Acyl-sn-glycero-3-phosphocholine,phosphorus,C04230
+332,Thiamin monophosphate,phosphorus,C01081
+333,O-Phospho-L-Threonine,phosphorus,C12147
+334,6-Phospho-Gluconic acid,phosphorus,C00345
+335,D-Mannose-1-Phosphate,phosphorus,C00636
+336,"Cytidine 3`,5`-Cyclic Monophosphate",phosphorus,C00941
+337,"Cytidine 2`,3`-Cyclic Monophosphate",phosphorus,C02354
+338,Cytidine 5`-Monophosphate,phosphorus,C00055
+339,Cytidine 2`-Monophosphate,phosphorus,Cluster3292
+340,Adenosine 5`-Monophosphate,phosphorus,C00020
+341,D-Glucosamine-6-Phosphate,phosphorus,C00352
+342,D-Glucose-6-Phosphate,phosphorus,C00092
+343,D-Glucose-1-Phosphate,phosphorus,C00103
+344,Phospho-Glycolic acid,phosphorus,C00988
+345,Phosphoenol Pyruvate,phosphorus,C00074
+346,"Guanosine 3`,5`-Cyclic Monophosphate",phosphorus,C00942
+347,"Guanosine 2`,3`-Cyclic Monophosphate",phosphorus,C06194
+348,Guanosine 5`-Monophosphate,phosphorus,C00144
+349,Guanosine 2`-Monophosphate,phosphorus,Cluster519
+350,D-3-Phospho-Glyceric acid,phosphorus,C00197
+351,D-2-Phospho-Glyceric acid,phosphorus,C00631
+352,Carbamyl Phosphate,phosphorus,C00169
+353,DL-a-Glycerol Phosphate,phosphorus,C00093
+354,D-Mannose-6-Phosphate,phosphorus,C00275
+355,O-Phospho-D-Serine,phosphorus,C02532
+356,O-Phospho-L-Serine,phosphorus,C01005
+357,Adenosine 2`-Monophosphate,phosphorus,CHEBI28223
+358,"Adenosine 3`,5`-Cyclic Monophosphate",phosphorus,C00575
+359,Pyrophosphate,phosphorus,C00013
+360,Tripolyphosphate,phosphorus,C00536
+361,Inositol Hexaphosphate,phosphorus,C01204
+362,Thymidine 5`-Monophosphate,phosphorus,C00364
+363,Phosphate,phosphorus,C00009
+364,O-Phosphoryl-Ethanolamine,phosphorus,C00346
+365,Phosphoryl Choline,phosphorus,C00588
+366,"Uridine 2`,3`-Cyclic Monophosphate",phosphorus,C02355
+367,Uridine 5`-Monophosphate,phosphorus,C00105
+368,Uridine 2`-Monophosphate,phosphorus,Cluster119
+369,2-Aminoethyl Phosphonic acid,phosphorus,C03557
+370,"Adenosine 2`,3`-Cyclic Monophosphate",phosphorus,C02353
+371,Glutathione disulfide,sulfur,C00127
+372,L-Methionine S-oxide,sulfur,C02989
+373,Thiamin,sulfur,C00378
+374,Acyl-[acyl-carrier protein],sulfur,C00173
+375,S-Adenosyl-L-methionine,sulfur,C00019
+376,S-Methyl-L-methionine,sulfur,C03172
+377,Acetyl-CoA,sulfur,C00024
+378,Thiamin monophosphate,sulfur,C01081
+379,Thiamin diphosphate,sulfur,C00068
+380,Taurine,sulfur,C00245
+381,Sulfite,sulfur,C00094
+382,Sulfate,sulfur,C00059
+383,Thiosulfate,sulfur,C00320
+384,L-Cysteine,sulfur,C00097
+385,Cys-Gly,sulfur,C01419
+386,L-Cysteic acid,sulfur,C00506
+387,Cysteamine,sulfur,C01678
+388,L-Cysteine Sulfinic acid,sulfur,C00606
+389,Cystathionine,sulfur,C00542
+390,Glutathione,sulfur,C00051
+391,L-Methionine,sulfur,C00073
+392,"N-Acetyl-D,L-Methionine",sulfur,Cluster582
+393,DL-Lipoamide,sulfur,C00248
+394,Hypotaurine,sulfur,C00519
+395,Succinyl-CoA,sulfur,C00091
