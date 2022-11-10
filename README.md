@@ -1,6 +1,6 @@
 # A_fumigatus_GEM
 This repository contains the data and scripts (Python and R) that were used in generation of a pan-genome and 252 *A. fumigatus* strain genome-scale metabolic models (GEMs) and their interaction simulations with the lung microbiome described by Mirhakkak et al. (2023).
-Running the scripts in A_fumigatus_GEM/src/main.py will generate the results in A_fumigatus_GEM/results.
+Running the scripts in A_fumigatus_GEM/src/ will generate the results in A_fumigatus_GEM/res/.
 
 For instance, one can use the following Terminal command to regenerate the strain GEMs.
 
