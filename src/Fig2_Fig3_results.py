@@ -54,7 +54,7 @@ rxns_252_1_0.to_csv("mohammadmirhakkak/A_fumigatus_GEM/res/rxns_252.csv")
 #### Fig 2.a ####
 #################
 sgem = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/metadata_reformat_supplS3.csv')
-
+number = []
 for mdir in model_dir_252:
 
     model = cobra.io.read_sbml_model(mdir)
@@ -64,8 +64,8 @@ for mdir in model_dir_252:
 
 
     # num genes (total and unique)
-    #number.append(len(model.genes))
-    #number.append(len(model.genes))
+    number.append(len(model.genes))
+    number.append(len(model.genes))
 
     # num total rxns
     number.append(len(model.reactions))
@@ -132,6 +132,7 @@ for mdir in model_dir_252:
     ind = subsgem[subsgem['GEM information']=='unique metabolites'].index[0]
     sgem.iloc[ind,5] = len(unq_met_ids)
 
+sgem['number'] = number
 sgem.to_csv('mohammadmirhakkak/A_fumigatus_GEM/res/metadata_reformat_supplS3_v2.csv')
 
 
