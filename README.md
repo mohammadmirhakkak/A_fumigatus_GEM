@@ -10,7 +10,7 @@ Or the following in interactive python (e.g. ipython3)
 
 `%run A_fumigatus_GEM/src/build_strain_gem.py`
 
-**Dependencies**
+**Python Dependencies**
 
 * COBRApy 0.17.1
 
@@ -29,6 +29,46 @@ Or the following in interactive python (e.g. ipython3)
 * copy
 
 * pandas
+
+* re
+
+* timeit
+
+
+**R packages**
+
+* ggplot2 3.3.6
+
+* ggrepel 0.9.1
+
+* ComplexHeatmap 2.10.0
+
+* circlize 0.4.15
+
+* RColorBrewer 1.1-3
+
+* ggtree 3.2.1
+
+* ape 5.6-2
+
+* tidyverse 1.3.2
+
+* ggstance 0.3.5
+
+* viridis 0.6.2
+
+* dplyr 1.0.9
+
+* ggsignif 0.6.3
+
+* vegan 2.6-2
+
+* tibble 3.1.8
+
+* stringr 1.4.0
+
+
+
 
 
 
