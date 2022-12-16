@@ -1206,7 +1206,7 @@ sulfate_ex.lower_bound = -1000
 
 
 #calibrate the O2 uptake value for normoxic
-glucose_ex.lower_bound = - 0.277
+glucose_ex.lower_bound = - 0.25
 o2_upt = 0
 o2_uptakes = [o2_upt]
 oxygen_ex.lower_bound = o2_upt
@@ -1226,15 +1226,15 @@ plt.grid()
 plt.show()
 
 # Normoxic constrains
-oxygen_ex.lower_bound = - 9
-glucose_ex.lower_bound = - 0.277
-norm_exper = 0.013 
+oxygen_ex.lower_bound = - 14
+glucose_ex.lower_bound = - 0.25
+norm_exper = 0.013
 norm_fba = model.slim_optimize()
 
 # Hypoxic constrains
-oxygen_ex.lower_bound = - 0.09
-glucose_ex.lower_bound = - 0.183
-hypo_exper = 0.01
+oxygen_ex.lower_bound = - 0.14
+glucose_ex.lower_bound = - 0.206
+hypo_exper = 0.011
 hypo_fba = model.slim_optimize()
 
 df_growth = pd.DataFrame({"growth_rate":[round(norm_fba,3),norm_exper,round(hypo_fba,3),hypo_exper],
@@ -1256,10 +1256,10 @@ rlact_ex = model.reactions.get_by_id('EX_C00256[e]')
 df = pd.DataFrame()
 
 # Normoxic constrains
-oxygen_ex.lower_bound = - 9
-glucose_ex.lower_bound = - 0.277
-acet_exper_n = 0.0028
-ethan_exper_n = 0.0025
+oxygen_ex.lower_bound = - 14
+glucose_ex.lower_bound = - 0.25
+acet_exper_n = 0.004
+ethan_exper_n = 0.003
 lact_exper_n = 0
 
 for i in arange(0.9,1.01,0.01):
@@ -1271,11 +1271,11 @@ for i in arange(0.9,1.01,0.01):
     df = pd.concat([df,sub_df])
 
 # Hypoxic constrains
-oxygen_ex.lower_bound = - 0.09
-glucose_ex.lower_bound = - 0.183
-acet_exper_h = 0.016
-ethan_exper_h = 0.0016
-lact_exper_h = 0.00175
+oxygen_ex.lower_bound = - 0.14
+glucose_ex.lower_bound = - 0.206
+acet_exper_h = 0.015
+ethan_exper_h = 0
+lact_exper_h = 0.002
 hypo_fba = model.slim_optimize()
 
 for i in arange(0.9,1.01,0.01):
