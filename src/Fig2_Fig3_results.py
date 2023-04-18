@@ -1,51 +1,20 @@
 import cobra
 import pandas as pd
 import glob
+from cobra.flux_analysis import flux_variability_analysis
 
 
-model_dir = glob.glob('mohammadmirhakkak/A_fumigatus_GEM/GEMs/strain_GEMs/*.xml')
-model_dir_252 = []
-model_dir_48 = []
-for i in model_dir:
-    if 'NRZ' in i:
-        model_dir_252.append(i)
-    else:
-        s = i.split('/')[-1][0]
-        if s.isdigit():
-            model_dir_252.append(i)
-        else:
-            model_dir_48.append(i)
+model_dir_252 = glob.glob('mohammadmirhakkak/A_fumigatus_GEM/GEMs/strain_GEMs/*.xml')
 
-
-
-rxns_300_1_0 = pd.DataFrame()
-for i in model_dir:
+rxns_252_1_0 = pd.DataFrame()
+for i in model_dir_252:
 
     model = cobra.io.read_sbml_model(i)
     rxns_in_model = [r.id for r in model.reactions]
     df = pd.DataFrame({model.name:[1]*len(rxns_in_model)},index = rxns_in_model)
-    rxns_300_1_0 = pd.merge(rxns_300_1_0,df,right_index = True,left_index = True,how = 'outer')
+    rxns_252_1_0 = pd.merge(rxns_252_1_0,df,right_index = True,left_index = True,how = 'outer')
 
-rxns_300_1_0 = rxns_300_1_0.fillna(0)
-
-rxns_300_1_0.to_csv("mohammadmirhakkak/A_fumigatus_GEM/res/rxns_300.csv")
-
-
-
-
-# take the 252 GEMs of German isolates
-cols_300 = rxns_300_1_0.columns
-cols_252 = []
-for i in cols_300:
-    if 'NRZ' in i:
-        cols_252.append(i)
-    else:
-        s = i.split('/')[-1][0]
-        if s.isdigit():
-            cols_252.append(i)
-        else:
-            pass
-rxns_252_1_0 = rxns_300_1_0.loc[:,rxns_300_1_0.columns.isin(cols_252)]
+rxns_252_1_0 = rxns_252_1_0.fillna(0)
 
 rxns_252_1_0.to_csv("mohammadmirhakkak/A_fumigatus_GEM/res/rxns_252.csv")
 
@@ -64,11 +33,13 @@ for mdir in model_dir_252:
     subsgem = sgem[sgem['Strain information']==mid]
 
 
-    # num genes
-    number.append(len(model.genes))
+    # num genes (total and unique)
+    ind = subsgem[subsgem['GEM information']=='total genes'].index[0]
+    sgem.iloc[ind,5] = len(model.genes)
+    ind = subsgem[subsgem['GEM information']=='unique genes'].index[0]
+    sgem.iloc[ind,5] = len(model.genes)
 
     # num total rxns
-    number.append(len(model.reactions))
     ind = subsgem[subsgem['GEM information']=='total reactions'].index[0]
     sgem.iloc[ind,5] = len(model.reactions)
 
@@ -79,7 +50,6 @@ for mdir in model_dir_252:
         i.id = old2new.loc[old2new.new==i.id,'old'].values[0]
     rxn_ids = [i.id for i in model.reactions]
     unq_rxn_ids = set([i.split('[')[0] for i in rxn_ids])
-    number.append(len(unq_rxn_ids))
     ind = subsgem[subsgem['GEM information']=='unique reactions'].index[0]
     sgem.iloc[ind,5] = len(unq_rxn_ids)
 
@@ -88,7 +58,6 @@ for mdir in model_dir_252:
     for i in model.reactions:
         if len(i.genes)>0:
             c+=1
-    number.append(c)
     ind = subsgem[subsgem['GEM information']=='gene-associated reactions'].index[0]
     sgem.iloc[ind,5] = c
 
@@ -98,7 +67,6 @@ for mdir in model_dir_252:
         if i.id[:2]=='EX':
             i.bounds = (-1000,1000)
     orphan_rxns = cobra.flux_analysis.find_blocked_reactions(model)
-    number.append(len(orphan_rxns))
     ind = subsgem[subsgem['GEM information']=='orphan reactions'].index[0]
     sgem.iloc[ind,5] = len(orphan_rxns)
 
@@ -107,7 +75,6 @@ for mdir in model_dir_252:
     for i in model.reactions:
         if i.id[:2]=='EX':
             c+=1
-    number.append(c)
     ind = subsgem[subsgem['GEM information']=='exchange reactions'].index[0]
     sgem.iloc[ind,5] = c
 
@@ -116,19 +83,16 @@ for mdir in model_dir_252:
     for i in model.reactions:
         if i.id[:2]=='DM':
             c+=1
-    number.append(c)
     ind = subsgem[subsgem['GEM information']=='demand reactions'].index[0]
     sgem.iloc[ind,5] = c
 
     # num total mets
-    number.append(len(model.metabolites))
     ind = subsgem[subsgem['GEM information']=='total metabolites'].index[0]
     sgem.iloc[ind,5] = len(model.metabolites)
 
     # num unique metabolites
     met_ids = [i.id for i in model.metabolites]
     unq_met_ids = set([i.split('[')[0] for i in met_ids])
-    number.append(len(unq_met_ids))
     ind = subsgem[subsgem['GEM information']=='unique metabolites'].index[0]
     sgem.iloc[ind,5] = len(unq_met_ids)
 
@@ -142,7 +106,7 @@ sgem.to_csv('mohammadmirhakkak/A_fumigatus_GEM/res/metadata_reformat_supplS3_v2.
 
 rxns_bin = rxns_252_1_0.copy()
 
-rxns_info = pd.read_excel('mohammadmirhakkak/A_fumigatus_GEM/dat/MM_Af_strainGEMs_Supplementary_TableS7.xlsx',sheet_name = 'Reactions',index_col=0)
+rxns_info = pd.read_excel('mohammadmirhakkak/A_fumigatus_GEM/dat/MM_Af_strainGEMs_Supplementary_TableS9.xlsx',sheet_name = 'Reactions',index_col=0)
 rxns_info.loc[rxns_info.SUBSYSTEM=='Demand','SUBSYSTEM'] = 'Other'
 
 rxns_info.SUBSYSTEM = rxns_info.SUBSYSTEM.fillna('Other')

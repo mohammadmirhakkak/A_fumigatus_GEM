@@ -310,4 +310,3 @@ ggplot(df_growth, aes(x=condition, y=growth_rate, fill=type)) +
   ggtitle("Growth prediction") + ylab("Growth rate (mmol/grDW/hr)") + xlab(element_blank()) + coord_flip()
 
 dev.off()
-

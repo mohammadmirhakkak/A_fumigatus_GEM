@@ -329,6 +329,3 @@ for (i in 1:nrow(classifier_bin_rxn_nutri$frame)){
   print(plot)
   dev.off()
 }
-
-
-

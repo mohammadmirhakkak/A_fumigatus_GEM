@@ -9,7 +9,7 @@ from cobra.flux_analysis import flux_variability_analysis
 
 
 #import MAMBO predictions
-met_profile = pd.read_csv("mohammadmirhakkak/A_fumigatus_GEM/dat/diet_median_kraken.csv",index_col=0)
+met_profile = pd.read_csv("mohammadmirhakkak/A_fumigatus_GEM/dat/mambo_media.csv",index_col=0)
 
 
 #import id_mapping
@@ -41,7 +41,7 @@ diets = met_profile.to_dict()
 
 
 #strain model directions
-isolate_dir = glob.glob('mohammadmirhakkak/A_fumigatus_GEM/GEMs/strain_GEMs/AB01-*.xml')
+isolates_dir = glob.glob('mohammadmirhakkak/A_fumigatus_GEM/GEMs/strain_GEMs/AB01-*.xml')
 
 
 #import isolate info
@@ -111,12 +111,6 @@ df_gr_groups_reformat.to_csv("mohammadmirhakkak/A_fumigatus_GEM/res/fba_mambo.cs
 ##### Fig 5c,d #####
 ####################
 
-import pandas as pd
-import cobra
-import glob
-from cobra.flux_analysis import flux_variability_analysis
-
-
 #import isolate info
 isolate_info = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/tree_cluster_metadata_20200826.csv',index_col = 0)
 
@@ -126,7 +120,7 @@ model_dir = glob.glob('mohammadmirhakkak/A_fumigatus_GEM/GEMs/strain_GEMs/AB01-*
 
 
 #import mambo diet
-diet_median = pd.read_csv("mohammadmirhakkak/A_fumigatus_GEM/dat/diet_median_kraken.csv",index_col=0)
+diet_median = pd.read_csv("mohammadmirhakkak/A_fumigatus_GEM/dat/mambo_media.csv",index_col=0)
 
 
 #import id_mapping

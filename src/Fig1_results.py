@@ -1,8 +1,6 @@
 import pandas as pd
 import cobra
-import glob
 import numpy as np
-import pickle
 
 #################
 #### Fig. 1b ####
@@ -77,7 +75,7 @@ gem_info.to_csv("mohammadmirhakkak/A_fumigatus_GEM/res/pan_gem_statistics.csv")
 #### Fig. 1d ####
 #################
 
-rxns_info = pd.read_excel('mohammadmirhakkak/A_fumigatus_GEM/dat/MM_Af_strainGEMs_Supplementary_TableS7.xlsx',sheet_name = 'Reactions',index_col=0)
+rxns_info = pd.read_excel('mohammadmirhakkak/A_fumigatus_GEM/dat/MM_Af_strainGEMs_Supplementary_TableS9.xlsx',sheet_name = 'Reactions',index_col=0)
 
 rxns_info.SUBSYSTEM = rxns_info.SUBSYSTEM.fillna('Other')
 

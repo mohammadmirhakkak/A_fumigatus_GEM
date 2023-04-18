@@ -1,6 +1,7 @@
 import cobra
 import pandas as pd
 import glob
+import re
 
 
 
@@ -180,14 +181,15 @@ def adjust_gpr(s,deleted):
 model_dir = glob.glob('mohammadmirhakkak/A_fumigatus_GEM/GEMs/strain_GEMs/*.xml')
 
 
-identity_score_48 = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/identity_score_48.csv',index_col=0)
-identity_score_252 = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/identity_score_252.csv',index_col=0)
 
-identity_score = pd.merge(identity_score_48,identity_score_252,how='outer', left_index=True, right_index=True)
+identity_score = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/identity_score_252.csv',index_col=0)
 identity_score = identity_score.fillna(0)
 
 #ID unification to have the same IDs as Model IDs
 identity_score = unify_gene_id(identity_score)
+
+# import model information
+model_info = pd.read_excel('mohammadmirhakkak/A_fumigatus_GEM/dat/MM_Af_strainGEMs_Supplementary_TableS9.xlsx', engine='openpyxl', sheet_name = 'Reactions',index_col=0)
 
 #unique list of genes in the model
 grRules = list(model_info['GENE ASSOCIATION'])
@@ -217,7 +219,6 @@ for i in model_dir:
 
     for gene in del_genes:
         if gene in isolate_model.genes:
-            genes_still_in.append(gene) # store the genes that need to be deleted
 
             # Modify the gpr accordingly
             rxns = isolate_model.genes.get_by_id(gene).reactions

@@ -1,6 +1,6 @@
 import pandas as pd
 import cobra
-from cobra import Model, Metabolite, Reaction
+from cobra import Model, Reaction
 import re
 from cobra.flux_analysis import flux_variability_analysis
 from cobra.flux_analysis import fastcc
@@ -70,17 +70,16 @@ def del_rxn_give_rest(del_rxns,del_ids,permanent_deletion):
             del_rxns[i].bounds = (0,0)
             del_prior_rxns_new.append(del_rxns[i])
             del_prior_ids_new.append(del_ids[i])
-        else:
-            rest_rxns_new.append(del_rxns[i])
-            rest_ids_new.append(del_ids[i])
                 
     return del_prior_rxns_new,del_prior_ids_new,bounds,del_rxns_new,del_ids_new
+
 
 def del_one_rest_fva(del_rxns,next_one):
     bound = del_rxns[next_one].bounds
     del_rxns[next_one].bounds = (0,0)
     single_del_id = del_rxns[next_one].id
     return del_rxns,bound,single_del_id
+
 
 def random_deletion(del_rxns,del_ids,rand_selections,index):
     del_prior_rxns_new = []
@@ -100,7 +99,6 @@ def random_deletion(del_rxns,del_ids,rand_selections,index):
     return del_prior_rxns_new,del_prior_ids_new,del_rxns_new,del_ids_new
 
 def max_min_grRule(a):
-    sign_locs = []
     before_sign_close_pr = 0
     before_sign_open_pr = 0
     sign = 'none'
@@ -116,11 +114,9 @@ def max_min_grRule(a):
 
         if sign in ['and','or'] and a[i]==')':
             before_sign_close_pr += 1
-            pr_occured = True
         if sign in ['and','or'] and a[i]=='(':
             before_sign_open_pr += 1
-            pr_occured = True
-
+            
         if before_sign_open_pr == before_sign_close_pr + 1:
             if a[i-3:i] not in ['max','min']:
                 if sign=='and':
@@ -162,11 +158,9 @@ def set_minimal_media(m):
 #import identity matrix which was completed in tongta_data_connection folder, Aspergilli model and model_info
 #I must keep in mind that every time I'm using the last version of identity matrix, model and model_info
 model = cobra.io.read_sbml_model('mohammadmirhakkak/A_fumigatus_GEM/GEMs/Pan_aspergillus_fumigatus.xml')
-model_info = pd.read_excel('mohammadmirhakkak/A_fumigatus_GEM/dat/MM_Af_strainGEMs_Supplementary_TableS7.xlsx',sheet_name = 'Reactions',index_col=0)
-identity_score_48 = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/identity_score_48.csv',index_col=0)
-identity_score_252 = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/identity_score_252.csv',index_col=0)
+model_info = pd.read_excel('mohammadmirhakkak/A_fumigatus_GEM/dat/MM_Af_strainGEMs_Supplementary_TableS9.xlsx',sheet_name = 'Reactions',index_col=0)
+identity_score = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/identity_score_252.csv',index_col=0)
 
-identity_score = pd.merge(identity_score_48,identity_score_252,how='outer', left_index=True, right_index=True)
 identity_score = identity_score.fillna(0)
 
 #ID unification to have the same IDs as Model IDs
