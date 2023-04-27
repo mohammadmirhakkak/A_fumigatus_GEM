@@ -616,23 +616,6 @@ catabolic.to_csv("mohammadmirhakkak/A_fumigatus_GEM/res/catabolic_activity.csv")
 isolate_info = pd.read_csv('mohammadmirhakkak/A_fumigatus_GEM/dat/tree_cluster_metadata_20200826.csv',index_col = 0)
 
 
-#strain model directions
-model_dir = glob.glob('mohammadmirhakkak/A_fumigatus_GEM/GEMs/strain_GEMs/*.xml')
-model_dir_252 = []
-model_dir_48 = []
-for i in model_dir:
-    if 'NRZ' in i:
-        model_dir_252.append(i)
-    else:
-        s = i.split('/')[-1][0]
-        if s.isdigit():
-            model_dir_252.append(i)
-        else:
-            model_dir_48.append(i)
-
-
-
-
 diet_mm = {'EX_CHEBI29033[e]':-1000,
            'EX_C00001[e]':-1000,
            'EX_C00007[e]':-1000,
