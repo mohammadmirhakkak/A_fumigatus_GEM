@@ -1076,14 +1076,11 @@ gr_pred_before.to_csv('mohammadmirhakkak/A_fumigatus_GEM/res/gr_pred_draft.csv')
 #################
 #Gene essentiality
 
-#after refinement
-essential_genes = pd.read_csv("mohammadmirhakkak/A_fumigatus_GEM/dat/essentialAndNon_genes_hu_et_al.csv")
-#aaa_essential_genes = pd.read_csv("Documents/Aspergillus_fumigatus/works_ncom_revision/aromatic_essential_genes.csv",index_col=0)
-model_after = cobra.io.read_sbml_model('mohammadmirhakkak/A_fumigatus_GEM/GEMs/Pan_aspergillus_fumigatus.xml')
+import itertools
 
-#change the reaction IDs to the old ones.
-for i in model_after.reactions:
-    i.id = old2new.loc[old2new.new==i.id,'old'].values[0]
+#after refinement
+model_after = cobra.io.read_sbml_model('mohammadmirhakkak/A_fumigatus_GEM/GEMs/Pan_aspergillus_fumigatus.xml')
+df_essentiality = pd.read_csv("mohammadmirhakkak/A_fumigatus_GEM/dat/gene_essentiality.csv")
 
 #inhibit influxes
 for i in model_after.reactions:
@@ -1107,73 +1104,51 @@ sulfate_ex.lower_bound = -1000
 phosphate_ex.lower_bound = -1000
 ammonia_ex.lower_bound = -1000
 
-df_essentiality = pd.DataFrame({'gene':essential_genes['gene'],'data_essential':essential_genes['essential']})
-df_essentiality = df_essentiality.drop_duplicates()
-
-unq_genes = list(df_essentiality['gene'])
-predicted_essential = list()
-objective_value = list()
-
-for i in unq_genes:
+single_ko = []
+double_ko = []
+for gene_string in df_essentiality['A. fumigatus gene ID']:
     
-    sub_df = essential_genes[essential_genes['gene']==i]
-    rxns_bounds = list()
-    rxns = list()
-
-    #CHS2: no specific Afu gene relates to that. They are all in Or relationship
-    if i=='CHS2':
-        objective_value.append(model_after.slim_optimize())
-        if sol.objective_value < 0.001:
-            predicted_essential.append(1)
-        else:
-            predicted_essential.append(0)
-        continue
+    ko_genes = gene_string.split('/')
     
-    for j in range(sub_df.shape[0]):
-        r = model_after.reactions.get_by_id(sub_df['reaction'].iloc[j])
-        rxns_bounds.append(r.bounds)
-        rxns.append(r)
-
-        r.bounds = (0,0)
-
-    sol = model_after.optimize()
-    objective_value.append(sol.objective_value)
-
-    if sol.objective_value<0.001:
-        predicted_essential.append(1)
+    ko = 0
+    for g in ko_genes:
+        
+        with model_after:
+            model_after.genes.get_by_id(g).knock_out()
+            if model_after.slim_optimize() < 0.001:
+                ko = 1
+                break
+    if ko==1:
+        single_ko.append(1)
     else:
-        predicted_essential.append(0)
-
-    for i in range(len(rxns)):
-        rxns[i].bounds = rxns_bounds[i]
-
-
-
-df_essentiality['predicted_essential'] = predicted_essential
-
-"""
-df_essentiality_aaa = pd.DataFrame({'gene':aaa_essential_genes['gene'],'data_essential':aaa_essential_genes['essential']})
-predicted_essential = []
-
-for i in aaa_essential_genes.afum_gene.values:
-    model_copied = model_after.copy()
-    model_copied.genes.get_by_id(i).knock_out()
-    gr = model_copied.slim_optimize()
-    if gr < 0.001:
-        predicted_essential.append(1)
+        single_ko.append(0)
+    
+    
+    double_genes = list(itertools.combinations(ko_genes, 2))
+    
+    ko = 0
+    for g2 in double_genes:
+        
+        with model_after:
+            model_after.genes.get_by_id(g2[0]).knock_out()
+            model_after.genes.get_by_id(g2[1]).knock_out()
+            if model_after.slim_optimize() < 0.001:
+                ko = 1
+                break
+    if ko==1:
+        double_ko.append(1)
     else:
-        predicted_essential.append(0)
+        double_ko.append(0)
 
-df_essentiality_aaa['predicted_essential'] = predicted_essential
+predicted_essential = np.array(single_ko) | np.array(double_ko)
 
-df_essentiality = pd.concat([df_essentiality,df_essentiality_aaa])
-"""
+df_essentiality['prediction'] = predicted_essential
 
 acc_after = pd.DataFrame(data = {'pred_essential':[0,0],'pred_non_essential':[0,0]},index = ['data_essential','data_non_essential'])
-acc_after.iloc[0,0] = df_essentiality.query('data_essential==1 and predicted_essential==1').shape[0]
-acc_after.iloc[0,1] = df_essentiality.query('data_essential==1 and predicted_essential==0').shape[0]
-acc_after.iloc[1,0] = df_essentiality.query('data_essential==0 and predicted_essential==1').shape[0]
-acc_after.iloc[1,1] = df_essentiality.query('data_essential==0 and predicted_essential==0').shape[0]
+acc_after.iloc[0,0] = df_essentiality.query('experiment==1 and prediction==1').shape[0]
+acc_after.iloc[0,1] = df_essentiality.query('experiment==1 and prediction==0').shape[0]
+acc_after.iloc[1,0] = df_essentiality.query('experiment==0 and prediction==1').shape[0]
+acc_after.iloc[1,1] = df_essentiality.query('experiment==0 and prediction==0').shape[0]
 
 acc_after.to_csv("mohammadmirhakkak/A_fumigatus_GEM/res/Fig1g_gene_essentiality.csv")
 
