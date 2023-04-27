@@ -1,53 +1,23 @@
-###################
-##### Fig. S2 #####
-###################
 
-library("ggtree")
-library("ape")
-library("tidyverse")
-library("ggstance")
-library("RColorBrewer")
-
-fum_tree <- read.tree("mohammadmirhakkak/A_fumigatus_GEM/dat/core_nucleotide_clonalML.newick")
-metadata <- read_csv("mohammadmirhakkak/A_fumigatus_GEM/dat/metadata_2021-07-05.csv")
-isolate_info <- read_csv("mohammadmirhakkak/A_fumigatus_GEM/dat/tree_cluster_metadata_20200826.csv",row.names = 1,header = TRUE)
-
-all_tips = fum_tree$tip.label
-tips_252 = isolate_info$Sample
-drop_tips = setdiff(all_tips,tips_252)
-fum_tree <- drop.tip(fum_tree, drop_tips)
-
-metadata$cluster = as.character(metadata$cluster)
-
-#row.names(metadata) = metadata$id
-#metadata = metadata[1:300,]
-#metadata = metadata[match(fum_tree$tip.label, metadata$id),]
-
-p2 <- ggtree(fum_tree, branch.length='none') %<+% metadata + geom_tippoint(aes(color = source), size=1.5) + 
-  scale_color_manual(values = c("magenta","green"),labels = c("Clinical","Environmental")) + theme_tree2(legend.position = 'top')
+library(tidyverse)
+library(ggplot2)
+library(ggpubr)
 
 
-acc_reactome = read.csv("mohammadmirhakkak/A_fumigatus_GEM/res/acc_5_genes.csv",row.names = 1,header = TRUE)
-#strain_genome$Genome <- factor(strain_genome$Genome)
-#strain_genome$Genome = fct_rev(strain_genome$Genome)
+feat_df <- read_tsv("../dat/results_source_contributions_matrix.tsv")
+feat_long_df <- feat_df%>% pivot_longer(!sample) 
+feat_long_df$group <- NA
+feat_long_df$group[str_detect(feat_long_df$name, "Env")] <- "Environment"
+feat_long_df$group[str_detect(feat_long_df$name, "Oral")] <- "Oral"
+feat_long_df$group[str_detect(feat_long_df$name, "CF")] <- "Cystic fibrosis"
+feat_long_df$group[str_detect(feat_long_df$name, "Unknown")] <- "Unknown"
+plot_df <- feat_long_df %>% group_by(sample,group) %>% summarise("Source proportion"=sum(value))
 
-#remove AB01 for isolate IDs
-for (i in 1:nrow(acc_reactome)){
-  acc_reactome$isolates[i] <- str_remove(acc_reactome$isolates[i],"AB01-")
-  if (grepl(x = acc_reactome$isolates[i],pattern = ".1",fixed = TRUE)){
-    acc_reactome$isolates[i] <- substr(x = acc_reactome$isolates[i],start = 1,stop = (nchar(acc_reactome$isolates[i])-2))
-  }
-}
-
-acc_reactome <- acc_reactome %>% select(isolates, Accessory, num)
-
-
-#set color as many as rows for the barplot
-colors <- brewer.pal(n=5,"Set3")
-new_colors = rep(colors,252)
-
-
-svg(file = "mohammadmirhakkak/A_fumigatus_GEM/res/FigS2_acc_genes.svg",width = 10,height = 10)
-facet_plot(p2,data = acc_reactome,geom = geom_barh,panel = "Accessory",
-           mapping = aes(fill=Accessory, x=num), stat = "identity")
-dev.off()
+p1 <- ggplot(data=plot_df, mapping = aes(x=group,y=`Source proportion`,fill=group))+ 
+  geom_boxplot(lwd=1.1)+
+  theme_pubr()+  
+  scale_fill_brewer(palette="RdBu")+
+theme(plot.title = element_text(size = 30, hjust = 0.5),  text = element_text(size = 30), legend.title = element_blank() , axis.text.x=element_blank(),axis.line = element_line(colour = 'black', size = 1),axis.ticks = element_line(colour = "black", size = 1),axis.ticks.length=unit(.4, "cm"),axis.text=element_text(size=30),
+        legend.key.size = unit(1, "cm"),legend.text=element_text(size=18))+
+  stat_compare_means(comparisons =list(c("Cystic fibrosis","Environment"),c("Cystic fibrosis", "Oral")),label.x =1.5, label.y=1,size=8,paired=T)
+ggsave("../res/S2.pdf",p1, width=10, height = 10)

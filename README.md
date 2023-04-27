@@ -69,10 +69,9 @@ Or the following in interactive python (e.g. ipython3)
 
 * stringr 1.4.0
 
+* phyloseq 1.34.0
 
-
-
-
+* ggpubr 0.4.0
 
 
 **Citation**
