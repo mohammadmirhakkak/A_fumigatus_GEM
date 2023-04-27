@@ -18,7 +18,7 @@ Or the following in interactive python (e.g. ipython3)
 
 
 
-**Python Built-In Modules:**
+**Python Modules:**
 
 * glob
 
@@ -33,6 +33,8 @@ Or the following in interactive python (e.g. ipython3)
 * re
 
 * timeit
+
+* itertools
 
 
 **R packages**
