@@ -11,7 +11,7 @@ library(magrittr)
 library(tidyverse)
 
 meta_df <- read_csv('../dat/clinical_data.csv')
-meta_df <- meta_df%>%arrange(clinic_id,cohort,clinic_id)
+meta_df <- meta_df%>%arrange(cohort,clinic_id)
 meta_df <- as.data.frame(meta_df)
 meta_df <-  meta_df[c("Ifd.Nummer", "cohort","clinic_id")]
 colnames(meta_df) <- c("Sample", "Cohort","clinic_id")
