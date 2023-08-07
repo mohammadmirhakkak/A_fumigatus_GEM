@@ -76,4 +76,4 @@ Or the following in interactive python (e.g. ipython3)
 
 **Citation**
 
-Mirhakkak, M.H., Chen, X., ... , Schäuble, S., Panagiotou, G. A pan-genome resembling genome-scale metabolic model platform of 252 Aspergillus fumigatus strains reveals growth dependencies on the lung microbiome. Nature Communications (2023).
+Mirhakkak, M. H., Chen, X., Ni, Y., Heinekamp, T., Sae-Ong, T., Xu, L. L., ..., Schäuble, S. & Panagiotou, G. (2023). Genome-scale metabolic modeling of Aspergillus fumigatus strains reveals growth dependencies on the lung microbiome. Nature Communications, 14(1), 4369.
